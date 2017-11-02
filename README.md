@@ -30,8 +30,8 @@ Phonetic measures and humidity:
 
 ### Larry King's speech
 
-Available here: https://github.com/seannyD/LarryKingSpeech
+Available here: [https://github.com/seannyD/LarryKingSpeech](https://github.com/seannyD/LarryKingSpeech)
 
 ### Corpus study: production
 
-See otherAnalyses/CorpusProduction_CHILDES/
+[Main analysis pdf](https://github.com/seannyD/HumidityToneReplication/blob/master/otherAnalyses/CorpusProduction_CHILDES/analyseChildesTones.pdf)
