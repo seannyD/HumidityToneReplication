@@ -1,0 +1,393 @@
+date	parts	childID	language	corpus	code	age	sex	group	SES	role	education	wordCount	T1	T2	T3	T4	T5	T6
+01-JAN-1999	CHI Gok_yu_hin Target_Child , INV Investigator , IN2 Investigator	CHI	nan , eng	HKU	CHI	2;05.01	male			Target_Child		1435	445	228	303	190	225	115
+01-JAN-1999	CHI Gok_yu_hin Target_Child , INV Investigator , IN2 Investigator	CHI	nan , eng	HKU	CHI	2;05.01	male			Target_Child		1435	445	228	303	190	225	115
+04-JUN-1998	CHI Wong_Cheuk_Sze Target_Child , INV May_Poon Investigator	CHI	yue , eng	HKU	CHI	2;05.11	female			Target_Child		1293	370	186	284	186	165	128
+	CHI Tong_Bo_Hin Target_Child , INV Pang Investigator	CHI	yue , eng	HKU	CHI	2;05.12	male			Target_Child		840	254	123	181	117	77	75
+	CHI Arabella_Rose_Christina_Tung Target_Child , INV Investigator , IN2 Investigator	CHI	yue , eng	HKU	CHI	2;05.14	female			Target_Child		1007	275	144	206	137	149	103
+	CHI Au_Ho_Wing Target_Child , INV Pang Investigator	CHI	yue , eng	HKU	CHI	2;05.15	male			Target_Child		736	243	132	180	101	65	57
+01-JUN-1998	CHI Law_Wai_Lam Target_Child , INV Gloric_Ho Investigator	CHI	yue , eng	HKU	CHI	2;5.	female			Target_Child		1209	309	146	266	146	151	104
+21-FEB-2000	CHI Lau_Yung_Wai Target_Child , INV Linda_Chow Investigator	CHI	yue , eng	HKU	CHI	2;05.23	female			Target_Child		1403	425	201	267	179	219	218
+	CHI Fung_Yuen_Sun Target_Child , INV Karen_Chan Investigator , IN2 Investigator	CHI	yue , eng	HKU	CHI	2;05.27	male			Target_Child		1019	251	144	221	98	162	132
+04-JUN-1998	CHI Cheng_Yin_Kiu Target_Child , INV May_Poon Investigator , IN2 Investigator	CHI	yue , eng	HKU	CHI	2;05.30	male			Target_Child		1085	273	211	210	193	98	118
+21-FEB-2000	CHI Kwok_Oi_Man Target_Child , INV Linda_Chow Investigator	CHI	yue , eng	HKU	CHI	2;06.01	female			Target_Child		1383	378	258	289	195	208	142
+	CHI Cheung_Sin_Yin Target_Child , INV Dorene_Siu Investigator	CHI	yue , eng	HKU	CHI	2;11.06	female			Target_Child		1140	297	169	270	195	173	123
+	CHI Tsui_Tsz_Ching Target_Child , INV May_Poon Investigator	CHI	yue , eng	HKU	CHI	2;11.16	female			Target_Child		1372	345	267	271	218	132	209
+10-JUN-1998	CHI Lee_Lok_Hin Target_Child , INV Karen_Chan Investigator	CHI	yue , eng	HKU	CHI	2;11.19	male			Target_Child		888	229	153	196	106	144	128
+04-JUN-1998	CHI Lee_Chun_Kit Target_Child , INV Nichole_Li Investigator	CHI	yue , eng	HKU	CHI	2;11.19	male			Target_Child		1064	278	163	190	195	174	136
+10-JUN-1998	CHI Lo_Wing_Shuen Target_Child , INV Pang Investigator	CHI	yue , eng	HKU	CHI	2;11.28	male			Target_Child		1170	377	212	266	157	140	108
+	CHI L_Chun_Ngai Target_Child , INV Karen_Chan Investigator	CHI	yue , eng	HKU	CHI	2;11.29	male			Target_Child		883	266	146	196	142	100	157
+	CHI Yip_chung_hin Target_Child , INV Investigator	CHI	yue , eng	HKU	CHI	2;11.30	male			Target_Child		1215	346	173	245	196	160	128
+01-JUN-1999	CHI Ceoi_wing_tong Target_Child , IN1 May_Poon Investigator , IN2 Investigator	CHI	yue , eng	HKU	CHI	3;00.29	female			Target_Child		860	246	144	175	131	119	113
+01-DEC-1999	CHI Dang_gwan_cing Target_Child , INV Investigator	CHI	yue , eng	HKU	CHI	3;01.05	female			Target_Child		1150	296	213	242	188	163	123
+21-FEB-2000	CHI Lam_Ching_Lam Target_Child , INV Linda_Chow Investigator	CHI	yue , eng	HKU	CHI	3;01.06	female			Target_Child		1377	369	227	276	180	201	190
+	CHI Tsang_Yuen_Yee Target_Child , INV Gloric_Ho Investigator	CHI	yue , eng	HKU	CHI	3;5.	male			Target_Child		874	273	124	207	90	121	132
+11-JUN-1998	CHI Chan_Pui_Yu Target_Child , INV Karen_Chan Investigator	CHI	yue , eng	HKU	CHI	3;5.16	female			Target_Child		789	252	152	137	114	102	132
+01-DEC-1999	CHI Mo_Sai_Hin Target_Child , INV Investigator	CHI	yue , eng	HKU	CHI	3;5.20	male			Target_Child		1363	365	186	240	206	228	161
+	CHI Au_Yeung_Zhong_Ching Target_Child , INV Pang Investigator , HEL Housekeeper	CHI	yue , eng	HKU	CHI	3;05.23	female			Target_Child		1099	372	174	249	181	120	123
+	CHI Lam_Man Target_Child , INV Wendy_Wong Investigator , IN2 Investigator	CHI	yue , eng	HKU	CHI	3;06.02	female			Target_Child		1181	278	179	249	200	204	130
+04-JUN-1994	CHI Wong_Ci-Kin Target_Child , INV May_Poon Investigator	CHI	yue , eng	HKU	CHI	3;6.	male			Target_Child		1197	337	237	247	225	110	168
+	CHI Ng_May_Chi Target_Child , INV Dorene_Sin Investigator , IN2 Investigator	CHI	yue , eng	HKU	CHI	3;06.20	female			Target_Child		1328	356	168	313	206	191	177
+21-FEB-2000	CHI Lam_Chi_Him Target_Child , INV Linda_Chow Investigator	CHI	yue , eng	HKU	CHI	3;06.22	male			Target_Child		1648	415	235	342	232	276	228
+01-JUN-1998	CHI Sin_W_S Target_Child , INV Nichole_Li Investigator , IN2 Investigator	CHI	yue , eng	HKU	CHI	3;06.27	female			Target_Child		1296	363	224	287	226	186	152
+	CHI Gung_Hei_Kun Target_Child , INV Gloric_Ho Investigator	CHI	yue , eng	HKU	CHI	3;07.01	male			Target_Child		705	202	112	163	89	104	84
+04-JUN-1998	CHI Lee_Hoi_Kei Target_Child , INV Nichole_Li Investigator	CHI	yue , eng	HKU	CHI	3;10.26	female			Target_Child		1146	282	194	247	230	160	134
+	CHI CHAN_Yik Target_Child , INV Investigator	CHI	yue , eng	HKU	CHI	3;11.01	male			Target_Child		914	230	131	182	130	148	116
+	CHI Lee_Chun_Leung Target_Child , INV Dorene_Sin Investigator	CHI	yue , eng	HKU	CHI	3;11.01	male			Target_Child		1402	378	191	377	238	238	149
+01-DEC-1999	CHI Cheung_King_Yiu Target_Child , INV Dorene_Siu Investigator	CHI	yue , eng	HKU	CHI	3;11.13	male			Target_Child		1182	288	142	277	163	152	135
+	CHI Chong_Gar_Wing Target_Child , INV Pang Investigator	CHI	yue , eng	HKU	CHI	3;11.17	female			Target_Child		813	266	137	167	135	78	96
+14-JUN-1998	CHI Yim_Chuen_Yiu Target_Child , INV May_Poon Investigator	CHI	yue , eng	HKU	CHI	4;00.01	male			Target_Child		1432	322	191	284	202	196	195
+	CHI Chow_Bui_Lok Target_Child , INV Wendy_Wong Investigator	CHI	yue , eng	HKU	CHI	4;00.21	female			Target_Child		1170	304	186	246	215	169	143
+	CHI Au_Chiu_Ting Target_Child , INV Pang Investigator	CHI	yue , eng	HKU	CHI	4;00.24	male			Target_Child		881	337	149	186	141	99	84
+04-JUN-1998	CHI Cheung_Yuen_Wun Target_Child , INV Karen_Chan Investigator	CHI	yue , eng	HKU	CHI	4;01.13	female			Target_Child		1007	310	175	227	120	140	109
+02-JUN-1998	CHI Ma_Ching_Nam Target_Child , INV Nichole_Li Investigator , IN2 Investigator	CHI	yue , eng	HKU	CHI	4;02.	female			Target_Child		858	256	161	171	127	118	118
+	CHI To_Zi_Ming Target_Child , INV Dorene_Sin Investigator	CHI	yue , eng	HKU	CHI	4;04.16	female			Target_Child		1436	389	190	310	259	265	172
+11-JUN-1998	CHI Ip_Hei_Yi Target_Child , INV Nichole_Li Investigator	CHI	yue , eng	HKU	CHI	4;05.15	female			Target_Child		1228	296	184	200	208	184	144
+08-JUN-1998	CHI Law_Chen_Lun Target_Child , INV May_Poon Investigator	CHI	yue , eng	HKU	CHI	4;05.19	male			Target_Child		1144	252	171	226	222	132	144
+02-MAR-1999	CHI Lo_Lim_Wai Target_Child , INV Investigator	CHI	yue , eng	HKU	CHI	4;05.23	male			Target_Child		1527	439	241	268	235	203	171
+11-JUN-1998	CHI Lee_Hong_Chun Target_Child , INV Karen_Chan Investigator	CHI	yue , eng	HKU	CHI	4;5.27	male			Target_Child		712	205	134	163	91	88	94
+12-JUN-1998	CHI Cheng_Wai_Fung Target_Child , INV Pang Investigator	CHI	yue , eng	HKU	CHI	4;06.01	male			Target_Child		878	265	152	183	135	125	114
+12-JUN-1998	CHI Stephanie_Tang Target_Child , INV Gloric_Ho Investigator	CHI	yue , eng	HKU	CHI	4;07.01	female			Target_Child		672	153	86	144	130	78	85
+	CHI Lai_Ho Target_Child , INV Dorene_Sin Investigator	CHI	yue , eng	HKU	CHI	4;07.02	female			Target_Child		981	288	139	237	169	128	136
+	CHI Hung_Cho_Yan Target_Child , INV Wendy_Wong Investigator	CHI	yue , eng	HKU	CHI	4;07.02	female			Target_Child		1092	283	201	218	189	177	143
+10-JUN-1998	CHI Ching_Gi_Chun Target_Child , INV Wendy_Wong Investigator	CHI	yue , eng	HKU	CHI	4;07.05	male			Target_Child		638	146	104	144	115	116	87
+10-JUN-1998	CHI Pang_Man_Hang Target_Child , INV Wendy_Wong Investigator	CHI	yue , eng	HKU	CHI	4;10.02	female			Target_Child		1089	260	196	200	179	213	149
+10-JUN-1998	CHI Lam_Jat_Keung Target_Child , INV Karen_Chan Investigator	CHI	yue , eng	HKU	CHI	5;00.05	male			Target_Child		635	187	104	132	76	70	99
+11-JUN-1998	CHI Cheung_Wai_Chung Target_Child , INV Gloric Investigator	CHI	yue , eng	HKU	CHI	5;00.10	male			Target_Child		774	179	105	161	123	96	112
+12-JUN-1998	CHI Chan_Ka_kin Target_Child , INV Dorene_Sin Investigator	CHI	yue , eng	HKU	CHI	5;00.15	male			Target_Child		1128	333	161	257	205	137	168
+01-DEC-2222	CHI Lam_zi_ying Target_Child , INV Investigator	CHI	yue , eng	HKU	CHI	5;00.16	female			Target_Child		737	215	124	149	87	123	86
+11-JUN-1998	CHI Kung_Hei_Nong Target_Child , INV Nichole_Li Investigator	CHI	yue , eng	HKU	CHI	5;00.23	male			Target_Child		1024	242	162	174	172	171	118
+	CHI Chan_Ho Target_Child , INV May_Poon Investigator	CHI	yue , eng	HKU	CHI	5;00.25	male			Target_Child		1263	308	267	245	230	141	168
+	CHI Wong_Si_Wah Target_Child , INV Gloric_Ho Investigator	CHI	yue , eng	HKU	CHI	5;01.18	female			Target_Child		1138	337	139	251	136	125	110
+10-JUN-1998	CHI Hung_Ka_Kei Target_Child , INV Nicole_Li Investigator	CHI	yue , eng	HKU	CHI	5;01.21	female			Target_Child		928	252	141	180	156	123	110
+04-JUN-1998	CHI Yung_Wai_Ga Target_Child , INV May_Poon Investigator	CHI	yue , eng	HKU	CHI	5;02.14	female			Target_Child		1300	387	231	230	209	123	126
+11-JUN-1998	CHI Yung_Ka_Cing Target_Child , INV Dorene_Sin Investigator	CHI	yue , eng	HKU	CHI	5;04.29	female			Target_Child		1391	367	208	308	241	228	199
+01-DEC-2222	CHI Wong_fai_naam Target_Child , INV Investigator , IN2 Investigator	CHI	yue , eng	HKU	CHI	5;05.05	male			Target_Child		812	151	130	176	159	138	74
+	CHI Sum_on_kei Target_Child , INV Investigator	CHI	yue , eng	HKU	CHI	5;05.06	female			Target_Child		1039	258	175	229	153	138	108
+11-JUN-1998	CHI Tsi_Git_Kwan Target_Child , INV Gloric_Ho Investigator	CHI	yue , eng	HKU	CHI	5;05.12	female			Target_Child		1071	280	126	224	151	135	139
+12-JUN-1998	CHI Lam_Chun_Kit Target_Child , INV Wendy_Wong Investigator	CHI	yue , eng	HKU	CHI	5;05.25	male			Target_Child		814	211	131	171	122	171	89
+11-JUN-1998	CHI Tsui_Yuen_Ting Target_Child , INV Pang Investigator	CHI	yue , eng	HKU	CHI	5;05.27	female			Target_Child		756	217	131	130	128	142	112
+12-JUN-1998	CHI Bau_Yin_Kwan Target_Child , INV Nichole_Li Investigator	CHI	yue , eng	HKU	CHI	5;06.15	male			Target_Child		1179	243	184	200	204	169	153
+16-JUN-1998	CHI Ho_Wing_Yin Target_Child , INV Wendy_Wong Investigator	CHI	yue , eng	HKU	CHI	5;07.03	female			Target_Child		1007	237	188	216	197	188	110
+11-JUN-1998	CHI Ng_Yune_Wah Target_Child , INV May_Poon Investigator	CHI	yue , eng	HKU	CHI	5;07.06	male			Target_Child		1241	288	177	203	208	158	168
+12-JUN-1998	CHI Ma_Zung_Cing Target_Child , INV Dorene_Sin Investigator	CHI	yue , eng	HKU	CHI	5;08.01	male			Target_Child		1177	329	171	302	192	167	178
+	CHI Chan_Chun_Yat Target_Child , INV Investigator , MOT Mother , FRI Adult	CHI	yue , eng	LeeWongLeung	CHI	1;10.08				Target_Child		0	0	0	0	0	0	0
+	CHI Ccc Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	1;11.				Target_Child		0	0	0	0	0	0	0
+	CHI Ccc Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;9.23				Target_Child		0	0	0	0	0	0	0
+	CHI Ccc Target_Child , INV Investigator , MOT Mother , GRM Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;10.13				Target_Child		0	0	0	0	0	0	0
+	INV Investigator , CHI Ccc Target_Child , MOT Mother , ACQ Family_Friend	CHI	yue , eng	LeeWongLeung	CHI	2;10.27				Target_Child		0	0	0	0	0	0	0
+03-MAY-1991	CHI Cgk Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	1;11.01				Target_Child		0	0	0	0	0	0	0
+	CHI Cgk Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	1;11.08				Target_Child		0	0	0	0	0	0	0
+	CHI Cgk Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;8.18				Target_Child		0	0	0	0	0	0	0
+	CHI Cgk Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;9.09				Target_Child		0	0	0	0	0	0	0
+04-APR-1992	CHI Chow_King-tsun Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	1;5.22	male			Target_Child		0	0	0	0	0	0	0
+16-MAY-1992	CHI Chow_KingTsun Target_Child , INV Investigator , MOT Mother , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	1;7.03	male			Target_Child		0	0	0	0	0	0	0
+23-MAY-1992	CHI Chow_KingTsun Target_Child , INV Investigator , MOT Mother , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	1;7.10	male			Target_Child		0	0	0	0	0	0	0
+13-JUN-1992	CHI Chow_KingTsun Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	1;8.01	male			Target_Child		0	0	0	0	0	0	0
+20-JUN-1992	CHI Chow_KingTsun Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	1;8.07	male			Target_Child		0	0	0	0	0	0	0
+04-JUL-1992	CHI Chow_KingTsun Target_Child , INV Investigator , MOT Mother , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	1;8.21	male			Target_Child		0	0	0	0	0	0	0
+20-JUL-1992	CHI Chow_KingTsun Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	1;9.07	male			Target_Child		0	0	0	0	0	0	0
+27-JUL-1992	CHI Chow_KingTsun Target_Child , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	1;9.14	male			Target_Child		0	0	0	0	0	0	0
+11-AUG-1992	CHI Chow_KingTsun Target_Child , INV Investigator , MOT Mother , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	1;9.29	male			Target_Child		0	0	0	0	0	0	0
+05-NOV-1992	CHI Liu_ChunYi Target_Child , INV Investigator , MOT Mother , SER Housekeeper	CHI	yue , eng	LeeWongLeung	CHI	3;4.22	female			Target_Child		0	0	0	0	0	0	0
+04-DEC-1992	CHI Liu_ChunYi Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	3;5.20	female			Target_Child		0	0	0	0	0	0	0
+30-DEC-1992	CHI Liu_ChunYi Target_Child , INV Investigator , SIS Sister , SER Housekeeper	CHI	yue , eng	LeeWongLeung	CHI	3;6.16	female			Target_Child		0	0	0	0	0	0	0
+08-FEB-1993	INV Investigator , CHI Yiu_ChunLi Target_Child , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	3;7.25	female			Target_Child		0	0	0	0	0	0	0
+23-FEB-1993	INV Investigator , CHI Yiu_ChunLi Target_Child , MOT Mother , BRO elder_brother Brother	CHI	yue , eng	LeeWongLeung	CHI	3;8.09	female			Target_Child		0	0	0	0	0	0	0
+07-APR-1992	CHI MAK_Hao-zhen_Bernard Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	1;7.01	male			Target_Child		0	0	0	0	0	0	0
+07-MAY-1992	CHI Mak_HaoZhen_Bernard Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	1;8.01	male			Target_Child		0	0	0	0	0	0	0
+21-MAY-1992	CHI Mak_HaoZhen_Bernard Target_Child , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	1;8.14	male			Target_Child		0	0	0	0	0	0	0
+28-MAY-1992	CHI Mhz Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	1;8.28	male			Target_Child		0	0	0	0	0	0	0
+11-JUN-1992	CHI Mak_HaoZhen_Bernard Target_Child , INV Investigator , MOT Mother , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	1;9.04	male			Target_Child		0	0	0	0	0	0	0
+25-JUN-1992	CHI Mak_HaoZhen_Bernard Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	1;9.18	male			Target_Child		0	0	0	0	0	0	0
+02-JUL-1992	CHI Mak_HaoZhen_Bernard Target_Child , INV Investigator , MOT Mother , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	1;9.25	male			Target_Child		0	0	0	0	0	0	0
+17-JUL-1992	CHI Mak_HaoZhen_Bernard Target_Child , INV Investigator , MOT Mother , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	1;10.10	male			Target_Child		0	0	0	0	0	0	0
+30-JUL-1992	CHI Mak_HaoZhen_Bernard Target_Child , INV Investigator , MOT Mother , GRM Grandmother , GRF Grandfather	CHI	yue , eng	LeeWongLeung	CHI	1;10.23	male			Target_Child		0	0	0	0	0	0	0
+13-AUG-1992	CHI Mak_HaoZhen_Bernard Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	1;11.06	male			Target_Child		0	0	0	0	0	0	0
+04-APR-1992	CHI Chan_Chun_Yat Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	1;11.20	male			Target_Child		1215	335	218	351	139	150	198
+24-MAY-1992	CHI Chan_Chun_yat Target_Child , INV Investigator , MOT Mother , GRA Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;1.10	male			Target_Child		4556	1291	741	1153	616	636	642
+31-MAY-1992	CHI Chan_Chun_yat Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;1.17	male			Target_Child		2611	682	513	685	335	328	375
+20-JUN-1992	CHI Chan_Chun_yat Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;2.06	male			Target_Child		3513	977	690	835	474	436	546
+21-JUL-1992	CHI Chan_Chun_Yat Target_Child , INV Investigator , MOT Mother , GRM Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;3.07	male			Target_Child		5282	1512	1100	1177	695	568	851
+06-AUG-1992	CHI Chan_Chun_Yat Target_Child , INV Investigator , MOT Mother , UNC Uncle	CHI	yue , eng	LeeWongLeung	CHI	2;3.23	male			Target_Child		5009	1260	924	1280	711	623	796
+24-AUG-1992	CHI Chan_Chun_yat Target_Child , INV Investigator , MOT Mother , UNC Uncle , GRM Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;4.04	male			Target_Child		4605	1171	919	1087	677	607	693
+21-SEP-1992	CHI Chan_Chun_yat Target_Child , INV Investigator , MOT Mother , UNC Uncle	CHI	yue , eng	LeeWongLeung	CHI	2;5.23	male			Target_Child		3560	955	702	952	436	357	589
+07-OCT-1992	CHI Chan_Chun_yat Target_Child , INV Investigator , MOT Mother , GRM Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;5.23	male			Target_Child		5388	1452	1115	1322	837	543	799
+22-OCT-1992	CHI Chan_Chun_yat Target_Child , INV Investigator , MOT Mother , GRM Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;6.08	male			Target_Child		5085	1506	880	1238	851	563	756
+07-NOV-1992	CHI Chan_Chun_yat Target_Child , INV Investigator , MOT Mother , GRM Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;6.24	male			Target_Child		4201	1149	806	1088	676	452	591
+20-NOV-1992	CHI Chan_Chun_yat Target_Child , INV Investigator , MOT Mother , BOY Child	CHI	yue , eng	LeeWongLeung	CHI	2;7.06	male			Target_Child		5328	1439	1025	1252	824	591	919
+27-NOV-1992	CHI Chan_Chun_yat Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;7.13	male			Target_Child		4360	1158	929	1054	671	465	634
+14-DEC-1992	CHI Chan_Chun_yat Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;8.01	male			Target_Child		4894	1323	952	1232	833	529	726
+31-DEC-1992	CHI Chan_Chun_yat Target_Child , INV Investigator , MOT Mother , GRM Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;8.17	male			Target_Child		4248	1244	808	901	625	505	655
+21-JAN-1993	CHI Chan_Chun_yat Target_Child , INV Investigator , MOT Mother , CUS Cousin	CHI	yue , eng	LeeWongLeung	CHI	2;9.07	male			Target_Child		5553	1517	1106	1257	780	616	767
+24-MAY-1991	CHI Cheung_Ga_Kei Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	1;11.22	female			Target_Child		1006	288	193	189	181	89	167
+31-MAY-1991	CHI Cheung_Ga_Kei Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	1;11.29	female			Target_Child		2619	893	461	484	374	252	397
+10-JUN-1991	CHI Cheung_Ga_Kei Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;0.08	female			Target_Child		1603	509	279	292	213	148	228
+09-AUG-1991	CHI Cheung_Ga_Kei Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;2.07	female			Target_Child		2122	582	358	447	275	224	331
+23-AUG-1991	CHI Cheung_Gaa_Kei Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;2.21	female			Target_Child		3295	931	611	630	415	416	444
+30-AUG-1991	CHI Cheung_Ga_Kei Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;2.28	female			Target_Child		1507	434	242	324	188	170	230
+06-SEP-1991	CHI Cheung_Ga_Kei Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;3.04	female			Target_Child		2363	675	573	388	265	293	317
+13-SEP-1991	CHI Cheung_Ga_Kei Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;3.11	female			Target_Child		1458	442	280	224	243	177	219
+20-SEP-1991	CHI Cheung_Ga_Kei Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;3.18	female			Target_Child		1179	288	259	232	142	109	170
+27-SEP-1991	CHI Cheung_Ga_Kei Target_Child , INV Investigator , VSI Visiting_Investigator Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;3.25	female			Target_Child		1290	359	304	242	146	156	185
+10-OCT-1991	CHI Cheung_Ga_Kei Target_Child , MOT Mother , INV Investigator , VSI Visiting_Investigator Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;4.08	female			Target_Child		1779	572	335	275	254	209	289
+01-NOV-1991	CHI Cheung_Ga_Kei Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;4.30	female			Target_Child		2992	873	515	521	415	356	438
+	CHI Cheung_Ga_Kei Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;5.03	female			Target_Child		1395	412	240	227	178	229	192
+13-JAN-1992	CHI Cheung_Ga_Kei Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;7.11	female			Target_Child		3284	906	619	723	418	436	385
+10-FEB-1992	CHI Cheung_Ga_Kei Target_Child , MOT Mother , FAT Father , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;8.08	female			Target_Child		3088	925	508	729	434	356	412
+20-FEB-1992	CHI Cheung_Ga_Kei Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;8.18	female			Target_Child		3568	900	678	703	529	509	506
+12-SEP-1992	CHI Chow_King_tsun Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	1;10.30	male			Target_Child		5855	1338	944	1554	856	671	743
+26-SEP-1992	CHI Chow_King_tsun Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	1;11.13	male			Target_Child		3289	968	511	755	425	350	341
+10-OCT-1992	CHI Chow_King_tsun Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	1;11.27	male			Target_Child		4594	1186	808	1194	588	624	457
+22-OCT-1992	CHI Chow_King_tsun Target_Child , INV Investigator , GRA Grandmother , AUN Aunt	CHI	yue , eng	LeeWongLeung	CHI	2;0.09	male			Target_Child		7460	1933	1251	1803	946	1038	780
+07-NOV-1992	CHI Chow_King_tsun Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;0.16	male			Target_Child		4718	1222	817	1062	547	568	612
+21-NOV-1992	CHI Chow_King_tsun Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;1.08	male			Target_Child		5011	1274	865	1173	652	537	553
+18-DEC-1992	CHI Chow_King_tsun Target_Child , INV Investigator , GRA Grandmother , MAN Aunt , WAI Aunt	CHI	yue , eng	LeeWongLeung	CHI	2;2.05	male			Target_Child		6563	1583	1134	1510	778	794	790
+02-JAN-1993	CHI Chow_King_tsun Target_Child , INV Investigator , GRA Grandmother , SIV Second Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;2.15	male			Target_Child		7139	1689	1208	1684	980	1094	781
+16-JAN-1993	CHI Chow_King_tsun Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;3.03	male			Target_Child		5714	1482	1012	1287	738	737	658
+30-JAN-1993	CHI Chow_King_tsun Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;3.17	male			Target_Child		4481	1219	768	1171	596	516	538
+13-FEB-1993	CHI Chow_King_Tsun Target_Child , INV Investigator , FAT Father , GRA Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;4.01	male			Target_Child		5723	1497	915	1393	812	618	705
+27-FEB-1993	CHI Chow_King_tsun Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;4.14	male			Target_Child		4446	1180	864	1108	562	539	468
+13-MAR-1993	CHI Chow_King_tsun Target_Child , INV Investigator , FAT Father , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;5.01	male			Target_Child		5427	1347	956	1278	724	730	595
+27-MAR-1993	CHI Chow_King_tsun Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;5.14	male			Target_Child		4859	1306	837	1157	621	583	614
+01-MAY-1993	CHI Chow_King_tsun Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;6.18	male			Target_Child		5420	1405	921	1290	777	651	629
+15-MAY-1993	CHI Chow_King_Tsun Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;7.02	male			Target_Child		5746	1673	1016	1285	765	695	685
+	CHI Cheung_Chun_Him_Johnny Target_Child , INV Investigator , MOT Mother , FAT Father , SIS Sister	CHI	yue , eng	LeeWongLeung	CHI	2;4.08	male			Target_Child		1156	327	224	309	146	153	167
+31-MAR-1992	CHI Cheung_Chun_Him_Johnny Target_Child , INV Investigator , SIS Sister , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;5.03	male			Target_Child		3939	1205	855	884	537	537	548
+10-APR-1992	CHI Cheung_Chun_Him_Johnny Target_Child , INV Investigator , SIS Sister , SER Housekeeper	CHI	yue , eng	LeeWongLeung	CHI	2;5.13	male			Target_Child		5953	1771	1114	1378	694	850	728
+16-APR-1992	CHI Cheung_Chun_Him_Johnny Target_Child , INV Investigator , SER Housekeeper , SIS Sister	CHI	yue , eng	LeeWongLeung	CHI	2;5.19	male			Target_Child		5792	1722	1048	1254	859	718	821
+08-MAY-1992	CHI Cheung_Chun_Him_Johnny Target_Child , INV Investigator , SER Housekeeper , SIS Sister	CHI	yue , eng	LeeWongLeung	CHI	2;6.10	male			Target_Child		5368	1470	1093	1107	723	748	759
+22-MAY-1992	CHI Cheung_Chun_Him_Johnny Target_Child , INV Investigator , SER Housekeeper , SIS Sister , SEC Security Adult	CHI	yue , eng	LeeWongLeung	CHI	2;6.24	male			Target_Child		4435	1223	816	1067	686	587	482
+18-JUN-1992	CHI Cheung_Chun_Him_Johnny Target_Child , INV Investigator , SER Housekeeper , SIS Sister	CHI	yue , eng	LeeWongLeung	CHI	2;7.21	male			Target_Child		4588	1304	875	988	560	658	634
+06-JUL-1992	CHI Cheung_Chun_Him_Johnny Target_Child , INV Investigator , GRA Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;8.08	male			Target_Child		3029	811	617	720	387	418	373
+27-AUG-1992	CHI Cheung_Chun_Him_Johnny Target_Child , INV Investigator , SIS Sister , GRM Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;9.30	male			Target_Child		3482	943	735	727	433	470	383
+10-SEP-1992	CHI Cheung_Chun_Him_Johnny Target_Child , INV Investigator , SER Housekeeper , SIS Sister	CHI	yue , eng	LeeWongLeung	CHI	2;10.13	male			Target_Child		4368	1276	746	843	549	455	590
+06-OCT-1992	CHI Cheung_Chun_Him_Johnny Target_Child , INV Investigator , SER Housekeeper , SIS Sister , MOT Mother	CHI	yue , eng , jpn	LeeWongLeung	CHI	2;11.08	male			Target_Child		5454	1523	907	1185	667	666	730
+05-NOV-1992	CHI Cheung_Chun_Him_Johnny Target_Child , INV Investigator , SER Housekeeper , SIS Sister	CHI	yue , eng	LeeWongLeung	CHI	3;0.08	male			Target_Child		3805	1053	665	792	443	502	464
+14-DEC-1992	CHI Cheung_Chun_Him_Johnny Target_Child , INV Investigator , SER Housekeeper , SIS Sister , MOT Mother	CHI	yue , eng , jpn	LeeWongLeung	CHI	3;1.16	male			Target_Child		4081	1060	748	877	495	528	517
+13-JAN-1993	CHI Cheung_Chun_Him_Johnny Target_Child , INV Investigator , SER Housekeeper	CHI	yue , eng	LeeWongLeung	CHI	3;2.16	male			Target_Child		4080	1195	760	778	482	551	541
+08-FEB-1993	CHI Cheung_Chun_him_Johnny Target_Child , INV Investigator , MOT Mother , SER Housekeeper , SIS Sister	CHI	yue , eng	LeeWongLeung	CHI	3;3.11	male			Target_Child		4993	1444	810	992	554	602	646
+11-MAR-1993	CHI Cheung_Chun_him_Johnny Target_Child , INV Investigator , SIS Sister , MOT Mother , SER Housekeeper	CHI	yue , eng	LeeWongLeung	CHI	3;4.14	male			Target_Child		4077	1120	760	823	449	569	507
+24-FEB-1992	INV Investigator , CHI YIU_Chun_Li Target_Child , SIS Sister , FAT Father , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;8.10	female			Target_Child		2114	615	367	480	252	367	328
+07-MAR-1992	INV Investigator , CHI YIU_Chun_Li Target_Child , SIS Sister , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;8.22	female			Target_Child		2688	773	513	696	300	357	395
+23-MAR-1992	INV Investigator , CHI YIU_Chun_Li Target_Child , SIS Sister , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;9.09	female			Target_Child		747	229	130	151	109	103	119
+28-MAR-1992	INV Investigator , CHI YIU_Chun_Li Target_Child , SIS Sister , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;9.14	female			Target_Child		4106	1181	693	907	578	602	644
+11-APR-1992	CHI YIU_Chun_Li Target_Child , INV Investigator , MOT Mother , SIS Elder_sister Sister	CHI	yue , eng	LeeWongLeung	CHI	2;9.28	female			Target_Child		5186	1497	954	1134	672	720	794
+15-MAY-1992	INV Investigator , CHI YIU_Chun_Li Target_Child , SIS Sister , MOT Mother , FAT Father , SER Housekeeper	CHI	yue , eng	LeeWongLeung	CHI	2;11.01	female			Target_Child		3837	1037	676	756	427	543	490
+22-MAY-1992	CHI YIU_Chun_Li Target_Child , INV Investigator , MOT Mother , SIS Sister , ANN Annie Unidentified	CHI	yue , eng	LeeWongLeung	CHI	2;11.08	female			Target_Child		4963	1340	789	989	697	787	638
+12-JUN-1992	CHI YIU_Chun_Li Target_Child , INV Investigator , MOT Mother , SIS Sister , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;11.29	female			Target_Child		5877	1525	1032	1334	816	885	892
+25-JUN-1992	CHI YIU_Chun_Li Target_Child , INV Investigator , SER Housekeeper , BRO Brother	CHI	yue , eng	LeeWongLeung	CHI	3;0.11	female			Target_Child		3937	1115	748	878	503	546	629
+06-JUL-1992	CHI YIU_Chun_Li Target_Child , INV Investigator , SER Housekeeper	CHI	yue , eng	LeeWongLeung	CHI	3;0.22	female			Target_Child		4029	1106	675	835	507	592	604
+27-JUL-1992	CHI YIU_Chun_Li Target_Child , INV Investigator , MOT Mother , BRO Brother , SIS Sister	CHI	yue , eng	LeeWongLeung	CHI	3;1.13	female			Target_Child		5019	1438	746	993	648	766	753
+13-AUG-1992	INV Investigator , CHI YIU_Chun_Li Target_Child , SIS Sister , MOT Mother , BRO Brother	CHI	yue , eng	LeeWongLeung	CHI	3;1.30	female			Target_Child		5416	1465	861	1108	654	698	776
+27-AUG-1992	CHI YIU_Chun_Li Target_Child , INV Investigator , MOT Mother , SIS Sister , BRO Brother	CHI	yue , eng	LeeWongLeung	CHI	3;2.13	female			Target_Child		4709	1274	794	923	606	645	618
+29-SEP-1992	CHI YIU_Chun_Li Target_Child , INV Investigator , MOT Mother , SIS Sister	CHI	yue , eng	LeeWongLeung	CHI	2;2.06	female			Target_Child		4194	1008	726	824	523	678	545
+10-OCT-1992	CHI YIU_Chun_Li Target_Child , INV Investigator , MOT Mother , BRO Brother	CHI	yue , eng	LeeWongLeung	CHI	3;2.06	female			Target_Child		3790	953	714	682	531	566	571
+05-NOV-1992	CHI YIU_Chun_Li Target_Child , INV Investigator , MOT Mother , SER Housekeeper	CHI	yue , eng	LeeWongLeung	CHI	3;4.22	female			Target_Child		4708	1257	699	935	599	693	681
+21-FEB-1992	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator , MOT Mother , STU Piano_Student_of_the_Child's_Mother Child	CHI	yue , eng	LeeWongLeung	CHI	2;2.10	female			Target_Child		3424	1037	577	754	503	462	392
+13-MAR-1992	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator , MOT Mother , STU Piano_Student_of_the_Child's_Mother Child	CHI	yue , eng	LeeWongLeung	CHI	2;3.02	female			Target_Child		3364	918	537	721	496	449	410
+10-APR-1992	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator , MOT Mother , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;3.30	female			Target_Child		3393	991	532	863	527	422	384
+08-MAY-1992	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator , SIS Sister , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;4.27	female			Target_Child		3939	1035	631	865	594	607	483
+29-MAY-1992	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator , MOT Mother , SER Housekeeper	CHI	yue , eng	LeeWongLeung	CHI	2;5.18	female			Target_Child		2972	798	487	606	416	443	410
+12-JUN-1992	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator , MOT Mother , STU Piano_Student_of_the_Child's_Mother Child , STM Piano_Student's_Mother Adult , ACH Child	CHI	yue , eng	LeeWongLeung	CHI	2;6.01	female			Target_Child		3515	949	597	744	500	481	445
+16-JUL-1992	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator , SIS Sister , SER Housekeeper	CHI	yue , eng	LeeWongLeung	CHI	2;7.05	female			Target_Child		5289	1347	770	1226	773	776	709
+31-JUL-1992	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;7.20	female			Target_Child		3772	1045	611	937	495	508	471
+13-AUG-1992	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator , MOT Mother , SER Housekeeper , SIS Sister , GDM Godmother Adult	CHI	yue , eng	LeeWongLeung	CHI	2;8.02	female			Target_Child		5278	1372	895	1086	686	856	723
+04-SEP-1992	CHI LEE_Tin_Fan_Tiffany Target_Child , MOT Mother , INV Investigator , STU Piano_Student Child	CHI	yue , eng	LeeWongLeung	CHI	2;8.24	female			Target_Child		4308	1114	661	1031	601	575	647
+18-SEP-1992	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator , MOT Mother , SER Housekeeper	CHI	yue , eng	LeeWongLeung	CHI	2;9.07	female			Target_Child		3955	1040	566	909	516	528	680
+29-OCT-1992	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator , MOT Mother , VSI Investigator , SER Housekeeper , STU Piano_Student_of_the_Child's_Mother Child , LAD Lady Adult	CHI	yue , eng	LeeWongLeung	CHI	2;10.18	female			Target_Child		4537	1091	780	910	644	742	655
+27-NOV-1992	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;11.16	female			Target_Child		5644	1417	901	1328	731	747	904
+31-DEC-1992	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator , MOT Mother , GMO Godmother Adult , SIS Sister	CHI	yue , eng	LeeWongLeung	CHI	3;0.20	female			Target_Child		5260	1345	1027	1192	598	761	712
+01-FEB-1993	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator , MOT Mother , SIS Sister , STU Piano_Student_of_the_Child's_Mother Child	CHI	yue , eng	LeeWongLeung	CHI	3;01.21	female			Target_Child		4585	1184	746	1134	613	575	674
+01-MAR-1993	CHI LEE_Tin_Fan_Tiffany Target_Child , INV Investigator , MOT Mother , SIS Sister , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	3;2.18	female			Target_Child		4184	1124	685	997	606	508	545
+10-SEP-1992	CHI MAK_Hao_Zhen_Bernard Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;2.03	male			Target_Child		5178	1527	819	1106	619	677	678
+23-SEP-1992	CHI MAK_Hao_Zhen_Bernard Target_Child , INV Investigator , MOT Mother , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;0.16	male			Target_Child		5365	1450	932	1204	702	656	739
+08-OCT-1992	CHI MAK_Hao_Zhen_Bernard Target_Child , MOT Mother , INV Investigator , SIV Second_Investigator Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;1.01	male			Target_Child		6881	1909	1108	1543	969	912	889
+22-OCT-1992	CHI MAK_Hao_Zhen_Bernard Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;1.15	male			Target_Child		5833	1516	1081	1371	689	790	687
+05-NOV-1992	CHI MAK_Hao_Zhen_Bernard Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;1.29	male			Target_Child		4320	1181	782	1052	554	561	485
+19-NOV-1992	CHI MAK_Hao_Zhen_Bernard Target_Child , INV Investigator , SIV Investigator , MOT Mother , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;2.12	male			Target_Child		4174	1131	725	920	569	575	496
+03-DEC-1992	CHI MAK_Hao_Zhen_Bernard Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;2.26	male			Target_Child		5184	1358	824	1322	676	678	619
+16-DEC-1992	CHI MAK_Hao_Zhen_Bernard Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;3.09	male			Target_Child		4569	1181	812	1077	601	601	547
+04-JAN-1993	CHI MAK_Hao_Zhen_Bernard Target_Child , INV Investigator , MOT Mother , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;3.28	male			Target_Child		5637	1421	1129	1291	675	731	699
+14-JAN-1993	CHI MAK_Hao_Zhen_Bernard Target_Child , INV Investigator , MOT Mother , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;4.07	male			Target_Child		5404	1333	1048	1151	649	690	667
+28-JAN-1993	CHI MAK_Hao_Zhen_Bernard Target_Child , FAT Father , INV Investigator , SIV Second_Investigator Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;4.21	male			Target_Child		6072	1633	986	1445	769	805	786
+11-FEB-1993	CHI MAK_Hao_Zhen_Bernare Target_Child , INV Investigator , FAT Father , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;5.04	male			Target_Child		5117	1263	962	1099	639	614	671
+26-FEB-1993	CHI MAK_Hao_Zhen_Bernard Target_Child , INV Investigator , FAT Father	CHI	yue , eng	LeeWongLeung	CHI	2;5.19	male			Target_Child		4481	1225	839	1049	572	571	540
+11-MAR-1993	CHI MAK_Hao_Zhen_Bernard Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;6.04	male			Target_Child		4885	1227	876	990	685	608	600
+25-MAR-1993	CHI MAK_Hao_Zhen_Bernard Target_Child , INV Investigator , SIV Investigator , TIV Investigator , FIV Investigator , PBY Passerby Adult	CHI	yue , eng	LeeWongLeung	CHI	2;6.18	male			Target_Child		7063	1757	1419	1414	956	949	910
+13-MAY-1993	CHI MAK_Hao_Zhen_Bernard Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;8.06	male			Target_Child		5519	1490	1072	1143	663	902	692
+07-MAR-1991	CHI Wong_Bo_huen Target_Child , INV Investigator , MOT Mother	CHI	yue , eng	LeeWongLeung	CHI	2;4.15	female			Target_Child		380	133	58	66	51	57	79
+26-MAR-1991	CHI Wong_Bo_huen Target_Child , MOT Mother , GRM Grandmother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;5.06	female			Target_Child		943	345	147	170	93	133	116
+29-APR-1991	CHI Wong_Bo_huen Target_Child , MOT Mother , INV Investigator , GRM Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;6.09	female			Target_Child		874	323	149	132	161	78	130
+	CHI Wong_Bo_huen Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;6.18	female			Target_Child		503	227	67	84	51	39	64
+23-MAY-1991	CHI Wong_Bo_huen Target_Child , INV Investigator , MOT Mother , GRM Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;7.03	female			Target_Child		747	249	146	116	94	92	107
+	CHI Wong_Bo_huen Target_Child , MOT Mother , GRM Grandmother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;7.14	female			Target_Child		2481	833	493	386	336	248	381
+	CHI Wong_Bo_huen Target_Child , MOT Mother , GRM Grandmother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;9.19	female			Target_Child		1880	628	348	285	244	282	292
+15-AUG-1991	CHI Wong_Bo_huen Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;9.26	female			Target_Child		2610	1030	375	402	293	374	403
+	CHI Wong_Bo_huen Target_Child , MOT Mother , FAT Father , INV Investigator , GRM Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;10.16	female			Target_Child		1342	458	227	235	182	180	197
+12-SEP-1991	CHI Wong_Bo_huen Target_Child , GRM Grandmother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;10.23	female			Target_Child		1331	435	218	270	174	141	255
+26-SEP-1991	CHI Wong_Bo_huen Target_Child , MOT Mother , INV Investigator , VSI Investigator	CHI	yue , eng	LeeWongLeung	CHI	2;11.06	female			Target_Child		869	285	155	182	104	96	126
+	CHI Wong_Bo_huen Target_Child , INV Investigator , FAT Father , GRM Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;11.14	female			Target_Child		1183	401	227	258	144	125	167
+17-OCT-1991	CHI Wong_Bo_huen Target_Child , INV Investigator , MOT Mother , VSI Investigator , GRM Grandmother	CHI	yue , eng	LeeWongLeung	CHI	2;11.28	female			Target_Child		1532	519	233	265	188	207	242
+30-OCT-1991	CHI Wong_Bo_huen Target_Child , MOT Mother , INV Investigator	CHI	yue , eng	LeeWongLeung	CHI	3;0.10	female			Target_Child		1779	584	263	387	241	230	245
+21-NOV-1991	CHI Wong_Bo_huen Target_Child , INV Investigator , MOT Mother , GRM Grandmother , UNC Uncle	CHI	yue , eng	LeeWongLeung	CHI	3;01.01	female			Target_Child		1721	595	297	266	210	198	296
+09-JAN-1992	CHI Won_Bo_huen Target_Child , INV Investigator , MOT Mother , GRM Grandmother	CHI	yue , eng	LeeWongLeung	CHI	3;2.20	female			Target_Child		2331	681	497	400	295	276	390
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	2;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	3;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	4;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;3.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;9.	female			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;9.	male			Target_Child		0	0	0	0	0	0	0
+01-JAN-1984	CHI Target_Child	CHI	yue	PaidoCantonese	CHI	5;9.	male			Target_Child		0	0	0	0	0	0	0
