@@ -1,0 +1,183 @@
+---
+title: "Measurement robustness for frequency of vowels"
+output: pdf_document
+---
+
+# Introduction
+
+Everett (2017) uses the frequency of vowels in the basic vocabulary (from the ASJP).  We can test the measurement robustness of this by looking at a wider range of words.  The database of words from Slonimska & Roberts (2017) was used (A collection of data from the Intercontinental Dictionary Series data, the World Loanword Database and Spraakbanken).  It consists of 999 concepts in 226 languages.  These were linked to the ASJP estimates for number of vowels.
+
+# Test
+
+Load libraries:
+
+```{r message=FALSE, warning=F}
+library(lme4)
+library(ggplot2)
+library(lattice)
+library(sjPlot)
+```
+
+```{r echo=F, eval=F}
+setwd("~/Documents/MPI/ClimateAndLanguage/PHOIBLE_Replication/analysis/")
+```
+
+Load data:
+
+```{r}
+d = read.csv("../data/ASJP_and_SlonimskaRoberts_VowelProportions.csv", stringsAsFactors = F)
+d = d[complete.cases(d[,c("S.VProp","asjp.VProp")]),]
+```
+
+Plot raw data
+
+```{r}
+ggplot(d[!is.na(d$asjp.VProp),], aes(x =asjp.VProp, y = S.VProp)) +
+         xlab("ASJP Vowel Proportion") +
+         ylab("IDS+ Vowel Proportion") +
+         geom_point() +
+         geom_smooth() 
+```
+
+Correlation between ASJP and IDS+ frequencies.
+
+```{r}
+cor.test(d$asjp.VProp, d$S.VProp)
+
+ggplot(d[!is.na(d$asjp.VProp),], aes(x =specH.mean, y = asjp.VProp)) +
+  xlab("Humidity") +
+  ylab("ASJP Vowel Proportion") +
+  geom_point() +
+  geom_smooth()
+```
+
+Plot the relationship between humidity and IDS+ esimate.  Although note that the relationship between humidity and proportion of vowels does not hold in the sub-sample even when using the ASJP data.  This is probably due to lack of power rather than a failure to replicate the original result (which used 10 times more data).
+
+```{r}
+ggplot(d, aes(x =specH.mean, y = S.VProp)) +
+  xlab("Humidity") +
+  ylab("IDS+ Vowel Proportion") +
+  geom_point() +
+  geom_smooth()
+
+
+```
+
+
+```{r}
+par(mfrow = c(1,2))
+hist(d$asjp.VProp, main="ASJP")
+hist(d$S.VProp,main="IDS+")
+par(mfrow=c(1,1))
+
+d$asjp.VProp.scale = scale(d$asjp.VProp)
+d$S.VProp.scale = scale(d$S.VProp)
+
+
+m0 = lmer(asjp.VProp.scale~ 1 +
+            (1  | family) +
+            (1  | autotyp.area),
+          data = d[!is.na(d$specH.mean),])
+
+m1 = lmer(asjp.VProp.scale~ 1 +
+            specH.mean + 
+            (1  | family) +
+            (1  | autotyp.area),
+          data = d[!is.na(d$specH.mean),])
+
+anova(m0,m1)
+
+m0 = lmer(S.VProp.scale~ 1 +
+          (1 + specH.mean | family) +
+          (1 + specH.mean | autotyp.area),
+            data = d,
+          control = lmerControl(optimizer = 'bobyqa',
+                                optCtrl = list(maxfun=50000)))
+
+m1 = lmer(S.VProp.scale~ 1 +
+            specH.mean + 
+            (1 + specH.mean | family) +
+            (1 + specH.mean | autotyp.area),
+          data = d,
+          control = lmerControl(optimizer = 'bobyqa',
+                                optCtrl = list(maxfun=50000)))
+
+anova(m0,m1)
+```
+
+\newpage
+
+# Test of bias
+
+Are the differences between the estimates biased?  The exact estimate difference doesn't matter, only the relative relationship.  So we use the residuals from a linear model as an indication of how different the estimates are.  When we come to adding a fixed effect for humidity, this also avoids haivng to test a relationship between the proporiton of vowels and humidity, which is part of the main hypothesis.
+
+```{r}
+
+linear.model = lm(S.VProp ~ asjp.VProp, data=d)
+
+d$Vowel.diff = resid(linear.model)
+
+m.full = lmer(Vowel.diff ~
+                (1| family) + 
+                (1| autotyp.area),
+              data = d)
+
+m.noFamily = lmer(Vowel.diff ~
+                (1| autotyp.area),
+              data = d)
+
+m.noArea = lmer(Vowel.diff ~
+                (1| family),
+              data = d)
+
+anova(m.full,m.noFamily)
+anova(m.full,m.noArea)
+
+```
+
+Adding family or area as a random effect significantly improves the fit of the model.  The ASJP measures are more weakly related to the IDS+ measures in some families and some areas (the ones with lower values in this table):
+
+```{r}
+sjp.lmer(m.full, 're', show.values = F, sort.est = "(Intercept)")
+```
+
+
+
+```{r}
+d$specH.mean = scale(d$specH.mean)
+m.full2 = lmer(Vowel.diff ~
+                (1| family) + 
+                (1| autotyp.area),
+              data = d[!is.na(d$specH.mean),])
+m.familyHslope = lmer(Vowel.diff ~
+                (1 + specH.mean| family) + 
+                (1| autotyp.area),
+              data = d[!is.na(d$specH.mean),])
+m.areaHslope = lmer(Vowel.diff ~
+                (1 + specH.mean| family) + 
+                (1 + specH.mean| autotyp.area),
+              data = d[!is.na(d$specH.mean),])
+
+anova(m.full2, m.familyHslope, m.areaHslope)
+```
+
+Adding a random slope for humidity by language family improves the fit of the model.  This suggests that there is a bias according to humidity: In some families there is 
+
+```{r}
+sjp.lmer(m.familyHslope, 're', show.values = F, sort.est = "(Intercept)")
+```
+
+Test main effect of humidity
+
+```{r}
+m.areaHfix = lmer(Vowel.diff ~
+                    specH.mean +
+                (1 + specH.mean| family) + 
+                (1 + specH.mean| autotyp.area),
+              data = d[!is.na(d$specH.mean),])
+anova(m.areaHslope,m.areaHfix)
+sjp.lmer(m.areaHfix,'eff', show.ci = T)
+```
+
+
+The result is marginal.  This suggests that there is a weak bias for the differences to be larger in more humid regions.

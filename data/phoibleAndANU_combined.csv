@@ -1,0 +1,668 @@
+"","X","LanguageName","LanguageCode","Source","InventoryID","Trump","Tones","Vowels","inventorySize","Sonorants","Consonants","Glottocode","LanguageFamilyRoot","Latitude","Longitude","Latitude.grid","Longitude.grid","specH.mean","Family","gFam","autotyp.area","TrumpScore","ANU.Tones","Tones.diff","specH.mean.center"
+"1",1,"!Xóõ","nmn","gm",1379,TRUE,3,28,161,34,133,"huaa1248","Tuu",-24.20022,20.79583,34,106,0.00558099057711733,"Tuu","Tuu","S Africa",23,3,0,-1.78136010915322
+"2",2,"Aari","aiw","gm",1483,TRUE,0,10,36,16,26,"aari1239","South Omotic",5.95034,36.5721,50,114,0.0141407516427739,"South Omotic","South Omotic","Greater Abyssinia",23,2,-2,0.107017196610626
+"3",3,"Abau","aau","ph",1160,TRUE,0,5,14,10,9,"abau1245","Sepik",-3.97222,141.324,45,169,0.0175709102758353,"Sepik","Sepik","N Coast New Guinea",21,4,-4,0.863747865627991
+"5",5,"Abua","abn","gm",1297,TRUE,3,10,40,20,30,"abua1244","Atlantic-Congo",4.83057,6.61492,49,98,0.0183740472494172,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,3,0,1.04092870311853
+"6",6,"Abulas","abt","ph",1159,TRUE,0,7,24,15,17,"ambu1247","Ndu",-3.7801,143.059,45,170,0.0174953291414141,"Ndu","Ndu","N Coast New Guinea",21,0,0,0.847073837242137
+"8",8,"Acehnese","ace","ph",1093,TRUE,0,34,55,42,21,"achi1257","Austronesian",3.90757,96.6032,49,146,0.0178769787839938,"Austronesian","Austronesian","Southeast Asia",21,0,0,0.931269940179165
+"9",9,"Acholi","ach","gm",1433,TRUE,3,9,29,17,20,"acol1236","Nilotic",3.57738,32.5147,49,112,0.015005820452603,"Nilotic","Nilotic","S Africa",23,2,1,0.297860877395086
+"11",11,"Adang","adn","ph",1090,TRUE,0,22,40,28,18,"adan1251","Timor-Alor-Pantar",-8.18958,124.448,43,160,0.0180646842055167,"Timor-Alor-Pantar","Timor-Alor-Pantar","Oceania",21,0,0,0.972679817797693
+"15",15,"Afar","aar","gm",1342,TRUE,0,10,27,16,17,"afar1241","Afro-Asiatic",12.2281,41.8083,53,117,0.0114311249803807,"Afro-Asiatic","Afro-Asiatic","Greater Abyssinia",23,0,0,-0.490756205836967
+"16",16,"Afitti","aft","gm",1295,TRUE,3,6,26,14,20,"afit1238","Nyimang",12.446,30.7611,53,111,0.0136004093560606,"Nyimang","Nyimang","African Savannah",23,0,3,-0.0121882465959448
+"17",17,"Afrikaans","afr","gm",1395,TRUE,0,23,39,29,16,"afri1274","Indo-European",-22,30,36,111,0.00985611311596737,"Indo-European","Indo-European","S Africa",23,0,0,-0.838221122001516
+"18",18,"Agaw","ahg","ph",1161,TRUE,4,7,39,15,32,"qima1242","Afro-Asiatic",12.8119,37.0542,54,114,0.0137750757618493,"Afro-Asiatic","Afro-Asiatic","Greater Abyssinia",21,0,4,0.0263450809398069
+"19",19,"Aghem","agq","gm",1524,TRUE,2,19,49,27,30,"aghe1239","Atlantic-Congo",6.38956,10.0807,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,6,-4,0.843450909078256
+"23",23,"Ainu","ain","spa",196,TRUE,0,5,17,10,12,"ainu1240","Ainu",43.633654,142.46167,70,170,0.00688361181721057,"Ainu","Ainu","N Coast Asia",24,2,-2,-1.49398755646978
+"27",27,"Akan","aka","gm",1245,TRUE,2,31,60,40,29,"akan1250","Atlantic-Congo",6.34756,-1.33254,50,94,0.018372138459596,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,3,-1,1.0405076031191
+"29",29,"Akha","ahk","ph",1162,TRUE,0,13,41,19,28,"akha1245","Sino-Tibetan",21.2309,100.964,58,148,0.0136582032284382,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",21,6,-6,0.000561716419722545
+"30",30,"Aklan","akl","ph",1095,TRUE,0,3,20,10,17,"akla1241","Austronesian",11.5543,122.354,53,159,0.01891040246115,"Austronesian","Austronesian","Oceania",21,0,0,1.15925455379304
+"31",31,"Akoose","bss","gm",1554,TRUE,2,12,32,18,20,"akoo1248","Atlantic-Congo",4.9243,9.65522,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,4,-2,0.843450909078256
+"34",34,"Alabama","akz","spa",79,TRUE,0,6,21,11,15,"alab1237","Muskogean",30.76738,-94.62848,63,45,0.0123361268989899,"Muskogean","Muskogean","E North America",24,2,-2,-0.291102842657107
+"35",35,"Alawa","alh","spa",50,TRUE,0,5,28,17,23,"alaw1244","Mangarrayi-Maran",-15.5458,134.282,39,165,0.0108598537711733,"Mangarrayi-Maran","Mangarrayi-Maran","N Australia",24,0,0,-0.616784909048296
+"36",36,"Albanian","als","spa",169,TRUE,0,7,35,14,28,"tosk1239","Indo-European",41,20,68,105,0.0107165001522922,"Indo-European","Indo-European","Europe",24,0,0,-0.648410291873561
+"37",37,"Aleut","ale","spa",61,TRUE,0,6,36,18,30,"aleu1260","Eskimo-Aleut",52.1228,-174.29,74,3,0.00519763664957265,"Eskimo-Aleut","Eskimo-Aleut","N Coast Asia",24,0,0,-1.86593219607225
+"38",38,"Alladian","ald","gm",1529,TRUE,2,12,36,18,24,"alla1248","Atlantic-Congo",5.22371,-4.42647,50,93,0.0183151742871018,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,2,0,1.02794068101058
+"39",39,"Alyawarra","aly","ph",1163,TRUE,0,7,32,20,25,"alya1239","Pama-Nyungan",-21.0427,136.835,36,167,0.00595879877428127,"Pama-Nyungan","Pama-Nyungan","S Australia",21,0,0,-1.69801147126677
+"40",40,"Amahuaca","amc","spa",120,TRUE,0,8,22,13,14,"amah1246","Pano-Tacanan",-10.2012,-72.3208,42,57,0.0159249024825175,"Pano-Tacanan","Pano-Tacanan","NE South America",24,2,-2,0.500620467775403
+"41",41,"Amanab","amn","ph",1164,TRUE,0,5,19,11,14,"aman1265","Border",-3.51516,141.178,45,169,0.0175709102758353,"Border","Border","N Coast New Guinea",21,0,0,0.863747865627991
+"43",43,"Ambon Malay","abs","gm",1684,TRUE,0,5,23,13,18,"ambo1250","Austronesian",-3.71342,128.184,45,162,0.018768042964258,"Austronesian","Austronesian","Oceania",23,0,0,1.12784848519734
+"44",44,"Amharic","amh","uz",2156,TRUE,0,7,68,24,61,"amha1245","Afro-Asiatic",11.708182,39.543456,53,116,0.0111011396550117,"Afro-Asiatic","Afro-Asiatic","Greater Abyssinia",22,0,0,-0.563554592951072
+"45",45,"Amuesha","ame","spa",112,TRUE,0,6,29,14,23,"yane1238","Arawakan",-10.5454,-75.315,42,55,0.0101520904520202,"Arawakan","Arawakan","Andean",24,0,0,-0.772925270851525
+"46",46,"Aneityum; Anejom̃","aty","ph",1228,TRUE,0,5,26,14,21,"anei1239","Austronesian",-20.1864,169.825,37,184,0.0162276186208236,"Austronesian","Austronesian","Oceania",21,0,0,0.567402972716954
+"48",48,"Angas","anc","spa",125,TRUE,3,11,44,19,33,"ngas1240","Afro-Asiatic",9.32042,9.46146,52,100,0.0149418736264569,"Afro-Asiatic","Afro-Asiatic","African Savannah",24,4,-1,0.283753505198166
+"50",50,"Anii","blo","gm",1658,TRUE,2,11,36,20,25,"anii1245","Atlantic-Congo",9.11127,1.60169,52,96,0.0158915132358197,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,5,-3,0.493254433228755
+"52",52,"anufɔ","cko","gm",1246,TRUE,2,14,59,26,45,"anuf1239","Atlantic-Congo",10.2839,0.56021,52,95,0.0159259896855089,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,3,-1,0.500860316696415
+"53",53,"Anyi Sanvi","any","gm",1242,TRUE,5,17,40,22,23,"anyi1245","Atlantic-Congo",6.31781,-3.30532,50,93,0.0183151742871018,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,2,3,1.02794068101058
+"54",54,"Anywa","anu","ph",1165,TRUE,4,24,47,33,23,"anua1242","Nilotic",7.57714,34.0267,51,113,0.0155598693094406,"Nilotic","Nilotic","Greater Abyssinia",21,2,2,0.420090140514859
+"55",55,"Apinaye","apn","spa",122,TRUE,0,35,49,36,14,"apin1244","Nuclear-Macro-Je",-6.10774,-47.6315,44,70,0.0170482715576923,"Nuclear-Macro-Je","Nuclear-Macro-Je","NE South America",24,0,0,0.748448024092163
+"56",56,"Apurinã","apu","ph",1092,TRUE,0,27,40,32,13,"apur1254","Arawakan",-8.21692,-66.7714,43,60,0.0169571367637918,"Arawakan","Arawakan","NE South America",21,0,0,0.728342687594202
+"57",57,"arabe","apd","aa",659,TRUE,0,8,62,20,54,"suda1236","Afro-Asiatic",17.8021,33.3179,56,112,0.00815219824261849,"Afro-Asiatic","Afro-Asiatic","N Africa",25,0,0,-1.21412345772153
+"58",58,"Arabic","arb","uz",2157,TRUE,0,6,37,13,31,"stan1318","Afro-Asiatic",27.9625,43.8525,61,118,0.00521351416083916,"Afro-Asiatic","Afro-Asiatic","N Africa",22,0,0,-1.86242944269891
+"59",59,"Aragonese","arg","ph",1055,TRUE,0,25,45,33,20,"arag1245","Indo-European",42.4669,-0.00919,69,95,0.00735398520707071,"Indo-European","Indo-European","Europe",21,0,0,-1.3902180204005
+"60",60,"Arandai","jbj","ph",1166,TRUE,0,5,18,8,13,"aran1237","South Bird's Head Family",-2.08016,132.983,46,165,0.0192423063752914,"South Bird's Head Family","South Bird's Head Family","N Coast New Guinea",21,0,0,1.23247620266283
+"61",61,"Arapesh","aon","ph",1167,TRUE,0,7,22,11,15,"bumb1241","Nuclear Torricelli",-3.65508,142.859,45,170,0.0174953291414141,"Nuclear Torricelli","Nuclear Torricelli","N Coast New Guinea",21,0,0,0.847073837242137
+"62",62,"Araucanian","arn","spa",106,TRUE,0,6,26,17,20,"mapu1245","Araucanian",-38.7392,-71.277,27,58,0.00599613614879565,"Araucanian","Araucanian","Andean",24,0,0,-1.6897744363602
+"66",66,"Armenian","hye","spa",171,TRUE,0,7,37,12,30,"nucl1235","Indo-European",40,45,68,119,0.00644226019327894,"Indo-European","Indo-European","Greater Mesopotamia",24,0,0,-1.59135457221961
+"67",67,"Arrarnte","are","ph",1235,TRUE,0,3,29,17,26,"west2441","Pama-Nyungan",-24.05052,133.24621,35,165,0.00504099964005439,"Pama-Nyungan","Pama-Nyungan","S Australia",21,0,0,-1.90048804076793
+"68",68,"Arrernte, Central","aer","uz",2158,TRUE,0,5,31,18,26,"east2379","Pama-Nyungan",-23.3583,135.046,35,166,0.00526473209265734,"Pama-Nyungan","Pama-Nyungan","S Australia",22,0,0,-1.85113020439638
+"70",70,"Asmat","tml","spa",54,TRUE,0,5,19,9,14,"tamn1235","Nuclear Trans New Guinea",-5.57962,139.233,44,168,0.0189198293822844,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","Interior New Guinea",24,0,0,1.16133423613427
+"71",71,"Assamese","asm","uz",2159,TRUE,0,10,33,17,23,"assa1263","Indo-European",26.0876,91.2932,60,143,0.0151366546365579,"Indo-European","Indo-European","Indic",22,0,0,0.326724335370547
+"72",72,"Atayal","tay","spa",30,TRUE,0,8,27,15,19,"atay1247","Austronesian",24.5209,121.388,60,159,0.0157794366035354,"Austronesian","Austronesian","Southeast Asia",24,0,0,0.468529097172207
+"74",74,"Au","avt","ph",1169,TRUE,0,7,17,12,10,"auuu1241","Nuclear Torricelli",-3.53277,142.105,45,170,0.0174953291414141,"Nuclear Torricelli","Nuclear Torricelli","N Coast New Guinea",21,0,0,0.847073837242137
+"75",75,"Auyana","auy","spa",57,TRUE,3,6,20,13,14,"awiy1238","Nuclear Trans New Guinea",-6.54079,145.76,44,172,0.016431737020202,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","Interior New Guinea",24,3,0,0.612433733519557
+"79",79,"Awa Pit","kwi","ph",1120,TRUE,0,7,21,13,14,"awac1239","Barbacoan",1.21652,-78.3401,48,54,0.0152617957770008,"Barbacoan","Barbacoan","Andean",21,0,0,0.354331845418686
+"80",80,"Awara","awx","ph",1175,TRUE,0,6,25,12,19,"awar1248","Nuclear Trans New Guinea",-6.16986,146.372,44,172,0.016431737020202,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","N Coast New Guinea",21,0,0,0.612433733519557
+"81",81,"Awing","azo","ph",1176,TRUE,0,17,56,27,39,"awin1248","Atlantic-Congo",5.88362,10.264,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,0,0,0.843450909078256
+"82",82,"Awngi","awn","gm",1542,TRUE,3,6,39,14,33,"awng1244","Afro-Asiatic",10.9819,36.6916,53,114,0.0141717241503496,"Afro-Asiatic","Afro-Asiatic","Greater Abyssinia",23,4,-1,0.113850071963095
+"83",83,"Awtuw","kmn","ph",1177,TRUE,0,7,18,14,11,"awtu1239","Sepik",-3.53129,141.928,45,170,0.0174953291414141,"Sepik","Sepik","N Coast New Guinea",21,0,0,0.847073837242137
+"84",84,"Aymara","jqr","spa",105,TRUE,0,6,42,15,36,"jaqa1244","Aymaran",-12.8823,-75.8958,40,55,0.0123469161936674,"Aymaran","Aymaran","Andean",24,0,0,-0.288722605748867
+"85",85,"Azerbaijani","azj","spa",187,TRUE,0,9,34,13,25,"nort2697","Turkic",40.9777,46.4737,68,119,0.00644226019327894,"Turkic","Turkic","Greater Mesopotamia",24,0,0,-1.59135457221961
+"87",87,"Babanki","bbk","ph",1179,TRUE,0,7,33,14,26,"baba1266","Atlantic-Congo",5.97863,10.2869,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,4,-4,0.843450909078256
+"89",89,"babungo","bav","aa",661,TRUE,9,17,82,30,65,"veng1238","Atlantic-Congo",6.11403,10.4137,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,8,1,0.843450909078256
+"91",91,"Bafo","bwt","ph",926,TRUE,4,16,47,23,31,"bafa1247","Atlantic-Congo",4.53307,9.522,49,100,0.0180563223115773,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,5,-1,0.970835092153222
+"92",92,"bafut","bfd","aa",662,TRUE,10,18,49,25,31,"bafu1246","Atlantic-Congo",6.14153,10.1194,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,2,8,0.843450909078256
+"95",95,"Bagirmi","bmi","gm",1469,TRUE,3,16,48,24,32,"bagi1246","Central Sudanic",11.52392,14.769495,53,103,0.0118932219469697,"Central Sudanic","Central Sudanic","African Savannah",23,3,0,-0.388812539643984
+"100",100,"Bakoko","bkh","ph",1180,TRUE,0,7,33,15,26,"bako1249","Atlantic-Congo",3.56518,9.99905,49,100,0.0180563223115773,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,3,-3,0.970835092153222
+"101",101,"Balante","bjt","gm",1391,TRUE,3,14,50,24,36,"bala1302","Atlantic-Congo",12.5382,-15.6658,53,87,0.017080014040404,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,6,-3,0.755450764416525
+"104",104,"Balinese","ban","gm",1693,TRUE,0,6,24,14,18,"bali1278","Austronesian",-8.35714,115.075,43,155,0.0181924475058275,"Austronesian","Austronesian","Southeast Asia",23,0,0,1.00086580511274
+"105",105,"Bamana","bam","gm",1496,TRUE,2,24,58,34,34,"bamb1269","Mande",12.0401,-9.98949,53,90,0.0131445618109946,"Mande","Mande","African Savannah",23,2,0,-0.112753221761495
+"108",108,"bana","bcw","gm",1248,TRUE,4,3,44,11,41,"bana1305","Afro-Asiatic",10.3535,13.6131,52,102,0.0133330583438228,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,2,2,-0.0711688162999812
+"113",113,"Bangolan","bgj","ph",1183,TRUE,4,9,40,16,31,"bang1356","Atlantic-Congo",6.0125,10.667,50,101,0.0163006410402098,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,0,4,0.583512520462875
+"117",117,"Barasano","bao","spa",114,TRUE,2,12,25,15,13,"waim1255","Tucanoan",0.30416,-70.1644,47,58,0.0180299208216783,"Tucanoan","Tucanoan","NE South America",24,0,2,0.965010633505228
+"118",118,"Barbareño","boi","ph",1239,TRUE,0,6,44,16,38,"barb1263","Chumashan",34.462,-119.699,65,32,0.00920463888694639,"Chumashan","Chumashan","California",21,0,0,-0.981943492279951
+"119",119,"Bardi","bcj","uz",2160,TRUE,0,7,25,14,18,"bard1255","Nyulnyulan",-16.6274,122.906,38,160,0.0139879753331391,"Nyulnyulan","Nyulnyulan","N Australia",22,0,0,0.0733130647125726
+"121",121,"Bariai","bch","ph",1185,TRUE,0,5,17,10,12,"bari1286","Austronesian",-5.5087,148.666,44,173,0.0175095402136752,"Austronesian","Austronesian","N Coast New Guinea",21,0,0,0.850208955867831
+"122",122,"bariba","bba","aa",669,TRUE,2,12,31,18,19,"baat1238","Atlantic-Congo",9.63186,2.99607,52,97,0.0159099737643745,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,5,-3,0.49732702858602
+"123",123,"Baruga","bjz","ph",1039,TRUE,0,10,24,14,14,"baru1269","Nuclear Trans New Guinea",-9.40132,148.761,42,173,0.0182786253146853,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","S New Guinea",21,0,0,1.01987757626608
+"124",124,"basaa","bas","aa",670,TRUE,5,8,41,17,33,"basa1284","Atlantic-Congo",3.80765,10.4213,49,100,0.0180563223115773,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,5,0,0.970835092153222
+"127",127,"Baule","bci","ph",1100,TRUE,0,7,23,11,16,"baou1238","Atlantic-Congo",5.42509,-4.76565,50,92,0.0181313548445998,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,5,-5,0.987388093045052
+"131",131,"Belait","beg","gm",1669,TRUE,0,6,25,13,19,"bela1260","Austronesian",4.96207,114.933,50,155,0.0191029030011655,"Austronesian","Austronesian","Southeast Asia",23,0,0,1.2017222872174
+"133",133,"Belanda Viri","bvi","gm",1435,TRUE,5,10,43,17,33,"bela1255","Atlantic-Congo",7.41311,27.6956,51,110,0.0156155664749417,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,2,3,0.432377546964747
+"134",134,"Belhare","byw","uz",2236,TRUE,0,8,36,17,28,"belh1239","Sino-Tibetan",26.9972,87.2783,61,141,0.0136147084446387,"Sino-Tibetan","Sino-Tibetan","Indic",22,0,0,-0.00903371060400818
+"136",136,"Bemba","bem","ph",1188,TRUE,0,10,25,17,15,"bemb1257","Atlantic-Congo",-10.6122,29.2993,42,110,0.0116472053527584,"Atlantic-Congo","Atlantic-Congo","S Africa",21,2,-2,-0.443086502408422
+"138",138,"Bengali","ben","uz",2162,TRUE,0,19,72,27,53,"beng1280","Indo-European",24,90,59,142,0.015961299199495,"Indo-European","Indo-European","Indic",22,0,0,0.50864998329779
+"140",140,"Beria","zag","gm",1509,TRUE,3,9,33,17,24,"zagh1240","Saharan",17.4842,23.4626,56,107,0.00569122117657343,"Saharan","Saharan","African Savannah",23,5,-2,-1.75704202821416
+"141",141,"berom","bom","aa",675,TRUE,0,7,31,14,24,"bero1242","Atlantic-Congo",9.67037,8.81221,52,100,0.0149418736264569,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,4,-4,0.283753505198166
+"142",142,"bété","btg","aa",673,TRUE,2,26,51,33,25,"gagn1235","Atlantic-Congo",6.10051,-5.9701,50,92,0.0181313548445998,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,4,-2,0.987388093045052
+"144",144,"bɛ̀ŋ","nhb","aa",676,TRUE,6,19,49,28,30,"beng1286","Mande",7.78122,-4.23539,51,93,0.0173285097494172,"Mande","Mande","African Savannah",25,0,6,0.810271647135198
+"146",146,"Biak","bhw","ph",1191,TRUE,0,10,24,16,14,"biak1248","Austronesian",-0.9523,135.879,47,166,0.0189714691161616,"Austronesian","Austronesian","N Coast New Guinea",21,0,0,1.17272652860382
+"149",149,"Bikol (Bicolano)","bcl","gm",1695,TRUE,0,5,28,14,23,"cent2087","Austronesian",13.7574,123.403,54,160,0.0189896166647242,"Austronesian","Austronesian","Oceania",23,0,0,1.17673007713724
+"151",151,"Biloxi","bll","ph",1104,TRUE,0,8,20,12,12,"bilo1248","Siouan",31.32,-89.1951,63,48,0.0139160917060995,"Siouan","Siouan","E North America",21,2,-2,0.0574547470660438
+"153",153,"Binandere","bhg","ph",1193,TRUE,0,24,35,28,11,"bina1277","Nuclear Trans New Guinea",-8.37433,147.884,43,173,0.0175554056701632,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","S New Guinea",21,0,0,0.860327379324525
+"154",154,"Binumarien","bjr","ph",872,TRUE,0,5,16,10,11,"binu1245","Nuclear Trans New Guinea",-6.22068,146.102,44,172,0.016431737020202,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","Interior New Guinea",21,4,-4,0.612433733519557
+"156",156,"bisa","bib","aa",680,TRUE,3,15,41,23,26,"biss1248","Mande",10.4257,-1.67332,52,94,0.0158166494858197,"Mande","Mande","African Savannah",25,3,0,0.476738667725488
+"157",157,"Blackfoot","bla","ph",1103,TRUE,0,12,25,17,13,"siks1238","Algic",49.0669,-113.109,72,36,0.00471385063073038,"Algic","Algic","Basin and Plains",21,0,0,-1.97266070541032
+"158",158,"Blang; Plang; Bulang; Pulang; Pula; Kawa; K''ala; Kontoi'","blr","ph",1065,TRUE,2,14,40,26,26,"blan1242","Austroasiatic",22.0092,99.7405,58,147,0.013646793977467,"Austroasiatic","Austroasiatic","Southeast Asia",21,2,0,-0.00195528965609178
+"159",159,"Blin","byn","gm",1332,TRUE,0,7,38,15,31,"bili1260","Afro-Asiatic",15.7833,38.3917,55,115,0.011394936216589,"Afro-Asiatic","Afro-Asiatic","Greater Abyssinia",23,0,0,-0.498739844602549
+"161",161,"Bobo, North","bbo","gm",1512,TRUE,3,13,37,22,24,"nort2819","Mande",12.4182,-4.47538,53,93,0.0137315616326729,"Mande","Mande","African Savannah",23,7,-4,0.0167453861134552
+"162",162,"Boiken","bzf","ph",984,TRUE,0,8,25,17,17,"boik1241","Ndu",-3.68297,143.474,45,170,0.0174953291414141,"Ndu","Ndu","N Coast New Guinea",21,0,0,0.847073837242137
+"163",163,"Bokala-Nkole","nto","gm",1662,TRUE,0,7,30,13,23,"ntom1248","Atlantic-Congo",-1.99062,18.265,46,105,0.0175380201767677,"Atlantic-Congo","Atlantic-Congo","S Africa",23,4,-4,0.856491948530868
+"164",164,"Bole","bol","ph",1195,TRUE,0,10,38,17,28,"nucl1695","Afro-Asiatic",11.4839,11.2322,53,101,0.0122868704384227,"Afro-Asiatic","Afro-Asiatic","African Savannah",21,2,-2,-0.30196935885819
+"165",165,"Bongo","bot","ph",1196,TRUE,0,11,29,17,18,"bong1285","Central Sudanic",7.4145,27.9918,51,110,0.0156155664749417,"Central Sudanic","Central Sudanic","African Savannah",21,3,-3,0.432377546964747
+"169",169,"Breton","bre","spa",157,TRUE,0,18,42,27,24,"bret1244","Indo-European",48.2452,-3.78934,72,93,0.00872852062567988,"Indo-European","Indo-European","Europe",24,0,0,-1.0869804100793
+"172",172,"Bugis","bug","gm",1694,TRUE,0,6,25,14,19,"bugi1244","Austronesian",-4.47,119.977,45,158,0.0185419442890443,"Austronesian","Austronesian","Oceania",23,0,0,1.07796863412885
+"175",175,"Bulgarian","bul","uz",2163,TRUE,0,7,30,10,23,"bulg1262","Indo-European",43.3646,25.047,69,108,0.00697476707983683,"Indo-European","Indo-European","Europe",22,0,0,-1.47387770434611
+"177",177,"bulu","bum","aa",684,TRUE,5,7,36,14,29,"bulu1251","Atlantic-Congo",3.16141,11.6365,49,101,0.0171731030205905,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,4,1,0.77598721587265
+"179",179,"Buol","blf","gm",1676,TRUE,0,6,23,12,17,"buol1237","Austronesian",0.97727,121.519,48,159,0.0184355405439005,"Austronesian","Austronesian","Oceania",23,0,0,1.05449479928269
+"180",180,"Burji","bji","gm",1657,TRUE,0,10,36,17,26,"burj1242","Afro-Asiatic",4.44624,38.4646,49,115,0.0126427237393162,"Afro-Asiatic","Afro-Asiatic","Greater Abyssinia",23,0,0,-0.223464212226869
+"181",181,"Burmese","mya","uz",2164,TRUE,2,15,56,22,41,"nucl1310","Sino-Tibetan",20.7926,93.9665,58,144,0.017191612972028,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",22,4,-2,0.780070714460667
+"183",183,"busa","bqp","gm",1252,TRUE,3,12,31,16,19,"busa1253","Mande",9.91074,4.39929,52,97,0.0159099737643745,"Mande","Mande","African Savannah",23,2,1,0.49732702858602
+"184",184,"Buwal","bhs","gm",1402,TRUE,3,2,43,10,41,"buwa1243","Afro-Asiatic",10.6151,13.8838,52,102,0.0133330583438228,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,3,0,-0.0711688162999812
+"186",186,"Cambodian","khm","spa",14,TRUE,0,21,42,29,21,"cent1989","Austroasiatic",12.0515,105.015,53,150,0.0187591800621601,"Austroasiatic","Austroasiatic","Southeast Asia",24,0,0,1.12589323165036
+"187",187,"Campa","cni","spa",110,TRUE,0,4,21,10,17,"asha1243","Arawakan",-11.9311,-73.9073,41,56,0.0096493647968143,"Arawakan","Arawakan","Andean",24,0,0,-0.883832071991688
+"189",189,"Carib","car","spa",116,TRUE,0,12,28,18,16,"gali1262","Cariban",5.83772,-56.8323,50,65,0.0170554829817405,"Cariban","Cariban","NE South America",24,0,0,0.750038943442646
+"190",190,"Catalan","cat","ph",1138,TRUE,0,16,39,26,23,"stan1289","Indo-European",41.453,1.569,68,96,0.0106998465027195,"Indo-European","Indo-European","Europe",21,0,0,-0.652084269881827
+"191",191,"Cavinena","cav","ph",854,TRUE,0,4,24,11,20,"cavi1250","Pano-Tacanan",-13.3544,-66.6277,40,60,0.0150913899708625,"Pano-Tacanan","Pano-Tacanan","NE South America",21,0,0,0.316738452961384
+"192",192,"Cayapa","cbi","spa",101,TRUE,0,4,28,13,24,"chac1249","Barbacoan",0.71489,-79.0508,47,53,0.0158830371212121,"Barbacoan","Barbacoan","Andean",24,0,0,0.491384509250355
+"193",193,"Cebuano","ceb","gm",1692,TRUE,0,3,21,10,18,"cebu1242","Austronesian",8.38799,124.367,51,160,0.0187799196697747,"Austronesian","Austronesian","Oceania",23,0,0,1.1304686168801
+"194",194,"Central Sama","sml","uz",2208,TRUE,0,6,36,18,30,"cent2092","Austronesian",7.004574,118.455978,51,157,0.0189074556701632,"Austronesian","Austronesian","Southeast Asia",22,0,0,1.15860445933577
+"195",195,"cerma ","cme","aa",685,TRUE,4,21,46,28,25,"cerm1238","Atlantic-Congo",10.1245,-4.94917,52,92,0.0155780711740482,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,0,4,0.42410567176438
+"196",196,"Chacobo","cao","spa",121,TRUE,0,4,21,9,17,"chac1251","Pano-Tacanan",-12.133,-66.7164,41,60,0.0164328499067599,"Pano-Tacanan","Pano-Tacanan","NE South America",24,0,0,0.61267924851743
+"197",197,"Cham","cja","spa",29,TRUE,2,9,35,17,26,"west2650","Austronesian",12.4771,104.026,53,150,0.0187591800621601,"Austronesian","Austronesian","Southeast Asia",24,0,2,1.12589323165036
+"198",198,"Chamicuro","ccc","ph",855,TRUE,0,10,29,18,19,"cham1318","Arawakan",-5.1149,-75.6778,44,55,0.0134748199106449,"Arawakan","Arawakan","NE South America",21,0,0,-0.0398946576449644
+"199",199,"Chamorro","cha","spa",38,TRUE,0,6,36,17,30,"cham1312","Austronesian",15.233333,145.75,55,172,0.0192253727233877,"Austronesian","Austronesian","Oceania",24,0,0,1.22874045306499
+"201",201,"Chechen","che","ph",856,TRUE,0,12,44,18,32,"chec1245","Nakh-Daghestanian",43.5,45.5,69,119,0.00654397926787102,"Nakh-Daghestanian","Nakh-Daghestanian","Greater Mesopotamia",21,0,0,-1.56891422715044
+"202",202,"Chepang","cdm","ph",857,TRUE,0,6,24,13,18,"chep1245","Sino-Tibetan",27.7206,84.9017,61,140,0.0132493651773504,"Sino-Tibetan","Sino-Tibetan","Indic",21,2,-2,-0.0896324480534538
+"203",203,"Cheremis","mhr","ph",858,TRUE,0,8,27,16,19,"east2328","Uralic",55.8307,48.405,76,120,0.00547449185635198,"Uralic","Uralic","Inner Asia",21,0,0,-1.80485489666465
+"204",204,"Chickasaw","cic","ph",1230,TRUE,0,9,25,14,16,"chic1270","Muskogean",33.9452,-97.1301,65,44,0.0090554159496892,"Muskogean","Muskogean","E North America",21,2,-2,-1.01486371120364
+"205",205,"Chilliwak Halkomelem","hur","ph",1115,TRUE,3,12,47,18,35,"halk1245","Salishan",48.0751,-122.029,72,31,0.00651985847358197,"Salishan","Salishan","Alaska-Oregon",21,0,3,-1.57423553929724
+"206",206,"Chimborazo Quichua","qug","ph",1157,TRUE,0,5,36,12,31,"chim1302","Quechuan",-1.36727,-78.8521,46,54,0.0133793786596737,"Quechuan","Quechuan","Andean",21,0,0,-0.0609500458719607
+"208",208,"Chindali","ndh","gm",1471,TRUE,4,10,31,18,21,"ndal1241","Atlantic-Congo",-9.88948,33.6118,42,113,0.0112583989599845,"Atlantic-Congo","Atlantic-Congo","S Africa",23,0,4,-0.52886146304324
+"209",209,"Chinese","yue","uz",2166,TRUE,5,10,48,17,38,"yuec1235","Sino-Tibetan",23,113,59,154,0.0149754553350816,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",22,6,-1,0.291161998959761
+"210",210,"Chipewyan","chp","spa",63,TRUE,4,18,61,24,43,"chip1261","Athapaskan-Eyak-Tlingit",58.3637,-110.832,77,37,0.00491832556045066,"Athapaskan-Eyak-Tlingit","Athapaskan-Eyak-Tlingit","E North America",24,2,2,-1.92755129009841
+"211",211,"Chiricahua Apache","apm","ph",951,TRUE,4,16,51,20,35,"mesc1238","Athapaskan-Eyak-Tlingit",33.1291,-105.566,64,40,0.00650503259965035,"Athapaskan-Eyak-Tlingit","Athapaskan-Eyak-Tlingit","Basin and Plains",21,2,2,-1.57750628992402
+"212",212,"Choctaw","cho","ph",1071,TRUE,0,6,21,11,15,"choc1276","Muskogean",33.8993,-94.819,65,45,0.0100432900965423,"Muskogean","Muskogean","E North America",21,2,-2,-0.796927824260152
+"216",216,"Chrau","crw","ph",861,TRUE,0,13,33,21,20,"chra1242","Austroasiatic",10.8021,107.293,53,151,0.0181261285586636,"Austroasiatic","Austroasiatic","Southeast Asia",21,0,0,0.986235116965503
+"217",217,"Chukchi","ckt","spa",195,TRUE,0,7,22,12,15,"chuk1273","Chukotko-Kamchatkan",68.6436,170.045,82,184,0.00305657907797203,"Chukotko-Kamchatkan","Chukotko-Kamchatkan","N Coast Asia",24,0,0,-2.33827301230908
+"219",219,"Chuvash","chv","spa",189,TRUE,0,9,39,23,30,"chuv1255","Turkic",55.487,47.163,76,120,0.00547449185635198,"Turkic","Turkic","Inner Asia",24,0,0,-1.80485489666465
+"220",220,"cilungu","mgr","gm",1289,TRUE,7,10,36,16,26,"mamb1296","Atlantic-Congo",-8.86817,31.2269,42,111,0.0111559680986791,"Atlantic-Congo","Atlantic-Congo","S Africa",23,2,5,-0.551458836079157
+"222",222,"Coeur d''Alene'","crd","ph",863,TRUE,0,8,48,18,40,"coeu1236","Salishan",47.2958,-116.715,71,34,0.00516837514374514,"Salishan","Salishan","Basin and Plains",21,0,0,-1.87238760564657
+"223",223,"Colorado; Tsafiki","cof","ph",1222,TRUE,0,9,25,15,16,"colo1256","Barbacoan",-0.21181,-79.2347,47,53,0.0158830371212121,"Barbacoan","Barbacoan","Andean",21,0,0,0.491384509250355
+"224",224,"Comanche","com","ph",864,TRUE,0,6,18,10,12,"coma1245","Uto-Aztecan",34.5701,-98.424,65,43,0.00783537847513597,"Uto-Aztecan","Uto-Aztecan","Basin and Plains",21,0,0,-1.28401737816421
+"226",226,"Comox","coo","ph",1107,TRUE,0,5,42,15,37,"como1259","Salishan",49.7233,-124.967,73,29,0.00695018241686092,"Salishan","Salishan","Alaska-Oregon",21,0,0,-1.47930135102006
+"227",227,"Croatian","hrv","ph",1139,TRUE,0,11,36,19,25,"croa1245","Indo-European",45.2006,16.826,70,104,0.00900058436363636,"Indo-European","Indo-European","Europe",21,0,0,-1.0269601613203
+"228",228,"Crow","cro","ph",1238,TRUE,3,10,23,12,13,"crow1244","Siouan",45.368,-107.874,70,38,0.0041447604531857,"Siouan","Siouan","Basin and Plains",21,2,1,-2.09820824908186
+"229",229,"Cupeno","cup","ph",865,TRUE,0,11,38,20,27,"cupe1243","Uto-Aztecan",33.3148,-116.515,64,34,0.00832576455963481,"Uto-Aztecan","Uto-Aztecan","California",21,0,0,-1.1758328218516
+"230",230,"Cuvok","cuv","ph",866,TRUE,0,2,29,8,27,"cuvo1236","Afro-Asiatic",10.6448,14.0006,52,102,0.0133330583438228,"Afro-Asiatic","Afro-Asiatic","African Savannah",21,0,0,-0.0711688162999812
+"231",231,"Cwaya","shw","gm",1499,TRUE,3,10,38,19,28,"shwa1239","Heibanic",11.2708,30.3533,53,111,0.0136004093560606,"Heibanic","Heibanic","African Savannah",23,2,1,-0.0121882465959448
+"232",232,"Czech","ces","ph",1140,TRUE,0,13,38,20,25,"czec1258","Indo-European",49.873398,15.10437,73,103,0.00654143249941725,"Indo-European","Indo-European","Europe",21,0,0,-1.56947607224334
+"233",233,"Daba","dbq","gm",1576,TRUE,4,6,46,13,40,"nucl1683","Afro-Asiatic",10.3521,13.6318,52,102,0.0133330583438228,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,0,4,-0.0711688162999812
+"234",234,"Dafla","njz","spa",21,TRUE,2,9,27,15,18,"nyis1236","Sino-Tibetan",26,93.5,60,144,0.0137841268422688,"Sino-Tibetan","Sino-Tibetan","Indic",24,2,0,0.0283418486913513
+"235",235,"dagaare","dga","aa",688,TRUE,3,27,54,35,27,"sout2789","Atlantic-Congo",10.4226,-2.52265,52,94,0.0158166494858197,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,3,0,0.476738667725488
+"237",237,"Dagbani","dag","spa",139,TRUE,2,11,37,19,26,"dagb1246","Atlantic-Congo",9.64745,-0.43227,52,95,0.0159259896855089,"Atlantic-Congo","Atlantic-Congo","African Savannah",24,2,0,0.500860316696415
+"238",238,"Dakota","lkt","spa",75,TRUE,0,9,36,13,27,"lako1247","Siouan",46.3699,-103.95,71,40,0.00536450762606838,"Siouan","Siouan","Basin and Plains",24,2,-2,-1.8291186258583
+"240",240,"dangme ","ada","aa",692,TRUE,4,12,39,20,27,"adan1247","Atlantic-Congo",5.9437,0.13243,50,95,0.0184863100097125,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,3,1,1.06569510105861
+"241",241,"Danish","dan","uz",2167,TRUE,0,16,69,24,53,"dani1285","Indo-European",54.8655,9.36284,75,100,0.0063776429949495,"Indo-European","Indo-European","Europe",22,0,0,-1.60560983588309
+"244",244,"Degema","deg","gm",1452,TRUE,2,10,36,19,26,"dege1246","Atlantic-Congo",4.73373,6.80991,49,99,0.0185134842851593,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,2,0,1.0716900446862
+"245",245,"Delaware","unm","spa",73,TRUE,0,17,39,26,22,"unam1242","Algic",35.0264,-98.3201,65,43,0.00783537847513597,"Algic","Algic","Basin and Plains",24,0,0,-1.28401737816421
+"246",246,"Denya","anv","ph",867,TRUE,0,8,30,15,22,"deny1238","Atlantic-Congo",5.97237,9.39989,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,0,0,0.843450909078256
+"249",249,"dida","dic","aa",695,TRUE,3,27,57,35,30,"lako1244","Atlantic-Congo",5.86012,-5.40633,50,92,0.0181313548445998,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,3,0,0.987388093045052
+"252",252,"Digueno","dih","spa",90,TRUE,0,9,34,19,25,"kumi1248","Cochimi-Yuman",32.331,-116.604,64,34,0.00832576455963481,"Cochimi-Yuman","Cochimi-Yuman","California",24,0,0,-1.1758328218516
+"254",254,"Dimili","diq","ph",1109,TRUE,0,14,44,22,30,"diml1238","Indo-European",38.6147,39.6388,67,116,0.00696122578341103,"Indo-European","Indo-European","Greater Mesopotamia",21,0,0,-1.47686506306616
+"258",258,"ditammari","tbz","aa",697,TRUE,3,12,32,19,20,"dita1238","Atlantic-Congo",10.1614,1.18045,52,96,0.0158915132358197,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,4,-1,0.493254433228755
+"259",259,"doayo","dow","aa",698,TRUE,4,22,48,29,26,"doya1240","Atlantic-Congo",8.68604,13.0768,51,102,0.0144215465252525,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,5,-1,0.168963631748245
+"260",260,"Dobu","dob","ph",981,TRUE,0,5,24,11,19,"dobu1241","Austronesian",-9.63239,150.825,42,174,0.0183432960975136,"Austronesian","Austronesian","S New Guinea",21,0,0,1.03414466125855
+"263",263,"duala","dua","aa",700,TRUE,5,7,33,14,26,"dual1243","Atlantic-Congo",4.10208,9.61877,49,100,0.0180563223115773,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,5,0,0.970835092153222
+"266",266,"Dutch","nld","ph",1050,TRUE,0,15,39,24,24,"dutc1256","Indo-European",52,5,74,98,0.00702505466802642,"Indo-European","Indo-European","Europe",21,0,0,-1.46278371006631
+"268",268,"East Makian","mky","ph",1037,TRUE,0,5,24,12,19,"east2440","Austronesian",0.07337,127.423,47,162,0.0187525773698524,"Austronesian","Austronesian","Oceania",21,0,0,1.12443660520774
+"269",269,"Eastern Khanty","kca","ph",1137,TRUE,0,13,31,22,18,"khan1273","Uralic",62.4308,66.1218,79,130,0.00484959278644134,"Uralic","Uralic","Inner Asia",21,0,0,-1.9427144949596
+"270",270,"ebira","igb","aa",702,TRUE,3,9,31,16,22,"ebir1243","Atlantic-Congo",8.15516,7.06183,51,99,0.0174586344959207,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,2,1,0.838978595416895
+"272",272,"ẹdo ","bin","aa",704,TRUE,2,21,48,30,27,"bini1246","Atlantic-Congo",6.40701,5.70426,50,98,0.0187216013752914,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,4,-2,1.11760296058801
+"273",273,"Ega","ega","ph",1233,TRUE,3,9,39,16,30,"egaa1242","Atlantic-Congo",5.56081,-5.41732,50,92,0.0181313548445998,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,3,0,0.987388093045052
+"275",275,"Egyptian Arabic","arz","spa",132,TRUE,0,9,67,21,58,"egyp1253","Afro-Asiatic",31,31,63,111,0.00823232352602953,"Afro-Asiatic","Afro-Asiatic","N Africa",24,0,0,-1.19644694015863
+"276",276,"Ejagham","etu","gm",1654,TRUE,3,7,29,14,22,"ejag1239","Atlantic-Congo",5.54442,8.90959,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,2,1,0.843450909078256
+"278",278,"Eloyi","afo","gm",1300,TRUE,3,7,51,17,44,"eloy1241","Atlantic-Congo",8.24696,7.97061,51,99,0.0174586344959207,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,3,0,0.838978595416895
+"279",279,"emai","ema","aa",707,TRUE,0,21,48,29,27,"emai1241","Atlantic-Congo",7.09089,5.84494,51,98,0.017759444771756,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,0,0,0.905340646164671
+"280",280,"engenni","enn","aa",708,TRUE,3,10,33,16,23,"enge1239","Atlantic-Congo",5.11931,6.37339,50,98,0.0187216013752914,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,2,1,1.11760296058801
+"281",281,"English (American)","eng","uz",2175,TRUE,0,12,39,19,27,"stan1293","Indo-European",53,-1,74,94,0.00714047989918415,"Indo-European","Indo-European","Europe",22,0,0,-1.43731963631952
+"284",284,"Eton","eto","gm",1563,TRUE,2,15,38,23,23,"eton1253","Atlantic-Congo",4.21045,11.3935,49,101,0.0171731030205905,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,0,2,0.77598721587265
+"285",285,"Etsako","ets","ph",1110,TRUE,3,7,36,15,29,"yekh1238","Atlantic-Congo",7.10204,6.44919,51,98,0.017759444771756,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,3,0,0.905340646164671
+"286",286,"Even","eve","spa",192,TRUE,0,18,36,25,18,"even1260","Tungusic",70.6687,130.914,84,164,0.00261296785590521,"Tungusic","Tungusic","Inner Asia",24,0,0,-2.43613852022544
+"287",287,"Evenki","evn","uz",2238,TRUE,0,11,29,18,18,"even1259","Tungusic",53.85,108.626,75,152,0.00493750158238151,"Tungusic","Tungusic","Inner Asia",22,0,0,-1.92332084904389
+"288",288,"Ewe","ewe","spa",142,TRUE,3,14,45,24,31,"ewee1241","Atlantic-Congo",6.46061,0.814975,50,95,0.0184863100097125,"Atlantic-Congo","Atlantic-Congo","African Savannah",24,3,0,1.06569510105861
+"289",289,"ewondo","ewo","aa",709,TRUE,3,7,25,13,18,"ewon1239","Atlantic-Congo",4.21141,11.93646,49,101,0.0171731030205905,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,6,-3,0.77598721587265
+"290",290,"Faiwol","fai","ph",974,TRUE,0,8,20,13,12,"faiw1243","Nuclear Trans New Guinea",-5.4967,141.656,44,169,0.0187430518337218,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","Interior New Guinea",21,4,-4,1.12233516731522
+"291",291,"Fan","fan","ph",877,TRUE,0,16,41,23,25,"fang1246","Atlantic-Congo",1.723965,11.61454,48,101,0.0171758783935509,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,3,-3,0.776599493630551
+"293",293,"fe'efe'fe","fmp","aa",710,TRUE,5,16,44,22,28,"fefe1239","Atlantic-Congo",5.18158,10.1442,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,2,3,0.843450909078256
+"295",295,"Finnish","fin","spa",180,TRUE,0,17,42,26,25,"finn1318","Uralic",64.7628,25.5577,80,108,0.00509239603632479,"Uralic","Uralic","Inner Asia",24,0,0,-1.88914943124711
+"298",298,"fɔn","fon","aa",711,TRUE,4,14,42,21,28,"fonn1241","Atlantic-Congo",7.15484,1.66495,51,96,0.0176471657653458,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,3,1,0.880570664153208
+"299",299,"French","fra","uz",2182,TRUE,0,16,36,23,20,"stan1290","Indo-European",48,2,72,96,0.00749480334362859,"Indo-European","Indo-European","Europe",22,0,0,-1.35915199282378
+"300",300,"Frisian","frr","ph",1111,TRUE,0,19,42,27,23,"nort2626","Indo-European",54.6409,8.58489,75,100,0.0063776429949495,"Indo-European","Indo-European","Europe",21,0,0,-1.60560983588309
+"303",303,"fulfulde","fuh","aa",715,TRUE,0,5,32,13,27,"west2454","Atlantic-Congo",14.2471,-0.52004,54,95,0.0116200772995338,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,2,-2,-0.449071248906128
+"309",309,"Ga","gaa","spa",141,TRUE,3,13,47,25,34,"gaaa1244","Atlantic-Congo",5.65488,-0.18598,50,95,0.0184863100097125,"Atlantic-Congo","Atlantic-Congo","African Savannah",24,5,-2,1.06569510105861
+"310",310,"Gaahmg","tbi","gm",1616,TRUE,3,12,49,26,37,"gaam1241","Eastern Jebel",11.4674,33.9797,53,113,0.0143162970963481,"Eastern Jebel","Eastern Jebel","African Savannah",23,2,1,0.145744451742731
+"311",311,"Gadsup","gaj","spa",56,TRUE,4,6,19,9,13,"gads1258","Nuclear Trans New Guinea",-6.31631,145.997,44,172,0.016431737020202,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","Interior New Guinea",24,2,2,0.612433733519557
+"312",312,"Galician","glg","ph",1141,TRUE,0,8,28,18,20,"gali1258","Indo-European",42.2446,-7.5343,69,91,0.00878987800058275,"Indo-European","Indo-European","Europe",21,0,0,-1.07344429926743
+"313",313,"Galke","gke","gm",1348,TRUE,3,22,57,30,35,"ndai1238","Atlantic-Congo",8.09039,14.2888,51,103,0.014364369209596,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,5,-2,0.156349687917098
+"316",316,"gangam","gng","aa",718,TRUE,3,14,39,23,25,"ngan1299","Atlantic-Congo",10.2523,0.70509,52,95,0.0159259896855089,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,3,0,0.500860316696415
+"317",317,"Garadjari","gbd","ph",879,TRUE,0,3,20,15,17,"kara1476","Pama-Nyungan",-18.6771,122.334,37,159,0.00991896459615385,"Pama-Nyungan","Pama-Nyungan","N Australia",21,0,0,-0.824355395153835
+"318",318,"Garo","grt","spa",24,TRUE,0,5,26,15,21,"garo1247","Sino-Tibetan",25.2954,90.462,60,142,0.0150596336587024,"Sino-Tibetan","Sino-Tibetan","Indic",24,0,0,0.309732661708811
+"320",320,"Gayo","gay","ph",1052,TRUE,0,8,27,16,19,"gayo1244","Austronesian",4.3733,97.3456,49,146,0.0178769787839938,"Austronesian","Austronesian","Southeast Asia",21,0,0,0.931269940179165
+"322",322,"Gbari","gby","ph",880,TRUE,0,7,31,12,24,"gbar1246","Atlantic-Congo",8.46411,7.10757,51,99,0.0174586344959207,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,3,-3,0.838978595416895
+"323",323,"gbaya","gya","aa",719,TRUE,4,19,53,29,34,"nort2775","Atlantic-Congo",5.9503,15.2569,50,103,0.0159599510994561,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,4,0,0.508352577622582
+"325",325,"Gbeya","gbp","spa",148,TRUE,2,12,45,23,33,"gbay1287","Atlantic-Congo",6.61896,17.645,50,104,0.0164806996134421,"Atlantic-Congo","Atlantic-Congo","African Savannah",24,2,0,0.623235419360639
+"328",328,"georgian","kat","uz",2183,TRUE,0,5,33,9,28,"nucl1302","Kartvelian",41.850397,43.78613,69,118,0.00679422693356643,"Kartvelian","Kartvelian","Greater Mesopotamia",22,0,0,-1.51370684354535
+"329",329,"German","deu","uz",2184,TRUE,0,18,40,23,22,"stan1295","Indo-European",48.649,12.4676,72,102,0.00657705152700078,"Indo-European","Indo-European","Europe",22,0,0,-1.56161812354288
+"330",330,"gɛn-mina","gej","aa",721,TRUE,3,14,44,21,30,"genn1243","Atlantic-Congo",6.25971,1.67727,50,96,0.0186830117715618,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,3,0,1.10908967016291
+"334",334,"Glavda","glw","gm",1543,TRUE,2,7,43,15,36,"glav1244","Afro-Asiatic",11.1334,13.8652,53,102,0.0118947903034188,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,4,-2,-0.388466542985536
+"335",335,"Goajiro","guc","spa",109,TRUE,0,18,46,28,28,"wayu1243","Arawakan",11.395566,-72.199791,53,57,0.0172826348776224,"Arawakan","Arawakan","NE South America",24,0,0,0.800151146558412
+"337",337,"Gojri; Gujari; Gujar","gju","ph",1112,TRUE,0,18,50,28,32,"guja1253","Indo-European",34.3768,73.1461,65,133,0.00991347902719503,"Indo-European","Indo-European","Indic",21,3,-3,-0.825565571915964
+"338",338,"Golin","gvf","ph",881,TRUE,0,10,23,16,13,"goli1247","Nuclear Trans New Guinea",-6.2249,144.8505,44,171,0.0169529563714064,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","Interior New Guinea",21,3,-3,0.727420447119354
+"339",339,"gonja","gjn","aa",724,TRUE,2,14,39,22,25,"gonj1241","Atlantic-Congo",8.48801,-0.72757,51,95,0.0175536528574204,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,2,0,0.859940689581743
+"340",340,"Gouro","goa","gm",1605,TRUE,3,28,57,35,29,"guro1248","Mande",7.34954,-6.31154,51,92,0.0173445690705128,"Mande","Mande","African Savannah",23,3,0,0.81381450975371
+"342",342,"Greek","ell","uz",2186,TRUE,0,5,41,13,36,"mode1248","Indo-European",42.3224,24.8699,69,108,0.00697476707983683,"Indo-European","Indo-European","Europe",22,0,0,-1.47387770434611
+"343",343,"greek Thrace Xoraxane Romane","rmy","uz",2228,TRUE,0,12,39,17,27,"vlax1238","Indo-European",46.8191,14.8451,71,103,0.00816717954778555,"Indo-European","Indo-European","Europe",22,0,0,-1.21081841725706
+"344",344,"Gu'de","gde","gm",1578,TRUE,2,4,36,10,32,"gude1246","Afro-Asiatic",10.2138,13.403,52,102,0.0133330583438228,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,2,0,-0.0711688162999812
+"345",345,"Guajajara","gub","ph",882,TRUE,0,7,21,13,14,"guaj1255","Bookkeeping",-4.69461,-45.7081,45,71,0.0173550512296037,"Bookkeeping","Bookkeeping","NE South America",21,0,0,0.816126989178174
+"346",346,"Guarani","gug","spa",119,TRUE,0,12,36,21,24,"para1311","Tupian",-25.60551,-57.08816,34,65,0.0138442504421134,"Tupian","Tupian","SE South America",24,0,0,0.0416057751744044
+"349",349,"Gunwinggu","gup","ph",883,TRUE,0,5,24,18,19,"gunw1252","Gunwinyguan",-12.3398,133.358,41,165,0.0157860214772727,"Gunwinyguan","Gunwinyguan","N Australia",21,0,0,0.469981792642497
+"350",350,"Gwandara (Karshi)","gwn","gm",1352,TRUE,8,10,46,16,36,"gwan1268","Afro-Asiatic",9.20464,7.49931,52,99,0.0155803042078477,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,3,5,0.424598303546697
+"351",351,"Hadiyya","hdy","gm",1363,TRUE,0,10,56,22,46,"hadi1240","Afro-Asiatic",7.57377,37.7577,51,115,0.0125021268723776,"Afro-Asiatic","Afro-Asiatic","Greater Abyssinia",23,0,0,-0.254481425295302
+"352",352,"Haida","hdn","spa",67,TRUE,0,3,50,15,47,"nort2938","Haida",54.004532,-132.079257,75,26,0.00664493083255633,"Haida","Haida","Alaska-Oregon",24,2,-2,-1.54664320319651
+"353",353,"Hakka Chinese","hak","uz",2165,TRUE,5,7,47,17,40,"hakk1236","Sino-Tibetan",25,116,60,156,0.0142413648747086,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",22,6,-1,0.129213580643743
+"355",355,"Hanga Hundi; Kwasengen; West Wosera","wos","ph",1064,TRUE,0,7,23,14,16,"hang1263","Ndu",-3.90364,142.849,45,170,0.0174953291414141,"Ndu","Ndu","N Coast New Guinea",21,0,0,0.847073837242137
+"357",357,"Hausa","hau","uz",2188,TRUE,4,10,46,17,36,"haus1257","Afro-Asiatic",11.1513,8.7804,53,100,0.0128904896153846,"Afro-Asiatic","Afro-Asiatic","African Savannah",22,3,1,-0.168804338671814
+"358",358,"Hawaiian","haw","spa",43,TRUE,0,10,19,14,9,"hawa1245","Austronesian",19.6297,-155.43,57,13,0.0158820471678322,"Austronesian","Austronesian","Oceania",24,0,0,0.491166114661765
+"360",360,"Hebrew","heb","uz",2189,TRUE,0,5,27,10,22,"hebr1245","Afro-Asiatic",31.1056,35.0179,63,113,0.00784912093278943,"Afro-Asiatic","Afro-Asiatic","Greater Mesopotamia",22,0,0,-1.28098564106791
+"361",361,"Heiban","hbn","gm",1497,TRUE,0,7,34,16,27,"heib1243","Heibanic",11.2908,30.5282,53,111,0.0136004093560606,"Heibanic","Heibanic","African Savannah",23,3,-3,-0.0121882465959448
+"362",362,"herero","her","gm",1255,TRUE,2,5,26,11,21,"here1253","Atlantic-Congo",-21.0231,20.5655,36,106,0.0078717913510101,"Atlantic-Congo","Atlantic-Congo","S Africa",23,3,-1,-1.27598429781175
+"363",363,"Hide","xed","gm",1403,TRUE,0,4,41,10,37,"hdii1240","Afro-Asiatic",10.942,13.6881,53,102,0.0118947903034188,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,3,-3,-0.388466542985536
+"364",364,"Higi","hig","gm",1368,TRUE,2,7,35,14,28,"kamw1239","Afro-Asiatic",10.646,13.5136,53,102,0.0118947903034188,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,3,-1,-0.388466542985536
+"365",365,"Hiligaynon","hil","gm",1696,TRUE,0,5,25,12,20,"hili1240","Austronesian",10.4018,122.974,52,160,0.0185754732964258,"Austronesian","Austronesian","Oceania",23,0,0,1.08536550141736
+"368",368,"Hindi","hin","uz",2190,TRUE,0,11,74,26,63,"hind1269","Indo-European",25,77,60,135,0.010342837282634,"Indo-European","Indo-European","Indic",22,0,0,-0.730844424982745
+"369",369,"Hoava","hoa","ph",1211,TRUE,0,5,21,10,16,"hoav1238","Austronesian",-8.19679,157.595,43,178,0.0191801465190365,"Austronesian","Austronesian","Oceania",21,0,0,1.21876305565079
+"370",370,"Holoholo","hoo","gm",1389,TRUE,2,7,26,14,19,"holo1240","Atlantic-Congo",-5.37545,28.3274,44,110,0.0139822279856255,"Atlantic-Congo","Atlantic-Congo","S Africa",23,4,-2,0.0720451367260584
+"371",371,"Hopi","hop","spa",95,TRUE,0,18,49,31,31,"hopi1249","Uto-Aztecan",35.7653,-110.535,65,37,0.00492709656565657,"Uto-Aztecan","Uto-Aztecan","Basin and Plains",24,2,-2,-1.92561631001514
+"372",372,"Huallaga (Huanuco) Quechua","qvh","ph",1155,TRUE,0,10,31,18,21,"huam1248","Quechuan",-9.15718,-76.3372,42,55,0.0101520904520202,"Quechuan","Quechuan","Andean",21,0,0,-0.772925270851525
+"373",373,"Huanca","qxw","ph",889,TRUE,0,5,27,14,22,"jauj1238","Quechuan",-11.6747,-75.2786,41,55,0.0101656815790598,"Quechuan","Quechuan","Andean",21,0,0,-0.769926918950757
+"375",375,"Huave, San Mateo del Mar","huv","ph",888,TRUE,0,6,24,13,18,"sanm1287","Huavean",16.2129,-95.0077,55,45,0.0185677686790987,"Huavean","Huavean","Mesoamerica",21,2,-2,1.08366577821264
+"376",376,"Huaylas","qwh","ph",887,TRUE,0,10,30,17,20,"huay1240","Quechuan",-9.38709,-77.7768,42,54,0.0126993243168221,"Quechuan","Quechuan","Andean",21,0,0,-0.21097750316625
+"377",377,"Huichol","hch","ph",886,TRUE,0,10,25,16,15,"huic1243","Uto-Aztecan",21.954,-104.062,58,40,0.0153876075524476,"Uto-Aztecan","Uto-Aztecan","Mesoamerica",21,2,-2,0.38208730491449
+"378",378,"Hungarian","hun","uz",2191,TRUE,0,14,64,26,50,"hung1274","Uralic",46.9068585714,19.6555271429,71,105,0.00773176332167832,"Uralic","Uralic","Europe",22,0,0,-1.30687601905638
+"379",379,"Hunzib","huz","uz",2237,TRUE,0,24,60,28,36,"hunz1247","Nakh-Daghestanian",42.0808,46.1369,69,119,0.00654397926787102,"Nakh-Daghestanian","Nakh-Daghestanian","Greater Mesopotamia",22,0,0,-1.56891422715044
+"380",380,"Hup","jup","ph",1020,TRUE,0,9,29,13,20,"hupd1244","Nadahup",0.58622,-69.8359,47,58,0.0180299208216783,"Nadahup","Nadahup","NE South America",21,2,-2,0.965010633505228
+"381",381,"Hupa","hup","spa",65,TRUE,0,7,42,13,35,"hupa1239","Athapaskan-Eyak-Tlingit",41.0982,-123.68,68,30,0.00820180974864025,"Athapaskan-Eyak-Tlingit","Athapaskan-Eyak-Tlingit","California",24,0,0,-1.20317861459359
+"382",382,"Iai","iai","spa",39,TRUE,0,19,52,33,33,"iaai1238","Austronesian",-20.6301,166.59,36,182,0.0150983943958819,"Austronesian","Austronesian","Oceania",24,0,0,0.318283706052574
+"384",384,"Ibibio","ibb","ph",1057,TRUE,2,13,32,23,19,"ibib1240","Atlantic-Congo",5.15279,7.86688,50,99,0.0184405448659674,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,3,-1,1.05559880769476
+"385",385,"Icelandic","isl","spa",158,TRUE,0,16,39,26,23,"icel1247","Indo-European",63.4837,-19.0212,80,85,0.00591718928904429,"Indo-European","Indo-European","Europe",24,0,0,-1.70719098072076
+"386",386,"Ida''an'","dbj","ph",1187,TRUE,0,6,23,13,17,"idaa1241","Austronesian",5.29059,118.515,50,157,0.0186642353787879,"Austronesian","Austronesian","Southeast Asia",21,0,0,1.10494739168967
+"389",389,"Igbo","ibo","uz",2192,TRUE,3,5,35,13,30,"nucl1417","Atlantic-Congo",4.62705,7.23441,49,99,0.0185134842851593,"Atlantic-Congo","Atlantic-Congo","African Savannah",22,3,0,1.0716900446862
+"390",390,"igede","ige","aa",733,TRUE,4,10,38,19,28,"iged1239","Atlantic-Congo",6.95522,8.27362,51,99,0.0174586344959207,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,4,0,0.838978595416895
+"393",393,"ijo de l'est; Eastern Ijo","ijs","aa",734,TRUE,2,18,44,25,26,"sout2774","Ijoid",4.44235,6.32192,49,98,0.0183740472494172,"Ijoid","Ijoid","African Savannah",25,2,0,1.04092870311853
+"394",394,"Ika","arh","ph",1096,TRUE,0,16,32,19,16,"arhu1242","Chibchan",10.7018,-73.6363,53,56,0.0188008877466977,"Chibchan","Chibchan","NE South America",21,0,0,1.13509440494862
+"395",395,"Ikwere","ikw","gm",1405,TRUE,5,18,46,22,28,"ikwe1242","Atlantic-Congo",5.04333,6.86651,50,99,0.0184405448659674,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,3,2,1.05559880769476
+"396",396,"Ilocano","ilo","ph",1117,TRUE,0,4,21,11,17,"ilok1237","Austronesian",15.9361,120.993,55,159,0.0185842156682207,"Austronesian","Austronesian","Oceania",21,0,0,1.08729416465567
+"397",397,"Imonda","imn","ph",892,TRUE,0,10,23,14,13,"imon1245","Border",-3.31228,141.171,45,169,0.0175709102758353,"Border","Border","N Coast New Guinea",21,0,0,0.863747865627991
+"398",398,"Indonesian","ind","ph",1144,TRUE,0,9,31,17,22,"indo1316","Austronesian",-7.33458,109.716,43,153,0.018421975975136,"Austronesian","Austronesian","Southeast Asia",21,0,0,1.0515023064291
+"399",399,"Ingush","inh","ph",893,TRUE,0,13,48,19,35,"ingu1240","Nakh-Daghestanian",42.9525,44.158,69,118,0.00679422693356643,"Nakh-Daghestanian","Nakh-Daghestanian","Greater Mesopotamia",21,0,0,-1.51370684354535
+"400",400,"Inuit","kal","spa",62,TRUE,0,6,38,15,32,"kala1399","Eskimo-Aleut",69.3761,-52.864,83,67,0.00314599372113442,"Eskimo-Aleut","Eskimo-Aleut","E North America",24,0,0,-2.31854715995693
+"401",401,"Iñupiaq; Iñupiat; Inupiat; Inupiaq","esi","ph",1077,TRUE,0,3,27,12,24,"nort2943","Eskimo-Aleut",69.582,-143.77,83,20,0.00293398921538462,"Eskimo-Aleut","Eskimo-Aleut","Alaska-Oregon",21,0,0,-2.36531768244077
+"402",402,"Iraqw","irk","spa",129,TRUE,3,12,48,20,36,"iraq1241","Afro-Asiatic",-4.19948,35.2939,45,114,0.0117665009529915,"Afro-Asiatic","Afro-Asiatic","S Africa",24,2,1,-0.416768582734062
+"403",403,"Irish","gle","uz",2193,TRUE,0,15,50,26,35,"iris1253","Indo-European",53.2186,-7.61509,74,91,0.00777347642657343,"Indo-European","Indo-European","Europe",22,0,0,-1.29767364996773
+"404",404,"Isaka","ksi","ph",894,TRUE,4,5,18,7,13,"kris1246","Sko",-2.80084,141.303,46,169,0.0184464697552448,"Sko","Sko","N Coast New Guinea",21,4,0,1.05690590334437
+"406",406,"Isthmus (Juchitán) Zapotec","zai","uz",2218,TRUE,3,5,32,15,27,"isth1244","Otomanguean",16.4548,-94.8444,56,45,0.0160060400019425,"Otomanguean","Otomanguean","Mesoamerica",22,2,1,0.518520295720704
+"407",407,"Italian","ita","ph",1145,TRUE,0,7,30,15,23,"ital1282","Indo-European",43.0464,12.6489,69,102,0.0103361834900932,"Indo-European","Indo-European","Europe",21,0,0,-0.732312324698044
+"414",414,"Japanese","jpn","uz",2196,TRUE,0,5,21,10,16,"nucl1643","Japonic",35,135,65,166,0.0114923143865579,"Japonic","Japonic","N Coast Asia",22,2,-2,-0.477257150770839
+"415",415,"Jarawara","jaa","ph",897,TRUE,0,4,15,9,11,"jama1261","Arawan",-7.62223,-66.5662,43,60,0.0169571367637918,"Arawan","Arawan","NE South America",21,0,0,0.728342687594202
+"416",416,"Javanese","jav","gm",1675,TRUE,0,9,33,16,24,"java1254","Austronesian",-0.572307,110.885,47,153,0.0190383414296814,"Austronesian","Austronesian","Southeast Asia",23,0,0,1.18747929544697
+"417",417,"Jemez","tow","ph",898,TRUE,0,22,61,33,39,"jeme1245","Kiowa-Tanoan",35.5994,-106.766,65,39,0.00513874003457653,"Kiowa-Tanoan","Kiowa-Tanoan","Basin and Plains",21,4,-4,-1.87892543622135
+"420",420,"Jicarilla Apache","apj","ph",1232,TRUE,3,19,56,23,37,"jica1244","Athapaskan-Eyak-Tlingit",36.8079,-107.007,66,39,0.00488366442599068,"Athapaskan-Eyak-Tlingit","Athapaskan-Eyak-Tlingit","Basin and Plains",21,2,1,-1.93519791705496
+"422",422,"Jita","jit","gm",1439,TRUE,2,10,29,13,19,"jita1239","Atlantic-Congo",-1.62681,33.9141,46,113,0.0127024302736985,"Atlantic-Congo","Atlantic-Congo","S Africa",23,0,2,-0.210292294965567
+"423",423,"Jivaro","jiv","spa",113,TRUE,0,8,24,14,16,"shua1257","Chicham",-3.45136,-78.1892,45,54,0.013203654988345,"Chicham","Chicham","Andean",24,0,0,-0.0997166177981327
+"424",424,"joola ","dyo","aa",737,TRUE,0,10,29,18,19,"jola1263","Atlantic-Congo",12.75752,-15.7354766667,54,87,0.0150291238704351,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,0,0,0.303001867317974
+"427",427,"Juang","jun","ph",1089,TRUE,0,10,29,18,19,"juan1238","Austroasiatic",21.2606,85.5845,58,140,0.0155730368585859,"Austroasiatic","Austroasiatic","Indic",21,0,0,0.422995046479849
+"428",428,"Judeo-Spanish","lad","uz",2194,TRUE,0,14,34,19,20,"ladi1251","Indo-European",41.205,28.6632,68,110,0.00791482892968143,"Indo-European","Indo-European","Greater Mesopotamia",22,0,0,-1.26648973526092
+"430",430,"jur mödö","bex","aa",738,TRUE,0,18,49,27,31,"jurm1239","Central Sudanic",6.03321,29.974,50,111,0.015742162248446,"Central Sudanic","Central Sudanic","African Savannah",25,2,-2,0.460305965042946
+"431",431,"Kabardian","kbd","spa",4,TRUE,0,7,56,12,49,"kaba1278","Abkhaz-Adyge",43.5082,43.3918,69,118,0.00679422693356643,"Abkhaz-Adyge","Abkhaz-Adyge","Greater Mesopotamia",24,0,0,-1.51370684354535
+"432",432,"Kabiye","kbp","ph",1142,TRUE,2,23,47,30,24,"kabi1261","Atlantic-Congo",8.96816,0.495023,52,95,0.0159259896855089,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,3,-1,0.500860316696415
+"433",433,"Kabyle","kab","ph",900,TRUE,0,3,30,6,27,"kaby1243","Afro-Asiatic",36.4103,4.76137,66,97,0.00700779358080808,"Afro-Asiatic","Afro-Asiatic","N Africa",21,0,0,-1.46659169549089
+"435",435,"Kadiweu","kbc","ph",1118,TRUE,0,8,31,18,23,"kadi1248","Guaicuruan",-19.7222,-57.582,37,65,0.0141084092721445,"Guaicuruan","Guaicuruan","SE South America",21,2,-2,0.0998821144228523
+"437",437,"Kaiabi","kyz","ph",902,TRUE,0,10,24,16,14,"kaya1329","Tupian",-11.2747,-55.5479,41,66,0.0150789291903652,"Tupian","Tupian","NE South America",21,0,0,0.313989467922816
+"440",440,"Kalabari; Kirike; Kalabari-Ijo","ijn","ph",1048,TRUE,3,18,43,24,25,"kala1381","Ijoid",4.53194,6.69539,49,99,0.0185134842851593,"Ijoid","Ijoid","African Savannah",21,2,1,1.0716900446862
+"442",442,"Kamasau","kms","ph",903,TRUE,0,6,29,13,23,"kama1367","Nuclear Torricelli",-3.8503,143.842,45,171,0.0173973739607615,"Nuclear Torricelli","Nuclear Torricelli","N Coast New Guinea",21,0,0,0.825463848516105
+"443",443,"Kambaata","ktb","gm",1373,TRUE,0,10,59,27,49,"kamb1316","Afro-Asiatic",7.37582,37.9088,51,115,0.0125021268723776,"Afro-Asiatic","Afro-Asiatic","Greater Abyssinia",23,0,0,-0.254481425295302
+"445",445,"Kambera","xbr","gm",1679,TRUE,0,10,29,18,19,"kamb1299","Austronesian",-9.88447,120.235,42,158,0.0183086013636364,"Austronesian","Austronesian","Oceania",23,0,0,1.02649062190153
+"447",447,"Kanuri","knc","spa",150,TRUE,4,6,35,15,29,"cent2050","Saharan",11.8863,16.3918,53,104,0.0123284666938617,"Saharan","Saharan","African Savannah",24,4,0,-0.292792768042948
+"448",448,"Kapampangan","pam","gm",1697,TRUE,0,5,22,11,17,"pamp1243","Austronesian",14.9603,120.502,55,158,0.0190760986208236,"Austronesian","Austronesian","Oceania",23,0,0,1.19580894651263
+"453",453,"Karen","ksw","spa",25,TRUE,3,9,39,17,30,"sgaw1245","Sino-Tibetan",17.9872,97.7126,56,146,0.0164530675893551,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",24,4,-1,0.61713949135541
+"454",454,"Karimojong","kdj","gm",1351,TRUE,6,39,66,47,27,"kara1483","Nilotic",2.45157,34.2761,48,113,0.0140485622804973,"Nilotic","Nilotic","S Africa",23,4,2,0.0866792107462246
+"456",456,"Karitiana; Karitiâna","ktn","ph",1076,TRUE,0,14,25,20,11,"kari1311","Tupian",-9.37937,-64.1522,42,61,0.0162192133275058,"Tupian","Tupian","NE South America",21,0,0,0.565548672692938
+"457",457,"Karo Batak","btx","gm",1665,TRUE,0,8,24,14,16,"bata1293","Austronesian",2.12787,98.2517,48,147,0.0183198359110334,"Austronesian","Austronesian","Southeast Asia",23,0,0,1.02896908645004
+"458",458,"kasem","xsm","aa",745,TRUE,1,20,40,27,20,"kase1253","Atlantic-Congo",11.0824,-1.39076,53,94,0.0138160821025641,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,0,1,0.0353915300876615
+"459",459,"Kashimiri","kas","spa",174,TRUE,0,29,56,35,27,"kash1277","Indo-European",34.166825,74.330455,65,134,0.0106812409990287,"Indo-European","Indo-European","Indic",24,0,0,-0.656188848346403
+"460",460,"Ke''o; Kéo'","xxk","ph",1215,TRUE,0,6,30,12,24,"keoo1238","Austronesian",-8.8704,121.256,42,159,0.0182076588655789,"Austronesian","Austronesian","Oceania",21,0,0,1.00422159814528
+"462",462,"Kela","kcl","ph",1173,TRUE,0,14,30,21,16,"kela1255","Austronesian",-7.47103,147.173,43,172,0.0174866709770785,"Austronesian","Austronesian","S New Guinea",21,4,-4,0.845163751094228
+"463",463,"Kemezung","dmo","gm",1412,TRUE,6,8,34,15,26,"keme1240","Atlantic-Congo",6.69577,10.4984,50,101,0.0163006410402098,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,6,0,0.583512520462875
+"465",465,"Kenyang","ken","ph",908,TRUE,0,20,41,27,21,"keny1279","Atlantic-Congo",5.58288,9.55918,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,3,-3,0.843450909078256
+"466",466,"Kera","ker","uz",2220,TRUE,0,6,30,14,24,"kera1255","Afro-Asiatic",9.88165,15.1419,52,103,0.0132269323290598,"Afro-Asiatic","Afro-Asiatic","African Savannah",22,0,0,-0.0945813807737345
+"467",467,"Ket","ket","spa",2,TRUE,0,14,32,20,18,"kett1243","Yeniseian",63.7551,87.5466,80,141,0.0040170688472805,"Yeniseian","Yeniseian","Inner Asia",24,3,-3,-2.12637841982359
+"469",469,"Khalkha","khk","spa",191,TRUE,0,14,35,20,21,"halh1238","Mongolic",48.324,106.289,72,151,0.00379307391530692,"Mongolic","Mongolic","Inner Asia",24,0,0,-2.1757941620272
+"470",470,"Kharia","khr","ph",909,TRUE,0,10,47,21,37,"khar1287","Austroasiatic",22.3571,84.3922,59,139,0.0109547390802253,"Austroasiatic","Austroasiatic","Indic",21,0,0,-0.595852167714769
+"471",471,"Khasi","kha","spa",12,TRUE,0,9,28,15,19,"khas1269","Austroasiatic",24.977,91.9998,60,143,0.0151366546365579,"Austroasiatic","Austroasiatic","Indic",24,0,0,0.326724335370547
+"472",472,"Khmu","kig","ph",955,TRUE,4,20,44,27,24,"kima1246","Kolopom",-8.01899,138.355,43,168,0.0193235526631702,"Kolopom","Kolopom","S New Guinea",21,0,4,1.25040002612368
+"478",478,"Kikamba","kam","gm",1443,TRUE,4,15,31,22,16,"kamb1297","Atlantic-Congo",-1.60827,37.9532,46,115,0.012022371246115,"Atlantic-Congo","Atlantic-Congo","S Africa",23,5,-1,-0.360320785763167
+"479",479,"kikuyu","kik","aa",748,TRUE,0,14,32,21,18,"kiku1240","Atlantic-Congo",-0.29005,36.719,47,114,0.0119878369139472,"Atlantic-Congo","Atlantic-Congo","S Africa",25,2,-2,-0.367939438741348
+"480",480,"Kilba","hbb","gm",1304,TRUE,2,5,31,11,26,"huba1236","Afro-Asiatic",10.3544,13.139,52,102,0.0133330583438228,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,2,0,-0.0711688162999812
+"481",481,"Kimaragang","kqr","gm",1668,TRUE,0,5,23,12,18,"kima1244","Austronesian",6.61982,116.96,50,156,0.018413293978244,"Austronesian","Austronesian","Southeast Asia",23,0,0,1.04958696255749
+"485",485,"Kinnauri; Kanauri","kfk","ph",1226,TRUE,0,15,46,23,31,"kinn1249","Sino-Tibetan",31.3688,78.3148,63,136,0.0105222514403652,"Sino-Tibetan","Sino-Tibetan","Indic",21,2,-2,-0.691263691222351
+"488",488,"Kinyarwanda","kin","ph",911,TRUE,0,10,49,21,39,"kiny1244","Atlantic-Congo",-1.56771,29.6441,46,111,0.0134721467575758,"Atlantic-Congo","Atlantic-Congo","S Africa",21,2,-2,-0.0404843845721302
+"489",489,"Kipsigis","sgc","gm",1387,TRUE,4,19,37,26,18,"kips1239","Nilotic",-0.35774,35.258532,47,114,0.0119878369139472,"Nilotic","Nilotic","S Africa",23,4,0,-0.367939438741348
+"490",490,"Kirghiz","kir","spa",188,TRUE,0,16,36,22,20,"kirg1245","Turkic",42,74,69,134,0.00385422122066822,"Turkic","Turkic","Inner Asia",24,0,0,-2.16230439486347
+"495",495,"Kituba","ktu","gm",1571,TRUE,2,5,22,10,17,"kitu1246","Atlantic-Congo",-2.29601,17.1548,46,104,0.0168977471940559,"Atlantic-Congo","Atlantic-Congo","S Africa",23,4,-2,0.715240696215223
+"496",496,"Koalib","kib","gm",1380,TRUE,0,16,45,26,29,"koal1240","Heibanic",11.69648,30.47166,53,111,0.0136004093560606,"Heibanic","Heibanic","African Savannah",23,3,-3,-0.0121882465959448
+"497",497,"Koasati","cku","ph",1106,TRUE,4,6,25,11,19,"koas1236","Muskogean",30.4096,-92.709,63,46,0.0137647111796814,"Muskogean","Muskogean","E North America",21,2,2,0.0240585402759426
+"498",498,"Kofyar","kwl","gm",1305,TRUE,3,10,36,17,26,"kofy1242","Afro-Asiatic",8.79947,9.15279,52,100,0.0149418736264569,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,3,0,0.283753505198166
+"499",499,"Kokota","kkk","ph",913,TRUE,0,5,27,15,22,"koko1269","Austronesian",-8.16481,159.191,43,179,0.0191607352758353,"Austronesian","Austronesian","Oceania",21,0,0,1.21448072220052
+"502",502,"Komi","kpv","spa",182,TRUE,0,7,36,14,29,"komi1268","Uralic",64.0527,54.946,80,124,0.00477240514592075,"Uralic","Uralic","Inner Asia",24,0,0,-1.95974293623576
+"504",504,"Komo","xom","gm",1484,TRUE,0,5,28,11,23,"komo1258","Koman",8.94162,34.0939,52,113,0.0151010292216395,"Koman","Koman","Greater Abyssinia",23,3,-3,0.318864977553862
+"505",505,"Konkomba","xon","gm",1508,TRUE,3,14,38,22,24,"konk1269","Atlantic-Congo",9.82224,0.2783,52,95,0.0159259896855089,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,3,0,0.500860316696415
+"508",508,"Korean","kor","uz",2197,TRUE,0,28,48,33,20,"kore1280","Koreanic",37.5,128,66,162,0.00938177335936286,"Koreanic","Koreanic","N Coast Asia",22,2,-2,-0.942865682138523
+"510",510,"Kota","kfe","spa",9,TRUE,0,11,34,20,23,"kota1263","Dravidian",11.4978,76.9387,53,135,0.0180547997804973,"Dravidian","Dravidian","Indic",24,0,0,0.970499205074512
+"515",515,"kpaʔ","ksf","gm",1258,TRUE,5,18,48,26,30,"bafi1243","Atlantic-Congo",4.72603,11.0982,49,101,0.0171731030205905,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,5,0,0.77598721587265
+"516",516,"Kpelle","xpe","spa",137,TRUE,3,14,49,25,35,"libe1247","Mande",6.92048,-9.96128,51,90,0.0180207553030303,"Mande","Mande","African Savannah",24,4,-1,0.962988619423564
+"523",523,"Krongo","kgo","gm",1418,TRUE,2,20,62,36,42,"kron1241","Kadugli-Krongo",10.514,30.003,52,111,0.0152365081353924,"Kadugli-Krongo","Kadugli-Krongo","African Savannah",23,2,0,0.348753113937361
+"528",528,"Kunimaipa","kup","spa",58,TRUE,0,5,20,11,15,"kuni1267","Goilalan",-8.09371,146.908,43,172,0.0174866709770785,"Goilalan","Goilalan","S New Guinea",24,0,0,0.845163751094228
+"529",529,"Kunjen","kjn","spa",46,TRUE,0,5,28,15,23,"kunj1245","Pama-Nyungan",-16.6807,143.53,38,170,0.0117111064726107,"Pama-Nyungan","Pama-Nyungan","N Australia",24,0,0,-0.428989213521922
+"530",530,"Kuo","xuo","gm",1346,TRUE,3,24,56,32,32,"kuoo1238","Atlantic-Congo",7.97771,15.4843,51,103,0.014364369209596,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,2,1,0.156349687917098
+"531",531,"Kupang Malay","mkn","gm",1687,TRUE,0,6,25,14,19,"kupa1239","Austronesian",-10.2526,123.63,42,160,0.0181520703108003,"Austronesian","Austronesian","Oceania",23,0,0,0.991958152413683
+"533",533,"kuria","kuj","aa",758,TRUE,0,7,22,13,15,"kuri1259","Atlantic-Congo",-1.50636,34.5049,46,113,0.0127024302736985,"Atlantic-Congo","Atlantic-Congo","S Africa",25,4,-4,-0.210292294965567
+"534",534,"Kurripako; Baniwa; Baniwa (Icana)","bwi","ph",1075,TRUE,0,12,37,21,25,"bani1255","Arawakan",2.17859,-67.7704,48,59,0.0184592302894328,"Arawakan","Arawakan","NE South America",21,2,-2,1.0597210173394
+"535",535,"Kurukh","kru","spa",7,TRUE,0,22,68,35,46,"kuru1302","Dravidian",24.4644,86.4657,60,140,0.0115186960415695,"Dravidian","Dravidian","Indic",24,0,0,-0.471437067916859
+"536",536,"kusal","kus","aa",759,TRUE,0,23,44,30,21,"kusa1250","Atlantic-Congo",10.9703,-0.38756,53,95,0.0138192924409479,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,3,-3,0.0360997659953335
+"537",537,"Kuteb","kub","ph",1119,TRUE,5,13,46,21,33,"kute1248","Atlantic-Congo",7.07479,10.0916,51,100,0.0165966920299145,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,6,-1,0.648824620417432
+"538",538,"Kuvi","kxv","ph",920,TRUE,0,15,37,23,22,"kuvi1243","Dravidian",18.8832,83.7552,57,139,0.0150810996111111,"Dravidian","Dravidian","Indic",21,0,0,0.314468286577808
+"539",539,"Kwakiutl","kwk","spa",71,TRUE,0,9,55,22,46,"kwak1269","Wakashan",50.9269,-127.308,73,28,0.0071835896509324,"Wakashan","Wakashan","Alaska-Oregon",24,0,0,-1.42780915159522
+"543",543,"kwangari","kwn","gm",1272,TRUE,0,5,27,13,22,"kwan1273","Atlantic-Congo",-17.9026,19.256,38,105,0.00926581954020979,"Atlantic-Congo","Atlantic-Congo","S Africa",23,0,0,-0.968446368202744
+"550",550,"Ladakhi","lbj","ph",922,TRUE,0,5,38,13,33,"lada1244","Sino-Tibetan",33.468,80.6013,64,137,0.00610427338558663,"Sino-Tibetan","Sino-Tibetan","Indic",21,4,-4,-1.66591817421716
+"551",551,"Lagwan","kot","gm",1406,TRUE,2,5,41,11,36,"lagw1237","Afro-Asiatic",11.5592,14.9884,53,103,0.0118932219469697,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,3,-1,-0.388812539643984
+"552",552,"Lahu","lhu","spa",23,TRUE,5,9,40,15,31,"lahu1253","Sino-Tibetan",21.2701,100.214,58,148,0.0136582032284382,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",24,7,-2,0.000561716419722545
+"553",553,"Lak","lbe","spa",3,TRUE,0,9,69,15,60,"lakk1252","Nakh-Daghestanian",42.1328,47.0809,69,120,0.00676271497804973,"Nakh-Daghestanian","Nakh-Daghestanian","Greater Mesopotamia",24,0,0,-1.52065872703854
+"554",554,"Lake Miwok; Miwok (Lake)","lmw","ph",1087,TRUE,0,10,39,16,29,"lake1258","Miwok-Costanoan",39.0021,-122.621,67,31,0.00812300170066045,"Miwok-Costanoan","Miwok-Costanoan","California",21,0,0,-1.22056453555272
+"555",555,"Lakkia","lbc","spa",26,TRUE,6,23,59,35,36,"lakk1238","Tai-Kadai",24.1169,110.106,59,153,0.0153238601091686,"Tai-Kadai","Tai-Kadai","Southeast Asia",24,5,1,0.36802391876794
+"559",559,"Lango","laj","gm",1445,TRUE,2,20,40,28,20,"lang1324","Nilotic",2.13867,33.0553,48,112,0.0148528708255633,"Nilotic","Nilotic","S Africa",23,2,0,0.26411850977391
+"561",561,"Lao","lao","ph",924,TRUE,0,12,40,21,28,"laoo1244","Tai-Kadai",16.0726,104.568,55,150,0.0172633834848485,"Tai-Kadai","Tai-Kadai","Southeast Asia",21,5,-5,0.795904077868091
+"562",562,"Larantuka Malay","lrt","gm",1688,TRUE,0,6,25,14,19,"lara1260","Austronesian",-8.4746,122.7619,43,159,0.0182140557109557,"Austronesian","Austronesian","Oceania",23,0,0,1.00563281249407
+"563",563,"Laz","lzz","ph",1088,TRUE,0,5,32,9,27,"lazz1240","Kartvelian",41.5004,41.9096,68,117,0.00645779386985237,"Kartvelian","Kartvelian","Greater Mesopotamia",21,0,0,-1.58792767255601
+"564",564,"Lebanese Arabic","ayl","ph",1098,TRUE,0,16,50,25,34,"liby1240","Afro-Asiatic",22.0032,15.0014,58,103,0.00494164699630925,"Afro-Asiatic","Afro-Asiatic","N Africa",21,0,0,-1.92240632520098
+"566",566,"Leggbo","agb","gm",1540,TRUE,3,12,53,25,41,"legb1242","Atlantic-Congo",6.02645,7.98385,50,99,0.0184405448659674,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,3,0,1.05559880769476
+"569",569,"Lele","lln","gm",1275,TRUE,3,10,36,18,26,"lele1276","Afro-Asiatic",9.158,15.81149,52,103,0.0132269323290598,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,3,0,-0.0945813807737345
+"570",570,"Lele (Lyélé)","lee","ph",1240,TRUE,3,10,34,16,24,"lyel1241","Atlantic-Congo",12.4305,-2.59229,53,94,0.0138160821025641,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,0,3,0.0353915300876615
+"571",571,"lendu","led","aa",762,TRUE,4,9,55,16,46,"lend1245","Central Sudanic",2.1898,30.6794,48,111,0.0156356601981352,"Central Sudanic","Central Sudanic","S Africa",25,3,1,0.436810442997225
+"573",573,"Leti","lti","gm",1681,TRUE,0,12,22,16,10,"leti1246","Austronesian",-8.19808,127.674,43,162,0.0180504046095571,"Austronesian","Austronesian","Oceania",23,0,0,0.969529582091492
+"579",579,"limbum (southern)","lmp","gm",1260,TRUE,0,15,52,26,37,"limb1268","Atlantic-Congo",6.58608,10.9802,50,101,0.0163006410402098,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,6,-6,0.583512520462875
+"580",580,"lingala","lin","aa",768,TRUE,0,7,22,14,15,"ling1263","Atlantic-Congo",1.40324,19.7829,48,105,0.0178323326612277,"Atlantic-Congo","Atlantic-Congo","S Africa",25,2,-2,0.921420515133867
+"581",581,"Lisu","lis","ph",1121,TRUE,6,8,39,14,31,"lisu1250","Sino-Tibetan",22.5488,94.0184,59,144,0.0144618797727273,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",21,4,2,0.17786158913455
+"582",582,"Lithuanian","lit","spa",168,TRUE,0,11,47,20,36,"lith1251","Indo-European",55.1429,23.9601,75,108,0.00647340547358197,"Indo-European","Indo-European","Inner Asia",24,0,0,-1.58448358130587
+"583",583,"Lizu","ers","uz",2199,TRUE,1,8,61,16,53,"ersu1241","Sino-Tibetan",29.2867,102.213,62,149,0.00866448989083139,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",22,4,-3,-1.10110629345756
+"585",585,"Logbara","lgg","spa",151,TRUE,3,13,42,21,29,"lugb1240","Central Sudanic",3.02245,30.8642,49,111,0.0157265476068376,"Central Sudanic","Central Sudanic","S Africa",24,5,-2,0.456861203603372
+"589",589,"Loniu","los","ph",1122,TRUE,0,7,23,16,16,"loni1238","Austronesian",-2.06124,147.35,46,172,0.0195728509654235,"Austronesian","Austronesian","N Coast New Guinea",21,0,0,1.30539796972627
+"590",590,"Looma","lom","gm",1517,TRUE,2,28,51,35,23,"loma1260","Mande",7.91585,-9.69906,51,90,0.0180207553030303,"Mande","Mande","African Savannah",23,3,-1,0.962988619423564
+"591",591,"Louyi","lyn","ph",890,TRUE,0,5,22,12,17,"luya1241","Atlantic-Congo",-15.2221,18.8037,39,105,0.0103533200914918,"Atlantic-Congo","Atlantic-Congo","S Africa",21,0,0,-0.728531802212566
+"593",593,"lɔkɔ","lok","aa",764,TRUE,0,7,25,14,18,"loko1255","Mande",9.11838,-12.1583,52,89,0.0163529372115385,"Mande","Mande","African Savannah",25,5,-5,0.595049630244091
+"594",594,"Luanyjang Dinka","dik","uz",2168,TRUE,4,40,63,49,23,"sout2832","Nilotic",8.81115,28.0613,52,110,0.0148591820174825,"Nilotic","Nilotic","African Savannah",22,0,4,0.265510828029189
+"596",596,"luganda","lug","aa",770,TRUE,4,10,33,17,23,"gand1255","Atlantic-Congo",0.66884,32.15153,47,112,0.0144193281351981,"Atlantic-Congo","Atlantic-Congo","S Africa",25,2,2,0.168474230536934
+"597",597,"Luiseno","lui","spa",94,TRUE,0,11,34,18,23,"luis1253","Uto-Aztecan",33.3184,-116.939,64,34,0.00832576455963481,"Uto-Aztecan","Uto-Aztecan","California",24,0,0,-1.1758328218516
+"602",602,"Luo","luo","spa",153,TRUE,3,9,35,17,26,"luok1236","Nilotic",-0.93296,34.4896,47,113,0.0139981181993007,"Nilotic","Nilotic","S Africa",24,3,0,0.0755506923902672
+"605",605,"Luvale","lue","spa",146,TRUE,4,10,36,18,26,"luva1239","Atlantic-Congo",-13.5382,22.2924,40,107,0.0108435492610723,"Atlantic-Congo","Atlantic-Congo","S Africa",24,2,2,-0.620381863054391
+"607",607,"Luxembourgish","ltz","uz",2200,TRUE,0,17,46,24,29,"luxe1241","Indo-European",49.6839,6.14931,73,98,0.00703573235722611,"Indo-European","Indo-European","Europe",22,0,0,-1.46042809455227
+"609",609,"Lwaa","nie","gm",1623,TRUE,3,31,59,39,28,"niel1243","Atlantic-Congo",9.70362,17.81346,52,104,0.0139283709180264,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,12,-9,0.060163676083754
+"611",611,"Maasai","mas","spa",154,TRUE,4,18,43,29,25,"masa1300","Nilotic",-3.1419,36.4573,45,114,0.0117665009529915,"Nilotic","Nilotic","S Africa",24,3,1,-0.416768582734062
+"614",614,"Macedonian","mkd","ph",930,TRUE,0,6,32,13,26,"mace1250","Indo-European",41.5957,21.7932,68,106,0.0094503770468143,"Indo-European","Indo-European","Europe",21,0,0,-0.927730955189801
+"619",619,"Madurese","mad","gm",1691,TRUE,0,8,35,16,27,"nucl1460","Austronesian",-7,113,43,154,0.0182971446639472,"Austronesian","Austronesian","Southeast Asia",23,0,0,1.02396314811738
+"620",620,"Mah Meri","mhe","uz",2201,TRUE,0,28,58,39,30,"besi1244","Austroasiatic",2.717,101.676,48,148,0.0184726298329448,"Austroasiatic","Austroasiatic","Southeast Asia",22,0,0,1.06267710380976
+"621",621,"Mahas-Fiyadikka","fia","spa",152,TRUE,2,10,45,24,35,"nobi1240","Nubian",22.8142,31.8376,59,112,0.00467401322183372,"Nubian","Nubian","N Africa",24,2,0,-1.98144927536033
+"622",622,"Maidu","nmu","spa",82,TRUE,0,6,24,11,18,"nort2952","Maiduan",40.4102,-120.645,68,32,0.00576875053263403,"Maiduan","Maiduan","Basin and Plains",24,0,0,-1.7399382007367
+"623",623,"Makassar","mak","gm",1677,TRUE,0,5,23,13,18,"maka1311","Austronesian",-5.65551,119.838,44,158,0.018621902948718,"Austronesian","Austronesian","Oceania",23,0,0,1.09560839266521
+"624",624,"Mal","mlf","ph",986,TRUE,2,23,41,30,18,"mall1246","Austroasiatic",19.273,101.204,57,148,0.0148562840951826,"Austroasiatic","Austroasiatic","Southeast Asia",21,2,0,0.264871514540994
+"626",626,"Maltese","mlt","spa",134,TRUE,0,10,55,22,45,"malt1254","Afro-Asiatic",35.8884,14.4508,66,103,0.0116241162299922,"Afro-Asiatic","Afro-Asiatic","Europe",24,0,0,-0.4481802164861
+"628",628,"mambila","mzk","aa",774,TRUE,2,16,43,24,27,"nige1255","Atlantic-Congo",6.69736,11.3161,50,101,0.0163006410402098,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,9,-7,0.583512520462875
+"629",629,"Mambila","mcu","gm",1583,TRUE,4,11,35,18,24,"came1252","Atlantic-Congo",6.43829,11.41953,50,101,0.0163006410402098,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,9,-5,0.583512520462875
+"632",632,"Manado Malay","xmm","gm",1686,TRUE,0,6,25,14,19,"mala1481","Austronesian",1.48099,124.843,48,161,0.0187695439452214,"Austronesian","Austronesian","Oceania",23,0,0,1.12817961808363
+"633",633,"Manam","mva","ph",933,TRUE,0,5,18,10,13,"mana1295","Austronesian",-4.07921,145.033,45,171,0.0173973739607615,"Austronesian","Austronesian","N Coast New Guinea",21,0,0,0.825463848516105
+"634",634,"Manange","nmm","ph",935,TRUE,5,10,45,19,35,"mana1288","Sino-Tibetan",28.6416,84.0515,62,139,0.0106403479203574,"Sino-Tibetan","Sino-Tibetan","Indic",21,4,1,-0.665210310643468
+"637",637,"manding ","emk","aa",777,TRUE,2,14,36,21,22,"east2426","Mande",9.33048,-10.5394,52,89,0.0163529372115385,"Mande","Mande","African Savannah",25,2,0,0.595049630244091
+"638",638,"Mandingo","mnk","ph",1126,TRUE,5,10,34,18,24,"mand1436","Mande",12.8165233333,-15.6539466667,54,87,0.0150291238704351,"Mande","Mande","African Savannah",21,2,3,0.303001867317974
+"639",639,"mangbetu","mdj","aa",778,TRUE,2,9,47,16,38,"mang1394","Central Sudanic",2.5511,27.0712,48,109,0.0177220621911422,"Central Sudanic","Central Sudanic","S Africa",25,4,-2,0.89709363829605
+"641",641,"Manipuri","mni","ph",1125,TRUE,2,6,33,13,27,"mani1292","Sino-Tibetan",24.4409,93.3426,60,144,0.0137841268422688,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",21,2,0,0.0283418486913513
+"644",644,"Maori","mri","spa",42,TRUE,0,10,20,15,10,"maor1246","Austronesian",-38.2881,176.541,27,188,0.00828186218201243,"Austronesian","Austronesian","Oceania",24,0,0,-1.1855181685494
+"645",645,"Mara","mec","ph",937,TRUE,0,5,24,18,19,"mara1385","Mangarrayi-Maran",-14.7927,134.865,39,166,0.0109675933455711,"Mangarrayi-Maran","Mangarrayi-Maran","N Australia",21,0,0,-0.593016375596848
+"646",646,"Maranungku","zmr","spa",47,TRUE,0,5,24,16,19,"mara1386","Western Daly",-13.6754,130.12,40,163,0.0175196693997669,"Western Daly","Western Daly","N Australia",24,0,0,0.852443565571853
+"647",647,"Margi","mrt","spa",126,TRUE,2,6,44,15,38,"marg1265","Afro-Asiatic",10.93854,13.0521,53,102,0.0118947903034188,"Afro-Asiatic","Afro-Asiatic","African Savannah",24,2,0,-0.388466542985536
+"651",651,"Matbat","xmt","ph",988,TRUE,0,5,20,11,15,"matb1237","Austronesian",-1.8801,130.075,46,163,0.0187217177680653,"Austronesian","Austronesian","N Coast New Guinea",21,4,-4,1.11762863811232
+"652",652,"Matses","mcf","ph",1124,TRUE,0,6,21,10,15,"mats1244","Pano-Tacanan",-5.73914,-72.6281,44,57,0.0173550731002331,"Pano-Tacanan","Pano-Tacanan","NE South America",21,0,0,0.816131814079232
+"654",654,"Maung","mph","spa",48,TRUE,0,5,24,17,19,"maun1240","Iwaidjan Proper",-11.8393,133.185,41,165,0.0157860214772727,"Iwaidjan Proper","Iwaidjan Proper","N Australia",24,0,0,0.469981792642497
+"655",655,"Mauritian Creole","mfe","gm",1569,TRUE,0,9,30,17,21,"mori1278","Indo-European",-20.2613,57.5517,37,125,0.0160123007789433,"Indo-European","Indo-European","S Africa",23,0,0,0.51990149189126
+"656",656,"Mavea","mkv","uz",2202,TRUE,0,6,24,15,18,"mafe1237","Austronesian",-15.4316,167.241,39,183,0.0179532961868687,"Austronesian","Austronesian","Oceania",22,0,0,0.948106397472585
+"659",659,"Mazahua","maz","spa",98,TRUE,3,15,63,30,48,"cent2144","Otomanguean",19.7357,-100.018,57,42,0.0154803348135198,"Otomanguean","Otomanguean","Mesoamerica",24,3,0,0.40254395716112
+"663",663,"Mbay","myb","gm",1474,TRUE,3,19,44,26,25,"mbay1241","Central Sudanic",8.23066,15.7328,51,103,0.014364369209596,"Central Sudanic","Central Sudanic","African Savannah",23,3,0,0.156349687917098
+"664",664,"mbe","mfo","gm",1285,TRUE,4,7,37,16,30,"mbee1249","Atlantic-Congo",6.57067,8.82998,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,4,0,0.843450909078256
+"667",667,"Mbembe","nza","gm",1630,TRUE,5,12,116,27,104,"tigo1236","Atlantic-Congo",6.983995,10.70849,51,101,0.0153914506886169,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,4,1,0.38293514296387
+"670",670,"Mbuko","mqb","gm",1408,TRUE,3,8,45,14,37,"mbuk1243","Afro-Asiatic",10.7788,14.1677,53,102,0.0118947903034188,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,3,0,-0.388466542985536
+"674",674,"mekaa","mcp","aa",783,TRUE,4,21,55,28,34,"maka1304","Atlantic-Congo",4.15471,13.0789,49,102,0.0168875834518259,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,3,1,0.712998463047551
+"675",675,"mende","men","aa",784,TRUE,4,7,34,14,27,"mend1266","Mande",7.90935,-10.9926,51,89,0.0183165141802642,"Mande","Mande","African Savannah",25,4,0,1.02823627615869
+"676",676,"Mennonite Plautdietsch","pdt","uz",2224,TRUE,0,18,55,26,37,"plau1238","Indo-European",49.578028,-109.353868,73,38,0.00546186833780109,"Indo-European","Indo-European","Europe",22,0,0,-1.80763978350524
+"682",682,"Minangkabau","min","gm",1698,TRUE,0,10,33,18,23,"mina1268","Austronesian",4.17,96.25,49,146,0.0178769787839938,"Austronesian","Austronesian","Southeast Asia",23,0,0,0.931269940179165
+"683",683,"Mingrelian","xmf","ph",941,TRUE,0,5,35,10,30,"ming1252","Kartvelian",42.5129,41.8719,69,117,0.00726890632167832,"Kartvelian","Kartvelian","Greater Mesopotamia",21,0,0,-1.40898735696753
+"684",684,"minyanka","myk","aa",786,TRUE,2,19,50,28,31,"mama1271","Atlantic-Congo",12.4871,-5.28245,53,92,0.0135367023084693,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,2,0,-0.026242721010109
+"686",686,"Mmen","bfm","ph",942,TRUE,5,9,41,16,32,"mmen1238","Atlantic-Congo",6.43213,10.2541,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,9,-4,0.843450909078256
+"688",688,"Mocovi","moc","ph",1127,TRUE,0,8,31,16,23,"moco1246","Guaicuruan",-28.097,-60.4145,32,63,0.0092116198010878,"Guaicuruan","Guaicuruan","SE South America",21,0,0,-0.980403425946673
+"689",689,"Mofu, South","mif","gm",1598,TRUE,0,5,40,12,35,"mofu1248","Afro-Asiatic",10.567,14.0314,52,102,0.0133330583438228,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,3,-3,-0.0711688162999812
+"690",690,"Moghamo","mgo","gm",1625,TRUE,3,14,50,20,36,"meta1238","Atlantic-Congo",5.88942,9.87416,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,5,-2,0.843450909078256
+"691",691,"Moken","mwt","ph",943,TRUE,0,10,32,17,22,"moke1242","Austronesian",10.1474,98.6765,52,147,0.0187002476554002,"Austronesian","Austronesian","Southeast Asia",21,0,0,1.11289209544506
+"694",694,"Moloko","mlw","gm",1409,TRUE,6,10,47,16,37,"molo1266","Afro-Asiatic",10.7933,14.2521,53,102,0.0118947903034188,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,3,3,-0.388466542985536
+"695",695,"mongo-nkundu","lol","gm",1277,TRUE,4,7,56,19,49,"mong1338","Atlantic-Congo",-1.54228,20.4259,46,106,0.0176527630448718,"Atlantic-Congo","Atlantic-Congo","S Africa",23,4,0,0.881805485493411
+"696",696,"Mono","mnh","ph",1143,TRUE,3,8,44,16,36,"mono1270","Atlantic-Congo",4.57915,19.8264,49,105,0.0175021017735043,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,0,3,0.848567954267288
+"698",698,"moore","mos","aa",789,TRUE,2,24,43,30,19,"moss1236","Atlantic-Congo",10.4524,-1.17278,52,94,0.0158166494858197,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,3,-1,0.476738667725488
+"699",699,"Mori Bawah","xmz","gm",1678,TRUE,0,5,27,10,22,"mori1268","Austronesian",-2.56016,121.37,46,159,0.0180044228535354,"Austronesian","Austronesian","Oceania",23,0,0,0.959385501680308
+"700",700,"Moroccan Arabic","ary","spa",133,TRUE,0,4,78,23,74,"moro1292","Afro-Asiatic",32.5,-7.5,64,91,0.00752037014452214,"Afro-Asiatic","Afro-Asiatic","N Africa",24,0,0,-1.35351167573805
+"702",702,"Moru","mgd","gm",1293,TRUE,3,9,38,17,29,"moru1253","Central Sudanic",5.1232,30.3287,50,111,0.015742162248446,"Central Sudanic","Central Sudanic","African Savannah",23,0,3,0.460305965042946
+"703",703,"Moxo","ign","spa",111,TRUE,0,4,25,12,21,"igna1246","Arawakan",-15.1188,-65.3993,39,61,0.0145083481002331,"Arawakan","Arawakan","NE South America",24,0,0,0.188113012559303
+"706",706,"Muher","sgw","gm",1459,TRUE,0,8,42,16,34,"seba1251","Afro-Asiatic",8.11879,37.9891,51,115,0.0125021268723776,"Afro-Asiatic","Afro-Asiatic","Greater Abyssinia",23,0,0,-0.254481425295302
+"707",707,"Muhiang","aoj","ph",869,TRUE,0,5,22,9,17,"mufi1238","Nuclear Torricelli",-3.57932,142.955,45,170,0.0174953291414141,"Nuclear Torricelli","Nuclear Torricelli","N Coast New Guinea",21,0,0,0.847073837242137
+"708",708,"Muna","mnb","ph",1214,TRUE,0,5,33,12,28,"muna1247","Austronesian",-5.40419,122.541,44,159,0.0186075924747475,"Austronesian","Austronesian","Oceania",21,0,0,1.09245134493066
+"710",710,"Mundang","mua","gm",1343,TRUE,3,27,67,39,40,"mund1325","Atlantic-Congo",9.83195,14.4751,52,103,0.0132269323290598,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,3,0,-0.0945813807737345
+"712",712,"Mundari","unr","spa",10,TRUE,0,5,37,14,32,"mund1320","Austroasiatic",25.0391,87.1792,60,141,0.0133251709555167,"Austroasiatic","Austroasiatic","Indic",24,0,0,-0.0729088607900952
+"714",714,"Mundurukú","myu","ph",1129,TRUE,2,20,39,26,19,"mund1330","Tupian",-8.41095,-57.691,43,65,0.0173340307750583,"Tupian","Tupian","NE South America",21,0,2,0.81148964603087
+"718",718,"murle","mur","aa",793,TRUE,0,14,34,22,20,"murl1244","Surmic",6.69756,33.988,50,113,0.015100198284188,"Surmic","Surmic","African Savannah",25,5,-5,0.3186816636256
+"719",719,"Muyang","muy","gm",1410,TRUE,5,14,46,20,32,"muya1243","Afro-Asiatic",10.86047,14.21246,53,102,0.0118947903034188,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,3,2,-0.388466542985536
+"720",720,"mwaghavul ","sur","aa",794,TRUE,0,12,37,20,25,"mwag1236","Afro-Asiatic",9.47205,8.96522,52,100,0.0149418736264569,"Afro-Asiatic","Afro-Asiatic","African Savannah",25,3,-3,0.283753505198166
+"722",722,"Mwotlap","mlv","ph",948,TRUE,0,7,22,14,15,"motl1237","Austronesian",-13.6535,167.673,40,183,0.018575786981352,"Austronesian","Austronesian","Oceania",21,0,0,1.08543470375738
+"723",723,"myene","mye","gm",1263,TRUE,0,7,36,16,29,"myen1241","Atlantic-Congo",-1.48741,9.50247,46,100,0.0174443715870241,"Atlantic-Congo","Atlantic-Congo","S Africa",23,2,-2,0.83583204106007
+"725",725,"nafaanra","nfr","aa",795,TRUE,0,19,44,28,25,"nafa1258","Atlantic-Congo",8.00522,-2.51001,51,94,0.0174215015860528,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,3,-3,0.830786667657035
+"728",728,"Namia","nnm","ph",949,TRUE,0,6,15,12,9,"nami1256","Sepik",-3.85538,141.788,45,169,0.0175709102758353,"Sepik","Sepik","N Coast New Guinea",21,4,-4,0.863747865627991
+"730",730,"Nankina","nnk","ph",953,TRUE,0,6,20,11,14,"nank1250","Nuclear Trans New Guinea",-5.80804,146.464,44,172,0.016431737020202,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","N Coast New Guinea",21,0,0,0.612433733519557
+"731",731,"Nasioi","nas","spa",60,TRUE,0,10,18,13,8,"naas1242","South Bougainville",-6.46022,155.632,44,177,0.0190899393609169,"South Bougainville","South Bougainville","Oceania",24,2,-2,1.19886236579462
+"733",733,"Navaho","nav","spa",66,TRUE,2,16,54,24,38,"nava1243","Athapaskan-Eyak-Tlingit",36.2106,-110.082,66,37,0.00500523415947941,"Athapaskan-Eyak-Tlingit","Athapaskan-Eyak-Tlingit","Basin and Plains",24,2,0,-1.90837829860685
+"736",736,"Nchane","ncr","gm",1600,TRUE,6,18,41,25,23,"ncan1245","Atlantic-Congo",6.50696,10.5312,50,101,0.0163006410402098,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,7,-1,0.583512520462875
+"742",742,"ndonga","ndo","gm",1269,TRUE,0,5,30,11,25,"ndon1254","Atlantic-Congo",-17.6417,19.1631,38,105,0.00926581954020979,"Atlantic-Congo","Atlantic-Congo","S Africa",23,2,-2,-0.968446368202744
+"745",745,"Nez Perce","nez","spa",81,TRUE,0,10,36,20,26,"nezp1238","Sahaptian",46.3073,-116.408,71,34,0.00516837514374514,"Sahaptian","Sahaptian","Basin and Plains",24,0,0,-1.87238760564657
+"746",746,"Ngad''a; Ngadha'","nxg","ph",1213,TRUE,0,6,27,11,21,"ngad1261","Austronesian",-8.79508,120.976,42,159,0.0182076588655789,"Austronesian","Austronesian","Oceania",21,0,0,1.00422159814528
+"747",747,"Ngalakan","nig","ph",960,TRUE,0,9,26,20,17,"ngal1293","Gunwinyguan",-14.4281,134.716,40,166,0.0135774683457653,"Gunwinyguan","Gunwinyguan","N Australia",21,0,0,-0.0172492854357732
+"748",748,"ngambai","sba","aa",799,TRUE,3,13,34,19,21,"ngam1268","Central Sudanic",8.57051,15.414,51,103,0.014364369209596,"Central Sudanic","Central Sudanic","African Savannah",25,3,0,0.156349687917098
+"750",750,"Nganikurungkurr","nam","ph",961,TRUE,0,8,28,18,20,"nang1259","Southern Daly",-14.268,131.237,40,164,0.015691807785742,"Southern Daly","Southern Daly","N Australia",21,0,0,0.449197217510765
+"751",751,"ngbaka","nga","aa",800,TRUE,0,12,34,19,22,"ngba1285","Atlantic-Congo",2.98887,18.994,49,105,0.0175021017735043,"Atlantic-Congo","Atlantic-Congo","S Africa",25,7,-7,0.848567954267288
+"752",752,"ngbandi","ngb","aa",801,TRUE,0,12,31,18,19,"nort2774","Atlantic-Congo",3.56357,21.85251,49,106,0.0178358239063714,"Atlantic-Congo","Atlantic-Congo","S Africa",25,3,-3,0.922190722158064
+"753",753,"Ngemba","nge","ph",936,TRUE,2,9,40,17,31,"ngem1255","Atlantic-Congo",5.97864,10.1469,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,2,0,0.843450909078256
+"754",754,"Ngiemboon","nnh","gm",1628,TRUE,4,9,30,14,21,"ngie1241","Atlantic-Congo",5.56777,10.1266,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,4,0,0.843450909078256
+"756",756,"Ngiti","niy","gm",1470,TRUE,7,5,56,12,51,"ngit1239","Central Sudanic",1.30455,30.2242,48,111,0.0156356601981352,"Central Sudanic","Central Sudanic","S Africa",23,4,3,0.436810442997225
+"758",758,"Ngomba","jgo","gm",1411,TRUE,2,6,27,12,21,"ngom1272","Atlantic-Congo",5.63067,10.237,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,2,0,0.843450909078256
+"762",762,"Nias","nia","gm",1674,TRUE,0,6,25,11,19,"nias1242","Austronesian",0.90691,97.4961,47,146,0.0183779379623155,"Austronesian","Austronesian","Southeast Asia",23,0,0,1.04178703711688
+"764",764,"Ningil","niz","ph",980,TRUE,0,7,21,14,14,"ning1273","Nuclear Torricelli",-3.49733,142.251,45,170,0.0174953291414141,"Nuclear Torricelli","Nuclear Torricelli","N Coast New Guinea",21,0,0,0.847073837242137
+"765",765,"Nishgha","ncg","ph",1130,TRUE,0,10,42,20,32,"nisg1240","Tsimshian",55.199,-129.192,76,27,0.00568517881526807,"Tsimshian","Tsimshian","Alaska-Oregon",21,0,0,-1.75837503948337
+"768",768,"North Maluku Malay","max","gm",1689,TRUE,0,6,27,14,21,"nort2828","Austronesian",-0.86437,128.323,47,162,0.0187525773698524,"Austronesian","Austronesian","Oceania",23,0,0,1.12443660520774
+"769",769,"North Marquesan","mrq","ph",1205,TRUE,0,10,22,13,12,"nort2845","Austronesian",-8.89412,-140.108,42,21,0.0180427154409479,"Austronesian","Austronesian","Oceania",21,0,0,0.967833267043627
+"770",770,"Northern Khmer","kxm","ph",965,TRUE,0,19,43,30,24,"nort2684","Austroasiatic",14.4674,103.863,54,150,0.0178368073076923,"Austroasiatic","Austroasiatic","Southeast Asia",21,0,0,0.922407671290476
+"772",772,"Northern Paiute","pao","ph",966,TRUE,0,10,24,15,14,"nort2954","Uto-Aztecan",40.0799,-119.536,68,32,0.00576875053263403,"Uto-Aztecan","Uto-Aztecan","Basin and Plains",21,0,0,-1.7399382007367
+"774",774,"Northern Pomo","pej","ph",1135,TRUE,0,10,39,15,29,"nort2966","Pomoan",39.1084,-123.209,67,30,0.00875393048174048,"Pomoan","Pomoan","California",21,2,-2,-1.0813747167475
+"775",775,"Northern Saami","sme","uz",2235,TRUE,0,11,74,29,63,"nort2671","Uralic",68.725,22.1113,83,107,0.00384119447738928,"Uralic","Uralic","Inner Asia",22,0,0,-2.16517823750782
+"776",776,"Norwegian","nob","spa",159,TRUE,2,19,48,32,29,"norw1259","Indo-European",61.112,8.886,79,100,0.00485189965928516,"Indo-European","Indo-European","Europe",24,2,0,-1.94220557347311
+"778",778,"nɔmaa","lem","aa",798,TRUE,2,14,30,21,16,"noma1260","Atlantic-Congo",4.5893,10.9157,49,101,0.0171731030205905,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,2,0,0.77598721587265
+"779",779,"nsoʼ","lns","aa",804,TRUE,7,12,45,20,33,"lamn1239","Atlantic-Congo",6.39743,11.0684,50,101,0.0163006410402098,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,8,-1,0.583512520462875
+"780",780,"Nubi","kcn","ph",967,TRUE,0,5,35,15,30,"nubi1253","Afro-Asiatic",-0.183215,34.7552,47,113,0.0139981181993007,"Afro-Asiatic","Afro-Asiatic","S Africa",21,0,0,0.0755506923902672
+"781",781,"Nuer","nus","ph",968,TRUE,0,28,48,37,20,"nuer1246","Nilotic",8.13911,32.3829,51,112,0.0159175540971251,"Nilotic","Nilotic","African Savannah",21,4,-4,0.498999333248098
+"785",785,"Nunggubuyu","nuy","spa",49,TRUE,0,5,24,18,19,"nung1290","Gunwinyguan",-14.2623,135.753,40,166,0.0135774683457653,"Gunwinyguan","Gunwinyguan","N Australia",24,0,0,-0.0172492854357732
+"790",790,"Nyangumata","nna","spa",45,TRUE,0,7,27,20,20,"nyan1301","Pama-Nyungan",-20.6271,121.391,36,159,0.00631709305749806,"Pama-Nyungan","Pama-Nyungan","N Australia",24,0,0,-1.61896781712482
+"792",792,"Nyole","nuj","gm",1447,TRUE,2,10,36,18,26,"nyol1238","Atlantic-Congo",0.88072,33.9181,47,113,0.0139981181993007,"Atlantic-Congo","Atlantic-Congo","S Africa",23,4,-2,0.0755506923902672
+"793",793,"Nzema","nzi","gm",1399,TRUE,2,14,40,22,26,"nzim1238","Atlantic-Congo",5.1785,-2.81123,50,94,0.018372138459596,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,3,-1,1.0405076031191
+"794",794,"Nzɛbi","nzb","gm",1371,TRUE,2,8,34,15,26,"njeb1242","Atlantic-Congo",-2.18115,12.7063,46,102,0.0163097279137529,"Atlantic-Congo","Atlantic-Congo","S Africa",23,4,-2,0.585517184570613
+"795",795,"Obolo","ann","ph",972,TRUE,3,12,37,21,25,"obol1243","Atlantic-Congo",4.62851,7.81985,49,99,0.0185134842851593,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,0,3,1.0716900446862
+"796",796,"Ocaina","oca","spa",117,TRUE,2,9,38,17,29,"ocai1244","Huitotoan",-2.159,-72.1422,46,57,0.0184324251146076,"Huitotoan","Huitotoan","NE South America",24,2,0,1.05380750136288
+"797",797,"Ojibwa","ojg","spa",72,TRUE,0,11,27,14,16,"east2542","Algic",45.0112,-79.7503,70,53,0.00683108637296037,"Algic","Algic","E North America",24,0,0,-1.50557524637566
+"798",798,"Oku","oku","ph",975,TRUE,4,7,29,13,22,"okuu1243","Atlantic-Congo",6.23712,10.5096,50,101,0.0163006410402098,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,2,2,0.583512520462875
+"800",800,"Oluta Popoluca; Olutec","plo","ph",1207,TRUE,0,12,32,19,20,"olut1240","Mixe-Zoque",17.8937,-94.8863,56,45,0.0160060400019425,"Mixe-Zoque","Mixe-Zoque","Mesoamerica",21,0,0,0.518520295720704
+"801",801,"Oneida","one","spa",77,TRUE,0,13,22,16,9,"onei1249","Iroquoian",43.438742,-75.708106,69,55,0.00763722998329448,"Iroquoian","Iroquoian","E North America",24,2,-2,-1.3277311117947
+"803",803,"Öñge; Ong; Onge","oon","ph",1206,TRUE,0,8,24,16,16,"onge1236","Jarawa-Onge",10.6926,92.4707,53,144,0.018666048490676,"Jarawa-Onge","Jarawa-Onge","Southeast Asia",21,0,0,1.10534738408619
+"807",807,"Oromo, Eastern","hae","gm",1552,TRUE,2,10,60,23,50,"east2652","Afro-Asiatic",8.67428,41.4395,51,117,0.0114529695200078,"Afro-Asiatic","Afro-Asiatic","S Africa",23,2,0,-0.485937060469442
+"809",809,"Ossetian","oss","ph",976,TRUE,0,9,39,15,30,"osse1243","Indo-European",41.7882,43.2674,69,118,0.00679422693356643,"Indo-European","Indo-European","Greater Mesopotamia",21,0,0,-1.51370684354535
+"812",812,"Otuho","lot","gm",1366,TRUE,3,20,56,34,36,"otuh1238","Nilotic",4.16379,32.6641,49,112,0.015005820452603,"Nilotic","Nilotic","S Africa",23,4,-1,0.297860877395086
+"814",814,"Pa-O, Taungthu","blk","ph",1043,TRUE,3,11,34,18,23,"paok1235","Sino-Tibetan",20.211,97.5969,57,146,0.0153743685328283,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",21,6,-3,0.379166631777952
+"815",815,"Pagasinan","pag","gm",1699,TRUE,0,5,21,11,16,"pang1290","Austronesian",15.9377,120.365,55,158,0.0190760986208236,"Austronesian","Austronesian","Oceania",23,0,0,1.19580894651263
+"817",817,"Pajade","pbp","gm",1329,TRUE,0,18,43,26,25,"bady1239","Atlantic-Congo",12.6425,-13.4759,54,88,0.0123515508304196,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,0,0,-0.287700153977587
+"818",818,"Palauan","pau","ph",977,TRUE,0,12,22,16,10,"pala1344","Austronesian",7.34138,134.476678,51,166,0.0194341103418803,"Austronesian","Austronesian","Oceania",21,0,0,1.27479026433859
+"819",819,"Palula (Phalura)","phl","ph",1036,TRUE,0,10,40,18,30,"phal1254","Indo-European",35.5096,71.8421,65,133,0.00991347902719503,"Indo-European","Indo-European","Indic",21,2,-2,-0.825565571915964
+"820",820,"Panamint","par","ph",1133,TRUE,0,13,36,23,23,"pana1305","Uto-Aztecan",36.0007,-117.901,66,33,0.006232086749223,"Uto-Aztecan","Uto-Aztecan","Basin and Plains",21,0,0,-1.63772114238263
+"821",821,"pandikeri","mhi","aa",807,TRUE,4,10,38,18,28,"madi1260","Central Sudanic",3.62499,31.8471,49,112,0.015005820452603,"Central Sudanic","Central Sudanic","S Africa",25,3,1,0.297860877395086
+"823",823,"Pashto","pst","spa",173,TRUE,0,7,38,15,31,"cent1973","Indo-European",31.9153,69.4529,63,131,0.00515201252408702,"Indo-European","Indo-European","Inner Asia",24,0,0,-1.8759973792592
+"824",824,"Patep","ptp","ph",1172,TRUE,0,14,44,24,30,"pate1247","Austronesian",-6.91988,146.639,43,172,0.0174866709770785,"Austronesian","Austronesian","Interior New Guinea",21,0,0,0.845163751094228
+"825",825,"Pero","pip","gm",1361,TRUE,2,10,30,17,20,"pero1241","Afro-Asiatic",9.62092,11.044,52,101,0.0141151733298368,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,2,0,0.101374339841651
+"826",826,"Persian","pes","uz",2205,TRUE,0,6,29,11,23,"west2369","Indo-European",28.6593,55.1586,62,124,0.00682989562567987,"Indo-European","Indo-European","Greater Mesopotamia",22,0,0,-1.50583793830411
+"827",827,"Petats","pex","ph",1171,TRUE,0,15,30,22,15,"peta1245","Austronesian",-5.34068,154.593,44,176,0.0190979505167055,"Austronesian","Austronesian","Oceania",21,0,0,1.20062971475076
+"828",828,"Phan Rang Cham (Eastern Cham)","cjm","gm",1671,TRUE,0,9,30,17,21,"east2563","Austronesian",11.2853,108.49,53,152,0.018136469965035,"Austronesian","Austronesian","Southeast Asia",23,2,-2,0.988516544794112
+"830",830,"Pilaga; Pilagá","plg","ph",1073,TRUE,0,4,22,11,18,"pila1245","Guaicuruan",-25.0058,-60.1537,34,63,0.0114692239963092,"Guaicuruan","Guaicuruan","SE South America",21,0,0,-0.482351144469077
+"831",831,"Pima","ood","spa",96,TRUE,0,10,29,16,19,"toho1245","Uto-Aztecan",31.7973,-111.995,63,36,0.00650983634479409,"Uto-Aztecan","Uto-Aztecan","Basin and Plains",24,0,0,-1.5764465309842
+"832",832,"Pinyin","pny","gm",1632,TRUE,5,20,66,31,46,"piny1238","Atlantic-Congo",5.7991,10.0682,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,5,0,0.843450909078256
+"834",834,"Pitjantjatjara","pjt","uz",2226,TRUE,0,6,25,13,19,"pitj1243","Pama-Nyungan",-26.9704,131.357,33,164,0.00495514860664336,"Pama-Nyungan","Pama-Nyungan","S Australia",22,0,0,-1.91942772166863
+"836",836,"Pokot","pko","gm",1394,TRUE,3,19,39,27,20,"poko1263","Nilotic",1.57023,35.2318,48,113,0.0140485622804973,"Nilotic","Nilotic","S Africa",23,5,-2,0.0866792107462246
+"837",837,"Polish","pol","ph",1046,TRUE,0,6,37,14,31,"poli1260","Indo-European",51.8439,18.6255,74,105,0.00646963003535354,"Indo-European","Indo-European","Europe",21,0,0,-1.58531648444594
+"838",838,"Pomo","pom","spa",89,TRUE,0,11,38,17,27,"sout2982","Pomoan",38.9354,-122.599,67,31,0.00812300170066045,"Pomoan","Pomoan","California",24,2,-2,-1.22056453555272
+"839",839,"Popoluca de Sayula","pos","ph",999,TRUE,0,6,25,12,19,"sayu1241","Mixe-Zoque",17.8606,-94.9531,56,45,0.0160060400019425,"Mixe-Zoque","Mixe-Zoque","Mesoamerica",21,0,0,0.518520295720704
+"840",840,"Portuguese (European)","por","uz",2206,TRUE,0,20,47,26,27,"port1283","Indo-European",39.91,-8.1,68,91,0.00918979493570319,"Indo-European","Indo-European","Europe",22,0,0,-0.985218230960215
+"843",843,"pulaar ","fuc","aa",809,TRUE,0,10,38,18,28,"pula1263","Atlantic-Congo",13.8694,-13.4482,54,88,0.0123515508304196,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,2,-2,-0.287700153977587
+"845",845,"Punjabi","pan","spa",175,TRUE,3,20,73,34,53,"panj1256","Indo-European",30.0368,75.6702,63,135,0.0100549214823232,"Indo-European","Indo-European","Indic",24,2,1,-0.794361812805538
+"846",846,"Pwo Karen","pww","ph",1224,TRUE,5,25,52,32,27,"pwon1235","Sino-Tibetan",18.016,98.2709,56,147,0.015984959018648,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",21,6,-1,0.513869599266543
+"849",849,"Rama","rma","ph",987,TRUE,0,9,28,17,19,"rama1270","Chibchan",11.5007,-83.8571,53,51,0.018008292964258,"Chibchan","Chibchan","Mesoamerica",21,0,0,0.960239290612416
+"850",850,"Remo","bfw","ph",1101,TRUE,0,6,27,15,21,"bond1245","Austroasiatic",19.1512,83.8141,57,139,0.0150810996111111,"Austroasiatic","Austroasiatic","Indic",21,0,0,0.314468286577808
+"851",851,"rendille","rel","aa",811,TRUE,2,10,33,18,23,"rend1243","Afro-Asiatic",2.27065,37.3608,48,115,0.0118025208269231,"Afro-Asiatic","Afro-Asiatic","S Africa",25,3,-1,-0.408822202926592
+"854",854,"Ronga","rng","gm",1546,TRUE,0,5,69,20,64,"rong1268","Atlantic-Congo",-26.7329,32.6167,33,112,0.0116377731744367,"Atlantic-Congo","Atlantic-Congo","S Africa",23,0,0,-0.445167344542916
+"855",855,"Rumanian","ron","spa",165,TRUE,0,9,31,15,22,"roma1327","Indo-European",46.3913,24.2256,71,108,0.00701373831332556,"Indo-European","Indo-European","Europe",24,0,0,-1.46528022220458
+"856",856,"Rundi","run","ph",989,TRUE,2,5,29,11,24,"rund1242","Atlantic-Congo",-1.44174,31.3191,46,111,0.0134721467575758,"Atlantic-Congo","Atlantic-Congo","S Africa",21,4,-2,-0.0404843845721302
+"857",857,"Runyankore","nyn","ph",990,TRUE,0,8,28,13,20,"nyan1307","Atlantic-Congo",-0.46364,30.548,47,111,0.0144951757867133,"Atlantic-Congo","Atlantic-Congo","S Africa",21,2,-2,0.185207055520969
+"858",858,"Russian","rus","spa",166,TRUE,0,5,38,14,33,"russ1263","Indo-European",59,50,77,121,0.0053805347553613,"Indo-European","Indo-European","Inner Asia",24,0,0,-1.82558286510503
+"859",859,"Sa'ban","snv","spa",34,TRUE,0,8,46,27,38,"saba1265","Austronesian",3.58723,115.664,49,156,0.0175545499164724,"Austronesian","Austronesian","Southeast Asia",24,0,0,0.86013859066131
+"860",860,"Saanich","str","ph",996,TRUE,0,5,40,17,35,"stra1244","Salishan",48.51614,-123.757114,72,30,0.0071591282503885,"Salishan","Salishan","Alaska-Oregon",21,0,0,-1.43320560522284
+"861",861,"Sabane","sae","ph",995,TRUE,0,5,18,10,13,"saba1268","Nambiquaran",-12.9857,-60.335,40,63,0.0143314641008159,"Nambiquaran","Nambiquaran","NE South America",21,4,-4,0.149090459512541
+"864",864,"Salasaca Quichua","qxl","ph",1146,TRUE,0,5,29,12,24,"sala1272","Quechuan",-1.35447,-78.3953,46,54,0.0133793786596737,"Quechuan","Quechuan","Andean",21,0,0,-0.0609500458719607
+"865",865,"Samba Leko","ndi","ph",992,TRUE,3,9,34,16,25,"samb1305","Atlantic-Congo",8.19236,11.7366,51,101,0.0153914506886169,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,5,-2,0.38293514296387
+"866",866,"Samo","smq","ph",982,TRUE,0,6,18,10,12,"samo1303","East Strickland",-6.15496,142.195,44,170,0.0179879601573427,"East Strickland","East Strickland","Interior New Guinea",21,0,0,0.955753650084973
+"867",867,"Samo de Toma","sbd","ph",993,TRUE,0,8,26,14,18,"sout2844","Mande",12.713,-2.9052,54,93,0.0117534919376457,"Mande","Mande","African Savannah",21,7,-7,-0.419638514401654
+"871",871,"San Miguel Chimalapa Zoque","zoh","ph",1021,TRUE,0,6,26,13,20,"chim1300","Mixe-Zoque",16.6543,-94.6913,56,45,0.0160060400019425,"Mixe-Zoque","Mixe-Zoque","Mesoamerica",21,2,-2,0.518520295720704
+"872",872,"sango","sag","aa",813,TRUE,6,12,44,20,32,"sang1328","Atlantic-Congo",6.78584,20.1702,51,106,0.0162575693057498,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,3,3,0.574010422769928
+"873",873,"Sanuma; Sanumá","xsu","ph",1236,TRUE,0,13,24,17,11,"sanu1240","Yanomamic",1.31875,-67.6498,48,59,0.0184592302894328,"Yanomamic","Yanomamic","NE South America",21,0,0,1.0597210173394
+"875",875,"Sasak","sas","ph",997,TRUE,0,11,30,19,19,"sasa1249","Austronesian",-8.58349,116.284,43,156,0.018235656462704,"Austronesian","Austronesian","Southeast Asia",21,0,0,1.01039817557792
+"879",879,"Secoya","sey","ph",1000,TRUE,0,6,18,9,12,"seco1241","Tucanoan",-0.459785,-75.5547,47,55,0.0147417203554779,"Tucanoan","Tucanoan","NE South America",21,0,0,0.239597495270784
+"880",880,"Sedang","sed","spa",13,TRUE,0,14,53,35,39,"seda1262","Austroasiatic",14.7793,108.027,55,152,0.0163622158080808,"Austroasiatic","Austroasiatic","Southeast Asia",24,0,0,0.597096590551209
+"881",881,"Sedik","trv","ph",1001,TRUE,0,10,43,21,33,"taro1264","Austronesian",23.9032,121.358,59,159,0.017203714020979,"Austronesian","Austronesian","Southeast Asia",21,0,0,0.78274033876907
+"882",882,"Seimat","ssg","ph",1002,TRUE,0,17,28,22,11,"seim1238","Austronesian",-1.5297,145.074,46,171,0.0191470745337995,"Austronesian","Austronesian","Oceania",21,0,0,1.21146701246698
+"883",883,"Selaru","slu","ph",1062,TRUE,0,5,19,11,14,"sela1259","Austronesian",-8.18376,130.961,43,164,0.0183834713519814,"Austronesian","Austronesian","Oceania",21,0,0,1.04300776365222
+"885",885,"Selepet","spl","spa",59,TRUE,0,6,21,13,15,"sele1250","Nuclear Trans New Guinea",-6.03532,147.234,44,172,0.016431737020202,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","N Coast New Guinea",24,0,0,0.612433733519557
+"886",886,"Semelai","sza","ph",1003,TRUE,0,18,50,35,32,"seme1247","Austroasiatic",2.82799,102.806,48,149,0.0186636443997669,"Austroasiatic","Austroasiatic","Southeast Asia",21,0,0,1.10481701522672
+"887",887,"Seneca","see","spa",76,TRUE,0,16,27,20,11,"sene1264","Iroquoian",42.56,-77.53,69,54,0.00754492058585859,"Iroquoian","Iroquoian","E North America",24,2,-2,-1.34809557873363
+"889",889,"Senoufo-Cebaara","sef","gm",1256,TRUE,3,13,38,18,25,"ceba1235","Atlantic-Congo",9.50768,-6.15264,52,92,0.0155780711740482,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,2,1,0.42410567176438
+"890",890,"Sentani","set","spa",52,TRUE,0,7,17,12,10,"nucl1632","Sentanic",-2.6013,140.512,46,169,0.0184464697552448,"Sentanic","Sentanic","N Coast New Guinea",24,0,0,1.05690590334437
+"892",892,"Serrano","ser","ph",1004,TRUE,0,9,42,20,33,"serr1255","Uto-Aztecan",33.9479,-116.772,65,34,0.00742554327719503,"Uto-Aztecan","Uto-Aztecan","California",21,0,0,-1.37443152418518
+"893",893,"Sesotho","sso","ph",1017,TRUE,0,9,46,17,37,"siss1243","Austronesian",-3.01976,142.049,45,170,0.0174953291414141,"Austronesian","Austronesian","N Coast New Guinea",21,0,0,0.847073837242137
+"894",894,"Shanenawa","ywn","ph",1006,TRUE,0,4,18,9,14,"yawa1260","Pano-Tacanan",-8.87563,-71.8199,42,57,0.0159249024825175,"Pano-Tacanan","Pano-Tacanan","NE South America",21,0,0,0.500620467775403
+"896",896,"Shanjo","toi","gm",1328,TRUE,3,5,41,12,36,"tong1318","Atlantic-Congo",-17.422325,27.103495,38,109,0.00985542475330225,"Atlantic-Congo","Atlantic-Congo","S Africa",23,2,1,-0.838372982365956
+"897",897,"Shawnee","sjw","ph",1012,TRUE,0,6,19,11,13,"shaw1249","Algic",35.354,-96.7635,65,44,0.0090554159496892,"Algic","Algic","E North America",21,0,0,-1.01486371120364
+"899",899,"Sherbro","bun","gm",1321,TRUE,0,7,31,14,24,"sher1258","Atlantic-Congo",7.77585,-12.7405,51,88,0.0182176324378399,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,2,-2,1.00642187772909
+"900",900,"Shilha","rif","spa",123,TRUE,0,4,49,16,45,"tari1263","Afro-Asiatic",34.916974,-3.430616,65,93,0.00644721433935509,"Afro-Asiatic","Afro-Asiatic","N Africa",24,0,0,-1.59026163318219
+"901",901,"Shilluk","shk","gm",1359,TRUE,3,26,54,35,28,"shil1265","Nilotic",9.85472,31.7926,52,112,0.0151930361932789,"Nilotic","Nilotic","African Savannah",23,3,0,0.33916272604044
+"904",904,"Shona","sna","ph",1008,TRUE,0,5,42,13,37,"shon1251","Atlantic-Congo",-17.20849,29.75725,38,111,0.00992814090384615,"Atlantic-Congo","Atlantic-Congo","S Africa",21,2,-2,-0.822331000890499
+"905",905,"Shupamem","bax","ph",1009,TRUE,0,10,38,19,28,"bamu1253","Atlantic-Congo",5.49017,10.8477,50,101,0.0163006410402098,"Atlantic-Congo","Atlantic-Congo","African Savannah",21,4,-4,0.583512520462875
+"906",906,"Siar-Lak","sjr","ph",1010,TRUE,0,7,22,14,15,"siar1238","Austronesian",-4.62059,152.892,45,175,0.0189455591181041,"Austronesian","Austronesian","N Coast New Guinea",21,0,0,1.16701049845428
+"907",907,"Sidaama; Sidamo; Sidamic","sid","ph",1080,TRUE,0,10,35,17,25,"sida1246","Afro-Asiatic",6.74176,38.3729,50,115,0.0127948201095571,"Afro-Asiatic","Afro-Asiatic","Greater Abyssinia",21,0,0,-0.189910082427109
+"908",908,"Silt'i","stv","gm",1414,TRUE,0,10,56,24,46,"silt1240","Afro-Asiatic",7.77004,38.1449,51,115,0.0125021268723776,"Afro-Asiatic","Afro-Asiatic","Greater Abyssinia",23,0,0,-0.254481425295302
+"909",909,"Sindhi","snd","ph",1148,TRUE,0,10,54,21,44,"sind1272","Indo-European",26,69,60,131,0.0164155240042735,"Indo-European","Indo-European","Indic",21,0,0,0.608856964132826
+"910",910,"Sinhalese","sin","spa",178,TRUE,0,16,53,28,37,"sinh1246","Indo-European",8,81,51,138,0.017882098510101,"Indo-European","Indo-European","Indic",24,0,0,0.932399407990054
+"913",913,"Siriono","srq","spa",118,TRUE,0,10,28,17,18,"siri1273","Tupian",-15.5298,-63.9688,39,61,0.0145083481002331,"Tupian","Tupian","NE South America",24,0,0,0.188113012559303
+"918",918,"Skou","skv","ph",1013,TRUE,3,7,23,13,16,"nucl1634","Sko",-2.64378,140.902,46,169,0.0184464697552448,"Sko","Sko","N Coast New Guinea",21,3,0,1.05690590334437
+"919",919,"Slovak","slk","uz",2209,TRUE,0,11,44,20,33,"slov1269","Indo-European",48.545705,18.78479,72,105,0.00756727421969697,"Indo-European","Indo-European","Europe",22,0,0,-1.34316412159155
+"920",920,"Slovene","slv","ph",1149,TRUE,0,16,37,22,21,"slov1268","Indo-European",46.2543,14.7766,71,103,0.00816717954778555,"Indo-European","Indo-European","Europe",21,2,-2,-1.21081841725706
+"921",921,"So","thm","ph",1014,TRUE,0,50,72,58,22,"aheu1239","Austroasiatic",17.7655,104.229,56,150,0.0168488287801088,"Austroasiatic","Austroasiatic","Southeast Asia",21,4,-4,0.704448756811412
+"923",923,"Somali","som","spa",127,TRUE,2,20,52,29,32,"soma1255","Afro-Asiatic",4.778704,45.152856,49,119,0.0141365258430458,"Afro-Asiatic","Afro-Asiatic","Greater Abyssinia",24,3,-1,0.106084938777254
+"925",925,"songhoy","khq","gm",1257,TRUE,6,14,43,23,29,"koyr1240","Songhay",16.192,-3.73962,55,93,0.00954897644794095,"Songhay","Songhay","African Savannah",23,3,3,-0.905978844351507
+"926",926,"soninke (kaedi (MRT))","snk","gm",1273,TRUE,7,15,50,28,35,"soni1259","Mande",13.1273,-11.7178,54,89,0.0112488949770785,"Mande","Mande","African Savannah",23,2,5,-0.530958146057684
+"927",927,"Soo","teu","gm",1476,TRUE,0,10,28,18,18,"sooo1256","Kuliak",2.58367,34.7595,48,113,0.0140485622804973,"Kuliak","Kuliak","S Africa",23,0,0,0.0866792107462246
+"928",928,"soso","sus","aa",822,TRUE,0,14,35,22,21,"susu1250","Mande",10.4046,-13.3628,52,88,0.0174960431662782,"Mande","Mande","African Savannah",25,2,-2,0.847231358969528
+"929",929,"South Efate","erk","ph",1015,TRUE,0,5,20,13,15,"sout2856","Austronesian",-17.7006,168.377,38,183,0.0171321868473193,"Austronesian","Austronesian","Oceania",21,0,0,0.766960658653192
+"930",930,"Southeastern Pashayi","psi","uz",2227,TRUE,0,11,40,19,29,"sout2672","Indo-European",34.43099,70.30351,65,132,0.00676218653302253,"Indo-European","Indo-European","Indic",22,0,0,-1.52077530781562
+"931",931,"Southern Nuautl","nxl","ph",1061,TRUE,0,5,17,11,12,"sout2895","Austronesian",-3.23411,129.148,45,163,0.0188360046717172,"Austronesian","Austronesian","Oceania",21,0,0,1.14284158430869
+"932",932,"Southern Sama","ssb","gm",1667,TRUE,0,6,23,13,17,"sout2918","Austronesian",4.755836,119.483887,49,158,0.0190379064452214,"Austronesian","Austronesian","Oceania",23,0,0,1.18738333309752
+"933",933,"Southern Ute; Ute; Ute-Southern Paiute","ute","ph",1084,TRUE,0,18,37,23,19,"utes1238","Uto-Aztecan",40.0965,-110.305,68,37,0.00469261730439005,"Uto-Aztecan","Uto-Aztecan","Basin and Plains",21,0,0,-1.97734501041363
+"934",934,"Spanish","spa","uz",2210,TRUE,0,19,38,26,19,"stan1288","Indo-European",40.4414,-1.11788,68,94,0.00720625018162393,"Indo-European","Indo-European","Europe",22,0,0,-1.42280998963659
+"935",935,"Spokan","spo","ph",1016,TRUE,0,5,43,17,38,"spok1245","Salishan",47.9087,-118.062,72,33,0.00591143347921523,"Salishan","Salishan","Basin and Plains",21,0,0,-1.708460775587
+"936",936,"Squamish","squ","spa",68,TRUE,0,7,37,12,30,"squa1248","Salishan",49.3231,-123.014,72,30,0.0071591282503885,"Salishan","Salishan","Alaska-Oregon",24,0,0,-1.43320560522284
+"937",937,"Standard Chinese; Mandarin","cmn","ph",1047,TRUE,4,21,49,28,28,"mand1415","Sino-Tibetan",40.0209,116.228,68,156,0.00668135333974359,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",21,4,0,-1.53860799807059
+"940",940,"Subiya","sbs","ph",1202,TRUE,0,5,51,19,46,"subi1246","Atlantic-Congo",-17.5696,24.8867,38,108,0.00960946887451437,"Atlantic-Congo","Atlantic-Congo","S Africa",21,0,0,-0.89263355064113
+"941",941,"Sukuma","suk","gm",1568,TRUE,5,14,57,25,43,"suku1261","Atlantic-Congo",-3.16082,32.8765,45,112,0.0124231325740093,"Atlantic-Congo","Atlantic-Congo","S Africa",23,3,2,-0.271908435135792
+"944",944,"Sundanese","sun","spa",35,TRUE,0,7,26,15,19,"sund1252","Austronesian",-6.89708,107.106,43,151,0.0186173148873349,"Austronesian","Austronesian","Southeast Asia",24,0,0,1.0945962159319
+"945",945,"Suri","suq","ph",1209,TRUE,2,7,31,15,24,"suri1267","Surmic",6.03205,35.0823,50,113,0.015100198284188,"Surmic","Surmic","Greater Abyssinia",21,4,-2,0.3186816636256
+"946",946,"Sursurunga","sgz","ph",1174,TRUE,0,6,21,13,15,"surs1246","Austronesian",-3.99078,152.768,45,175,0.0189455591181041,"Austronesian","Austronesian","N Coast New Guinea",21,0,0,1.16701049845428
+"947",947,"Swahili","swh","spa",145,TRUE,0,5,36,15,31,"swah1253","Atlantic-Congo",-8.25605,37.624,43,115,0.0126152811590909,"Atlantic-Congo","Atlantic-Congo","S Africa",24,0,0,-0.229518346835483
+"948",948,"Swedish","swe","ph",1150,TRUE,0,17,35,22,18,"swed1254","Indo-European",59.800634,17.389526,78,104,0.00609368658255633,"Indo-European","Indo-European","Europe",21,2,-2,-1.66825373924399
+"949",949,"Swiss German","gsw","uz",2185,TRUE,0,24,56,31,32,"swis1247","Indo-European",47.0516,8.46419,71,99,0.00710502391472416,"Indo-European","Indo-European","Europe",22,0,0,-1.44514161591617
+"950",950,"Syan","say","gm",1370,TRUE,3,12,54,23,42,"saya1246","Afro-Asiatic",9.69441,9.71748,52,100,0.0149418736264569,"Afro-Asiatic","Afro-Asiatic","African Savannah",23,5,-2,0.283753505198166
+"952",952,"Tagalog","tgl","gm",1666,TRUE,0,5,24,12,19,"taga1270","Austronesian",14.06,121.747,54,159,0.018912183030303,"Austronesian","Austronesian","Oceania",23,0,0,1.15964736690477
+"956",956,"Tamambo; Malo","mla","ph",1051,TRUE,0,5,21,11,16,"malo1243","Austronesian",-15.6835,167.16,39,183,0.0179532961868687,"Austronesian","Austronesian","Oceania",21,0,0,0.948106397472585
+"957",957,"tamasheq","taq","aa",825,TRUE,0,21,43,28,22,"tama1365","Afro-Asiatic",14.2038,-2.41269,54,94,0.0116306839918415,"Afro-Asiatic","Afro-Asiatic","African Savannah",25,0,0,-0.446731296086248
+"958",958,"Tamazight Berber","tzm","gm",1609,TRUE,0,3,39,11,36,"cent2194","Afro-Asiatic",32.7415,-2.40872,64,94,0.00510458507051282,"Afro-Asiatic","Afro-Asiatic","N Africa",23,0,0,-1.88646039642904
+"959",959,"Tamil","tam","ph",1058,TRUE,0,12,33,22,21,"tami1289","Dravidian",10.520219,78.825989,52,136,0.0185667429292929,"Dravidian","Dravidian","Indic",21,0,0,1.08343948653934
+"960",960,"Tanacross","tcb","ph",1168,TRUE,5,14,54,20,40,"tana1290","Athapaskan-Eyak-Tlingit",63.4046,-143.338,80,20,0.00332147605122378,"Athapaskan-Eyak-Tlingit","Athapaskan-Eyak-Tlingit","Alaska-Oregon",21,2,3,-2.27983383055889
+"962",962,"Tapiete","tpi","ph",1038,TRUE,0,12,27,14,15,"tokp1240","Indo-European",-9.41971,147.303,42,172,0.0186935378593629,"Indo-European","Indo-European","S New Guinea",21,0,0,1.11141184074333
+"963",963,"Tarascan","tsz","spa",87,TRUE,0,6,32,13,26,"pure1242","Tarascan",19.2467,-101.631,57,42,0.0154803348135198,"Tarascan","Tarascan","Mesoamerica",24,0,0,0.40254395716112
+"964",964,"tarok ","yer","aa",826,TRUE,3,7,37,15,30,"taro1263","Atlantic-Congo",8.98356,10.0288,52,100,0.0149418736264569,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,2,1,0.283753505198166
+"965",965,"Tashlhiyt Berber","shi","uz",2229,TRUE,0,3,74,14,71,"tach1250","Afro-Asiatic",29.7854,-7.77879,62,91,0.00590453776398601,"Afro-Asiatic","Afro-Asiatic","N Africa",22,0,0,-1.70998204610449
+"966",966,"Tatana''; Tatanaq; Tatana'","txx","ph",1066,TRUE,0,4,21,12,17,"tata1257","Austronesian",5.49808,115.553,50,156,0.018413293978244,"Austronesian","Austronesian","Southeast Asia",21,0,0,1.04958696255749
+"967",967,"Tatuyo","tav","ph",1040,TRUE,0,6,17,9,11,"tatu1247","Tucanoan",0.55582,-70.5327,47,58,0.0180299208216783,"Tucanoan","Tucanoan","NE South America",21,0,0,0.965010633505228
+"968",968,"Tausug (Suluk)","tsg","uz",2212,TRUE,0,3,23,11,20,"taus1251","Austronesian",5.12236,118.88,50,157,0.0186642353787879,"Austronesian","Austronesian","Oceania",22,0,0,1.10494739168967
+"969",969,"teda","tuq","aa",828,TRUE,0,11,35,19,24,"teda1241","Saharan",18.0426,14.7717,56,103,0.00620554514335664,"Saharan","Saharan","African Savannah",25,0,0,-1.64357651215196
+"970",970,"Tee","tkq","gm",1386,TRUE,3,12,38,22,26,"teee1242","Atlantic-Congo",4.73213,7.37553,49,99,0.0185134842851593,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,2,1,1.0716900446862
+"972",972,"Telefol","tlf","spa",55,TRUE,2,8,27,14,19,"tele1256","Nuclear Trans New Guinea",-5.07444,141.731,44,169,0.0187430518337218,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","Interior New Guinea",24,3,-1,1.12233516731522
+"973",973,"Telugu","tel","spa",8,TRUE,0,21,68,35,47,"telu1262","Dravidian",16.4529,78.7024,56,136,0.0124097338879176,"Dravidian","Dravidian","Indic",24,0,0,-0.274864332449811
+"975",975,"Temne","tem","uz",2213,TRUE,2,13,36,20,23,"timn1235","Atlantic-Congo",8.90294,-12.3331,52,89,0.0163529372115385,"Atlantic-Congo","Atlantic-Congo","African Savannah",22,4,-2,0.595049630244091
+"976",976,"Tengger","tes","gm",1700,TRUE,0,22,42,30,20,"teng1272","Austronesian",-7.89069,113.037,43,154,0.0182971446639472,"Austronesian","Austronesian","Southeast Asia",23,0,0,1.02396314811738
+"979",979,"Tera","ttr","uz",2214,TRUE,3,15,53,23,38,"tera1251","Afro-Asiatic",11.0376,11.80953,53,101,0.0122868704384227,"Afro-Asiatic","Afro-Asiatic","African Savannah",22,3,0,-0.30196935885819
+"980",980,"Ternate","tft","ph",1044,TRUE,0,5,25,13,20,"tern1247","North Halmahera",0.80562,127.333,47,162,0.0187525773698524,"North Halmahera","North Halmahera","Oceania",21,0,0,1.12443660520774
+"981",981,"Tetun","tet","gm",1680,TRUE,0,5,18,10,13,"tetu1245","Austronesian",-9.11217,125.528,42,161,0.0180467343240093,"Austronesian","Austronesian","Oceania",23,0,0,0.96871987678769
+"982",982,"Tewa","tew","spa",93,TRUE,4,19,57,26,38,"tewa1260","Kiowa-Tanoan",35.9053,-106.124,66,39,0.00488366442599068,"Kiowa-Tanoan","Kiowa-Tanoan","Basin and Plains",24,2,2,-1.93519791705496
+"984",984,"Thai","tha","uz",2215,TRUE,5,21,47,28,26,"thai1261","Tai-Kadai",14.192,100.671,54,148,0.0180662993783994,"Tai-Kadai","Tai-Kadai","Southeast Asia",22,5,0,0.973036142675594
+"985",985,"Thakik","dec","gm",1430,TRUE,0,10,26,19,16,"dagi1241","Narrow Talodi",10.583,29.9404,52,111,0.0152365081353924,"Narrow Talodi","Narrow Talodi","African Savannah",23,2,-2,0.348753113937361
+"988",988,"Thulung; Thulung Rai","tdh","ph",1220,TRUE,0,8,38,15,30,"thul1246","Sino-Tibetan",27.5389,87.6063,61,141,0.0136147084446387,"Sino-Tibetan","Sino-Tibetan","Indic",21,0,0,-0.00903371060400818
+"990",990,"Tibetan","bod","ph",1067,TRUE,6,8,38,16,30,"tibe1272","Sino-Tibetan",28.3681,90.1872,62,142,0.00759827272746698,"Sino-Tibetan","Sino-Tibetan","Inner Asia",21,4,2,-1.33632551031065
+"991",991,"Ticuna","tca","spa",115,TRUE,9,11,38,17,27,"ticu1245","Ticuna-Yuri",-3.66289,-69.8723,45,58,0.0176327397863248,"Ticuna-Yuri","Ticuna-Yuri","NE South America",24,8,1,0.877388134735888
+"993",993,"Tigre","tig","spa",130,TRUE,0,7,54,18,47,"tigr1270","Afro-Asiatic",17.3494,38.2233,56,115,0.0119852854747475,"Afro-Asiatic","Afro-Asiatic","Greater Abyssinia",24,0,0,-0.3685023142521
+"994",994,"Tigrinya","tir","gm",1350,TRUE,0,7,39,14,32,"tigr1271","Afro-Asiatic",15.3359,38.9266,55,115,0.011394936216589,"Afro-Asiatic","Afro-Asiatic","Greater Abyssinia",23,0,0,-0.498739844602549
+"995",995,"tikar","tik","aa",832,TRUE,5,14,46,21,32,"tika1246","Atlantic-Congo",5.87004,11.6104,50,101,0.0163006410402098,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,4,1,0.583512520462875
+"999",999,"Tinputz","tpz","ph",1170,TRUE,0,14,26,19,12,"tinp1237","Austronesian",-5.58358,154.972,44,176,0.0190979505167055,"Austronesian","Austronesian","Oceania",21,2,-2,1.20062971475076
+"1000",1000,"Tira","tic","gm",1375,TRUE,0,16,42,25,26,"tira1254","Heibanic",11.0963,30.8092,53,111,0.0136004093560606,"Heibanic","Heibanic","African Savannah",23,3,-3,-0.0121882465959448
+"1001",1001,"Tiv","tiv","gm",1331,TRUE,3,6,40,13,34,"tivv1240","Atlantic-Congo",6.88039,9.26287,51,100,0.0165966920299145,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,2,1,0.648824620417432
+"1002",1002,"Tiwa","tix","spa",92,TRUE,3,12,41,18,29,"sout2961","Kiowa-Tanoan",34.7873,-106.661,65,39,0.00513874003457653,"Kiowa-Tanoan","Kiowa-Tanoan","Basin and Plains",24,2,1,-1.87892543622135
+"1004",1004,"Toba (Argentina)","tob","ph",1045,TRUE,0,7,28,15,21,"toba1269","Guaicuruan",-24.40253,-60.4472866667,34,63,0.0114692239963092,"Guaicuruan","Guaicuruan","SE South America",21,0,0,-0.482351144469077
+"1005",1005,"Toba-Batak","bbc","ph",1099,TRUE,0,9,27,16,18,"bata1289","Austronesian",2.35498,99.1761,48,147,0.0183198359110334,"Austronesian","Austronesian","Southeast Asia",21,0,0,1.02896908645004
+"1006",1006,"Tocco","taz","gm",1429,TRUE,2,10,27,20,17,"toch1257","Narrow Talodi",10.8828,30.1567,53,111,0.0136004093560606,"Narrow Talodi","Narrow Talodi","African Savannah",23,3,-1,-0.0121882465959448
+"1007",1007,"Tolowa; Tolowa-Chetco","tol","ph",1069,TRUE,0,5,31,10,26,"tolo1259","Athapaskan-Eyak-Tlingit",41.9192,-124.1,69,30,0.00752633479623155,"Athapaskan-Eyak-Tlingit","Athapaskan-Eyak-Tlingit","California",21,2,-2,-1.35219580805922
+"1008",1008,"Tongan; Tonga","ton","ph",1086,TRUE,0,5,17,9,12,"tong1325","Austronesian",-21.17,-175.25,36,3,0.015774931497669,"Austronesian","Austronesian","Oceania",21,0,0,0.467535221337015
+"1010",1010,"Torwali","trw","ph",1219,TRUE,0,14,51,21,37,"torw1241","Indo-European",35.3101,72.5316,65,133,0.00991347902719503,"Indo-European","Indo-European","Indic",21,4,-4,-0.825565571915964
+"1014",1014,"Toura","neb","gm",1637,TRUE,4,14,39,20,25,"tour1242","Mande",7.76747,-7.33105,51,91,0.0175634382187257,"Mande","Mande","African Savannah",23,4,0,0.862099447761544
+"1018",1018,"Tshangla","tsj","ph",1221,TRUE,0,5,37,13,32,"tsha1245","Sino-Tibetan",27.3694,91.7741,61,143,0.0134201578290598,"Sino-Tibetan","Sino-Tibetan","Indic",21,0,0,-0.0519537132143149
+"1020",1020,"Tukang Besi","khc","ph",1152,TRUE,0,5,29,10,24,"tuka1248","Austronesian",-5.30994,123.578,44,160,0.0185541485042735,"Austronesian","Austronesian","Oceania",21,0,0,1.08066101805133
+"1024",1024,"Turkish","tur","uz",2217,TRUE,0,12,36,18,24,"nucl1301","Turkic",39.8667,32.8667,68,112,0.00578964780167055,"Turkic","Turkic","Greater Mesopotamia",22,0,0,-1.73532803366564
+"1025",1025,"Tuva; Tuvan","tyv","ph",1225,TRUE,0,16,37,23,21,"tuvi1240","Turkic",48.436,92.6693,72,144,0.00381078085916861,"Turkic","Turkic","Inner Asia",21,0,0,-2.17188781573011
+"1026",1026,"Twampa","udu","gm",1485,TRUE,0,5,28,11,23,"uduk1239","Koman",9.16012,34.2293,52,113,0.0151010292216395,"Koman","Koman","Greater Abyssinia",23,0,0,0.318864977553862
+"1027",1027,"Tzeltal","tzh","spa",86,TRUE,0,5,30,12,25,"tzel1254","Mayan",16.6384,-92.2786,56,47,0.015216641497669,"Mayan","Mayan","Mesoamerica",24,0,0,0.344370315453742
+"1029",1029,"Tzutujil","tzj","ph",1223,TRUE,0,10,35,16,25,"tzut1248","Mayan",14.6351,-91.2012,55,47,0.0169066000524476,"Mayan","Mayan","Mesoamerica",21,0,0,0.717193734010296
+"1030",1030,"Ukrainian","ukr","ph",1035,TRUE,0,6,30,12,24,"ukra1253","Indo-European",48.175842,24.395786,72,108,0.00698520402583528,"Indo-European","Indo-European","Inner Asia",21,0,0,-1.47157519942643
+"1031",1031,"umbundu","umb","gm",1268,TRUE,0,10,30,20,20,"umbu1257","Atlantic-Congo",-12.4763,14.4148,41,103,0.0125521601285936,"Atlantic-Congo","Atlantic-Congo","S Africa",23,2,-2,-0.243443539442292
+"1033",1033,"Urii","uvh","ph",983,TRUE,0,8,24,14,16,"urii1240","Nuclear Trans New Guinea",-6.41993,146.608,44,172,0.016431737020202,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","N Coast New Guinea",21,0,0,0.612433733519557
+"1034",1034,"Usarufa","usa","ph",870,TRUE,0,5,22,16,17,"usar1243","Nuclear Trans New Guinea",-6.38898,145.633,44,171,0.0169529563714064,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","Interior New Guinea",21,4,-4,0.727420447119354
+"1037",1037,"Vai","vai","ph",1034,TRUE,4,11,43,18,32,"vaii1241","Mande",7.05085,-11.3262,51,89,0.0183165141802642,"Mande","Mande","African Savannah",21,2,2,1.02823627615869
+"1039",1039,"Vietnamese","vie","uz",2233,TRUE,5,16,45,23,29,"viet1252","Austroasiatic",20.681188,105.774071,58,151,0.0159176864656177,"Austroasiatic","Austroasiatic","Southeast Asia",22,5,0,0.499028535191413
+"1040",1040,"vute","vut","aa",837,TRUE,5,24,59,32,35,"vute1244","Atlantic-Congo",6.13603,11.8839,50,101,0.0163006410402098,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,11,-6,0.583512520462875
+"1041",1041,"Wa","wbm","ph",1028,TRUE,0,22,49,34,27,"nucl1290","Austroasiatic",23.1024,99.108,59,147,0.0127122379887335,"Austroasiatic","Austroasiatic","Southeast Asia",21,5,-5,-0.208128605307475
+"1043",1043,"Wambon","wms","ph",1029,TRUE,0,10,26,15,16,"wamb1259","Nuclear Trans New Guinea",-5.44334,140.48,44,169,0.0187430518337218,"Nuclear Trans New Guinea","Nuclear Trans New Guinea","Interior New Guinea",21,2,-2,1.12233516731522
+"1045",1045,"Wanano","gvc","ph",1113,TRUE,2,6,24,9,18,"guan1269","Tucanoan",1.07554,-69.5705,48,58,0.0182160281002331,"Tucanoan","Tucanoan","NE South America",21,0,2,1.00606794323206
+"1046",1046,"Wapishana","wap","spa",108,TRUE,0,12,29,16,17,"wapi1253","Arawakan",2.58744,-59.8021,48,64,0.0177676056954157,"Arawakan","Arawakan","NE South America",24,0,0,0.907141035558118
+"1047",1047,"Wari; Wari''; Wariʔ; Oro Nao'","pav","ph",1237,TRUE,0,6,20,12,14,"wari1268","Chapacuran",-10.69948,-64.56152,41,61,0.0156293154079254,"Chapacuran","Chapacuran","NE South America",21,0,0,0.435410712590019
+"1048",1048,"Warihio","var","ph",1033,TRUE,0,14,26,19,12,"huar1255","Uto-Aztecan",27.8685,-108.437,61,38,0.0117146859755245,"Uto-Aztecan","Uto-Aztecan","Mesoamerica",21,0,0,-0.428199535864276
+"1049",1049,"Washkuk","kmo","spa",53,TRUE,0,7,31,14,24,"kwom1262","Sepik",-4.08721,142.664,45,170,0.0174953291414141,"Sepik","Sepik","N Coast New Guinea",24,0,0,0.847073837242137
+"1051",1051,"Wayana","way","ph",1031,TRUE,0,7,16,12,9,"waya1269","Cariban",2.77537,-54.4429,48,66,0.0174214727253302,"Cariban","Cariban","NE South America",21,0,0,0.830780300664642
+"1052",1052,"Weh","weh","gm",1415,TRUE,3,7,47,16,40,"wehh1238","Atlantic-Congo",6.46164,10.121,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,3,0,0.843450909078256
+"1053",1053,"Welamo","wal","gm",1364,TRUE,0,10,48,11,38,"wola1242","Ta-Ne-Omotic",6.32668,37.7537,50,115,0.0127948201095571,"Ta-Ne-Omotic","Ta-Ne-Omotic","Greater Abyssinia",23,0,0,-0.189910082427109
+"1058",1058,"Wichita","wic","spa",74,TRUE,0,8,29,13,21,"wich1260","Caddoan",35.0665,-98.1831,65,43,0.00783537847513597,"Caddoan","Caddoan","Basin and Plains",24,2,-2,-1.28401737816421
+"1059",1059,"Wik-Munkan","wim","spa",51,TRUE,0,10,23,18,13,"wikm1247","Pama-Nyungan",-13.98051,141.81611,40,169,0.0177524565831391,"Pama-Nyungan","Pama-Nyungan","N Australia",24,0,0,0.903798975002201
+"1061",1061,"Wogeo","woc","ph",1032,TRUE,0,5,20,12,15,"woge1237","Austronesian",-3.20238,144.089,45,171,0.0173973739607615,"Austronesian","Austronesian","N Coast New Guinea",21,0,0,0.825463848516105
+"1062",1062,"Wolof","wol","spa",138,TRUE,0,14,40,25,26,"nucl1347","Atlantic-Congo",15.2534,-15.383,55,87,0.0135897624467754,"Atlantic-Congo","Atlantic-Congo","African Savannah",24,0,0,-0.0145370717227776
+"1064",1064,"Wu","wuu","spa",17,TRUE,3,9,41,18,32,"wuch1236","Sino-Tibetan",29.8621,119.682,62,158,0.0123349556559829,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",24,6,-3,-0.2913612317286
+"1066",1066,"Xhosa","xho","gm",1319,TRUE,2,7,84,17,77,"xhos1239","Atlantic-Congo",-31.0389,28.0769,31,110,0.00833771688675214,"Atlantic-Congo","Atlantic-Congo","S Africa",23,3,-1,-1.17319600721316
+"1067",1067,"Xumi","sxg","uz",2230,TRUE,2,13,66,27,53,"shix1238","Sino-Tibetan",28.3895,100.4,62,148,0.0079567952472805,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",22,4,-2,-1.25723150466866
+"1069",1069,"Yakut","sah","spa",190,TRUE,0,16,49,29,33,"yaku1245","Turkic",61.6974,133.98,79,165,0.00413184070843046,"Turkic","Turkic","Inner Asia",24,0,0,-2.10105848667669
+"1070",1070,"yala","yba","gm",1288,TRUE,3,7,38,17,31,"yala1263","Atlantic-Congo",6.73852,8.60748,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,3,0,0.843450909078256
+"1074",1074,"yao","yao","gm",1267,TRUE,4,7,29,14,22,"yaoo1241","Atlantic-Congo",-13.6119,35.2387,40,114,0.0117131249508547,"Atlantic-Congo","Atlantic-Congo","S Africa",23,4,0,-0.428543915051683
+"1075",1075,"Yao","ium","spa",20,TRUE,6,8,49,23,41,"iumi1238","Hmong-Mien",20.83,101.17,58,148,0.0136582032284382,"Hmong-Mien","Hmong-Mien","Southeast Asia",24,8,-2,0.000561716419722545
+"1077",1077,"Yapese","yap","ph",1024,TRUE,0,16,44,27,28,"yape1248","Austronesian",9.55811,138.125,52,168,0.0194136046095571,"Austronesian","Austronesian","Oceania",21,0,0,1.27026647456687
+"1078",1078,"Yay","pcc","spa",28,TRUE,6,8,38,15,30,"bouy1240","Tai-Kadai",24.8484,106.187,60,151,0.0130511742954545,"Tai-Kadai","Tai-Kadai","Southeast Asia",24,4,2,-0.133355533395537
+"1079",1079,"Yemba","ybb","gm",1655,TRUE,3,7,27,12,20,"yemb1246","Atlantic-Congo",5.47421,10.0214,50,100,0.0174789068939394,"Atlantic-Congo","Atlantic-Congo","African Savannah",23,3,0,0.843450909078256
+"1080",1080,"Yemsa","jnj","gm",1479,TRUE,5,10,40,18,30,"yems1235","Ta-Ne-Omotic",7.79821,37.4412,51,115,0.0125021268723776,"Ta-Ne-Omotic","Ta-Ne-Omotic","Greater Abyssinia",23,0,5,-0.254481425295302
+"1081",1081,"Yeyi","yey","ph",853,TRUE,0,13,90,30,77,"yeyi1239","Atlantic-Congo",-18.9178,23.6088,37,107,0.0085931970975136,"Atlantic-Congo","Atlantic-Congo","S Africa",21,2,-2,-1.11683426669574
+"1082",1082,"Yil","yll","ph",979,TRUE,0,11,23,18,12,"yill1241","Nuclear Torricelli",-3.46501,142.178,45,170,0.0174953291414141,"Nuclear Torricelli","Nuclear Torricelli","N Coast New Guinea",21,0,0,0.847073837242137
+"1083",1083,"Yine","pib","ph",1153,TRUE,0,10,26,16,16,"yine1238","Arawakan",-11.1086,-73.3087,41,57,0.0111739118329448,"Arawakan","Arawakan","Andean",21,0,0,-0.54750025121819
+"1085",1085,"yorouba","yor","aa",847,TRUE,0,12,31,18,19,"yoru1245","Atlantic-Congo",7.15345,3.67225,51,97,0.0177036213131313,"Atlantic-Congo","Atlantic-Congo","African Savannah",25,3,-3,0.893025378064598
+"1086",1086,"Yukaghir","ykg","spa",193,TRUE,0,12,32,21,20,"nort2745","Yukaghir",65.3874,151.318,81,174,0.00324277039698912,"Yukaghir","Yukaghir","N Coast Asia",24,0,0,-2.29719716233322
+"1088",1088,"Yuki","yuk","ph",1023,TRUE,0,6,30,15,24,"yuki1243","Yuki-Wappo",39.8389,-123.296,68,30,0.00820180974864025,"Yuki-Wappo","Yuki-Wappo","California",21,0,0,-1.20317861459359
+"1089",1089,"Yuma","yum","ph",952,TRUE,0,10,38,20,28,"quec1382","Cochimi-Yuman",32.7859,-114.599,64,35,0.00646814211771562,"Cochimi-Yuman","Cochimi-Yuman","Basin and Plains",21,0,0,-1.58564473541916
+"1090",1090,"Yurak","yrk","spa",185,TRUE,0,8,34,19,26,"nene1249","Uralic",66.1775,71.0234,81,132,0.00402174129327894,"Uralic","Uralic","Inner Asia",24,0,0,-2.12534762691732
+"1091",1091,"Yurok","yur","ph",1025,TRUE,0,12,35,18,23,"yuro1248","Algic",41.3262,-123.824,68,30,0.00820180974864025,"Algic","Algic","California",21,0,0,-1.20317861459359
+"1092",1092,"Zaiwa","atb","ph",1229,TRUE,3,8,32,15,24,"zaiw1241","Sino-Tibetan",24.1726,98.3643,59,147,0.0127122379887335,"Sino-Tibetan","Sino-Tibetan","Southeast Asia",21,4,-1,-0.208128605307475
+"1093",1093,"zande","zne","aa",849,TRUE,3,5,32,11,27,"zand1248","Atlantic-Congo",4.62047,26.7157,49,109,0.01733265245338,"Atlantic-Congo","Atlantic-Congo","S Africa",25,2,1,0.811185573130076
+"1095",1095,"zarma ","dje","aa",850,TRUE,4,16,40,24,24,"zarm1239","Songhay",12.8554,2.41173,54,96,0.0115744677276612,"Songhay","Songhay","African Savannah",25,6,-2,-0.4591332214062
+"1098",1098,"Zulu","zul","spa",147,TRUE,3,5,43,13,38,"zulu1248","Atlantic-Congo",-25.3305,31.3512,34,111,0.00920187392579642,"Atlantic-Congo","Atlantic-Congo","S Africa",24,3,0,-0.982553473078115

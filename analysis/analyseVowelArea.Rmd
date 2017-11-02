@@ -1,0 +1,136 @@
+---
+title: "Vowel area and humidity"
+output: pdf_document
+---
+
+```{r echo=F, eval=F}
+setwd("~/Documents/MPI/ClimateAndLanguage/PHOIBLE_Replication/analysis/")
+```
+
+
+# Load libraries
+
+```{r warning=F, message=F}
+library(ggplot2)
+library(lme4)
+library(sjPlot)
+```
+
+# Load data
+
+The data comes from Becker's (2010) corpus of vowel measurements (the script to wrangle the data came from Marton Soskuthy).  For each language, the F1 and F2 measures of all vowels were taken, then the area of the convex hull of the points was calculated.  This is the `area' that a vowel system takes up.
+
+We hypothesised that vowel areas are more restricted in drier climates.
+
+```{r}
+
+d  = read.csv("../data/BeckerVowelCorpus_Area.csv", stringsAsFactors = F)
+
+ggplot(d, aes(x=specH.mean, y = area)) + 
+  geom_point() + geom_smooth(method='lm')
+
+d$area.scaled = scale(d$area)
+d$specH.mean.scled = scale(d$specH.mean)
+
+```
+
+![Polygons for the convex hull of the F1 and F2 measures for langauges from the Becker corpus.](../results/VowelPolygons.pdf)
+
+# Mixed effects modelling
+
+The full model structure, including slopes:
+
+```{r}
+m0.full = lmer(area.scaled ~
+            1 + 
+            (1+specH.mean.scled|family) + 
+            (1+specH.mean.scled|autotyp.area),
+          data = d)
+```
+
+However, the slopes and intercepts are exactly correlated, suggesting overfitting:
+
+```{r}
+cor(ranef(m0.full)$family)
+cor(ranef(m0.full)$autotyp.area)
+```
+
+Instead, a null model with only intercepts is used.  We then add the number of vowels in the system and the mean specific humidity.
+
+```{r}
+
+m0 = lmer(area.scaled ~
+            1 + 
+            (1|family) + 
+            (1|autotyp.area),
+          data = d)
+
+# Add number of vowels:
+m1 = lmer(area.scaled ~
+            1 + numVowels +
+            (1|family) + 
+            (1|autotyp.area),
+          data = d)
+# Add humidity:
+m2 = lmer(area.scaled ~
+            1 + numVowels +
+            specH.mean.scled +
+            (1|family) + 
+            (1|autotyp.area),
+          data = d)
+
+```
+
+Test the influence of humidity:
+
+```{r}
+anova(m0,m1,m2)
+summary(m2)
+```
+
+# Plots
+
+Fixed effect estimate:
+
+```{r}
+gx = sjp.lmer(m2, "eff", show.ci = T, show.scatter = T,
+              prnt.plot = F, facet.grid = F)
+
+# Rescale variables
+gx$plot.list[[2]]$data$x = (gx$plot.list[[2]]$data$x
+                            *attr(d$specH.mean.scled,"scaled:scale")) +
+  attr(d$specH.mean.scled,"scaled:center")
+
+gx$plot.list[[2]]$data$y = (gx$plot.list[[2]]$data$y *
+                              attr(d$area.scaled,"scaled:scale")) +
+  attr(d$area.scaled,"scaled:center")
+
+gx$plot.list[[2]]$data$lower = (gx$plot.list[[2]]$data$lower *
+                                  attr(d$area.scaled,"scaled:scale")) +
+  attr(d$area.scaled,"scaled:center")
+
+gx$plot.list[[2]]$data$upper = (gx$plot.list[[2]]$data$upper *
+                                  attr(d$area.scaled,"scaled:scale")) +
+  attr(d$area.scaled,"scaled:center")
+
+
+gxx = gx$plot.list[[2]] + 
+  theme(plot.title = element_blank(), plot.subtitle = element_blank()) +
+  xlab("Specific humidity") +
+  ylab("Vowel Area (Hz)") +
+  geom_point(data=d, aes(x=specH.mean, y=area), alpha=0.3)
+gxx
+pdf("../results/VowelSpace_and_humidity.pdf",
+    width=5, height=5)
+gxx
+dev.off()
+```
+
+
+Random effects:
+
+```{r}
+sjp.lmer(m1,'re', sort.est = "(Intercept)")
+
+```
+

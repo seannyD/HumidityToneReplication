@@ -1,0 +1,37 @@
+Number of observations 1100
+RUNNING TESTS ON Family 
+
+Difference between complex and non-complex humidity
+0.15 th Test 2: 0.8476
+0.15 th Test 3: 0.855
+0.25 th Test 2: 0.9092
+0.25 th Test 3: 0.9062
+0.5 th Test 2: 0.8724
+0.5 th Test 3: 0.8662
+0.75 th Test 2: 0.6938
+0.75 th Test 3: 0.7146
+Difference in means
+0.9452
+0.9396
+
+
+
+
+Correlations
+RUNNING TESTS ON Family 
+
+r nan
+p 0.373629236444
+
+
+
+
+Low humidity correlations
+RUNNING TESTS ON Family 
+
+Low H r nan
+Low H p 0.419520516374
+
+
+
+

@@ -1,0 +1,123 @@
+---
+title: "Comparing ANU and PHOIBLE estimates for tone"
+output: pdf_document
+---
+
+# Load libraries
+
+```{r message=F, warning=F}
+library(lme4)
+library(psych)
+library(ggplot2)
+library(sjPlot)
+```
+
+
+# Load data
+
+```{r}
+
+combined = read.csv("../data/phoibleAndANU_combined.csv", stringsAsFactors = F)
+
+gx = ggplot(combined, aes(x = Tones, y=ANU.Tones)) + 
+  geom_count() + #scale_size_area(breaks=c(0,5,10,50,100,200,500)) +
+  scale_y_continuous(breaks=c(0,2,4,6,8,10,12)) +
+  scale_x_continuous(breaks=c(0,2,4,6,8,10)) +
+  stat_smooth(method='lm') +
+  xlab("Number of tones (PHOIBLE)") +
+  ylab("Number of tones (ANU)")
+
+pdf('../results/ANU_vs_PHOIBLE.pdf', width = 4.5, height = 4)
+gx
+dev.off()
+
+```
+
+# Test agreement
+
+Look at correlation and weighted kappa:
+
+```{r}
+cor.test(combined$Tones, combined$ANU.Tones)
+cohen.kappa(cbind(combined$Tones, combined$ANU.Tones))
+```
+
+Test agreement on tone vs non-tone:
+
+```{r}
+tx = table(combined$ANU.Tones, combined$Tones)
+write.csv(tx,"../results/ANU_vs_PHOIBLE.csv")
+
+tx2 = table(as.numeric(combined$ANU.Tones>0),combined$Tones>0)
+
+sum(diag(tx2)/sum(tx2))
+
+cohen.kappa(x=tx2)
+
+tx3 = table(as.numeric(combined$ANU.Tones>=3),combined$Tones>=3)
+
+sum(diag(tx3)/sum(tx3))
+
+cohen.kappa(x=tx3)
+```
+
+# Are the differences biased?
+
+Calculate the difference and plot
+
+```{r}
+combined$Tones.diff = combined$Tones -combined$ANU.Tones
+combined$Tones.diff.center = scale(combined$Tones.diff)
+
+plot(combined$Tones.diff, combined$specH.mean)
+
+cor.test(combined$Tones.diff, combined$specH.mean)
+
+```
+
+
+Test for biases in langauge families, areas and by humidity:
+
+```{r}
+m3 = lmer(Tones.diff.center ~ 1 + (1|Family) +  (1|autotyp.area),
+           data = combined)
+
+m.familyInt = lmer(Tones.diff.center ~ 1 + (1|autotyp.area),
+           data = combined)
+
+m.areaInt = lmer(Tones.diff.center ~ 1 + (1|Family),
+           data = combined)
+
+combined$specH.mean.center = scale(combined$specH.mean)
+
+m.specHMean = lmer(Tones.diff.center ~ 1 + specH.mean.center + 
+                     (1|Family) +  (1|autotyp.area),
+                    data = combined)
+
+```
+
+Contribution of intercept for family:
+
+```{r}
+anova(m3,m.familyInt)
+```
+
+Contribution of intercept for area:
+
+```{r}
+anova(m3,m.areaInt)
+```
+
+Contribution of humidity:
+
+```{r}
+anova(m3,m.specHMean)
+```
+
+Plot random effects:
+
+```{r}
+sjp.glmer(m3, 're', sort.est = "(Intercept)")
+
+plot(combined$Tones.diff.center,predict(m3r))
+```
