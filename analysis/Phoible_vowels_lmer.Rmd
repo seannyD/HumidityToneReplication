@@ -170,6 +170,26 @@ anova(m0,m1,m2,m3)
 summary(m3)
 ```
 
+Note that random slope and intercept for area are exactly correlated.  Removing the random slope (or the intercept) just makes the relationship very slighlty weaker, though slighly more significant.  Essentially, there is little difference:
+
+```{r}
+m1b = lmer(prop.vowels.scaled ~ 1 +
+            inventorySize +
+            (1+specH.mean.center|Family) +
+            (1|autotyp.area),
+          data=p)
+
+m2b = lmer(prop.vowels.scaled ~ 
+            specH.mean.center + 
+            inventorySize +
+            (1+specH.mean.center|Family) +
+            (1|autotyp.area),
+          data=p)
+anova(m1b,m2b)
+summary(m2b)
+```
+
+
 ## Summary:
 
 `r getMEText(anova(m1,m2), "main effect of humidity",summary(m3)$coef['specH.mean.center',])`  
