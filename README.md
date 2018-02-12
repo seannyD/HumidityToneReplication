@@ -1,6 +1,10 @@
 # HumidityToneReplication
 
-These are the supplementary materials for XXX.
+These are the supplementary materials for Roberts (2018).
+
+Roberts, S. (2018). Robust, causal and incremental approaches to investigating linguistic adaptation. Frontiers in Psychology, 9, 166.
+
+[https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00166/full](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00166/full)
 
 ## Study 1: Replication of independent samples test for humidity and tone
 
